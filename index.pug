@@ -1,0 +1,90 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="utf-8")
+    meta(http-equiv="x-ua-compatible" content="ie=edge")
+    meta(name="description" content="A free and open source service to check for duplicate items in Path of Exile")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    link(rel="stylesheet" href="stylesheets/index-min.css")
+    script(src="javascript/polyfill-min.js")
+    title Path of Duplicates
+
+  body
+    div(id="signin")
+      div(id="signin-message")
+        p You must #[a(href="https://www.pathofexile.com/my-account" target="_blank") sign-in to your Path of Exile account].
+      div(id="signin-button")
+        button(type="button" name="close" value="close") &times;
+
+    header
+      h1: a(href="index.html") Path of Duplicates
+
+    main
+      div(class="container")
+        div(id="forms")
+          input(id="url-tab" type="radio" name="tabs" checked)
+          label(for="url-tab" class="tab-label") Link
+
+          input(id="stashtab-tab" type="radio" name="tabs")
+          label(for="stashtab-tab" class="tab-label") Stashtab
+
+          section(id="url-section")
+            h3 Create A Link
+               
+            form(id="url")
+              fieldset
+                label(for="username") Account Name
+                input(type="text" id="username" class="validate" name="username" placeholder="Account Name" required)
+                ul(id="username-hints")
+                  li What is my #[a(href="images/accountname.png" id="username-help" tabindex="-1" target="_blank") Account Name?]
+                  li Please enter letters, numbers or an underscore
+                  li Please enter 3 or more characters
+
+                label(for="index") Tab Index
+                input(type="text" id="index" class="validate" name="index" placeholder="Tab Index" required)
+                ul(id="index-hints")
+                  li What is a #[a(href="images/tabindex.png" id="index-help" tabindex="-1" target="_blank") Tab Index?]
+                  li Please enter a positive number
+
+                label(for="league") League
+                select(id="league" class="validate" name="league" required)
+                  option(value="" disabled selected hidden) League
+                  option(value="standard") Standard
+                  option(value="hardcore") Hardcore
+                  option(value="synthesis") Synthesis
+                  option(value="hardcore synthesis") Hardcore Synthesis
+                ul(id="league-hints")
+                  li What is my #[a(href="images/league.png" id="league-help" tabindex="-1" target="_blank") League?]
+                  li Please select a league
+
+                div(id="url-buttons")
+                  button(type="submit" name="submit" value="submit") Submit
+                  button(type="reset" name="reset" value="reset") Clear
+
+          section(id="stashtab-section")
+            h3 Stashtab
+            
+            form(id="stashtab" action="stashtab.php" method="post")
+              fieldset
+                ul(id="message")
+                
+                label(for="stash") Stashtab Data
+                textarea(id="stash" class="validate" name="stash" rows="10" cols="50" placeholder="Stashtab" required)
+                ul(id="stashtab-hints")
+                  li What is #[a(href="images/stashtab.png" target="_blank") Stashtab Data?]
+                  li Please enter a JSON object
+
+                div(id="stashtab-buttons")
+                  button(type="submit" name="submit" value="submit") Submit
+                  button(type="reset" name="reset" value="reset") Clear
+        
+        div(id="loader")        
+        div(id="items")
+        div(class="push")
+
+    footer
+      div(class="container")
+        a(href="https://github.com/braycarlson" target="_blank"): img(src="images/github.png" alt="Github Logo")
+        p Path of Duplicates is not affiliated, associated, endorsed by, or connected to Path of Exile or Grinding Gear Games. All item names, images and artwork are property of their respective owners. All item names, images and artwork used in this website are for identification purposes only.
+
+    script(src="javascript/index-min.js")

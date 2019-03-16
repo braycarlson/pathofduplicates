@@ -1,0 +1,71 @@
+/* Animation */
+
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeout {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes spin {
+    100% {
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+ul {
+    li {
+        -webkit-transition: color 500ms;
+        -moz-transition: color 500ms;
+        -ms-transition: color 500ms;
+         -o-transition: color 500ms;
+            transition: color 500ms;
+    }
+}
+
+input[type=text],
+input[type=number],
+select,
+textarea, {
+    -webkit-transition: border 500ms;
+       -moz-transition: border 500ms;
+        -ms-transition: border 500ms;
+         -o-transition: border 500ms;
+            transition: border 500ms;
+}
+
+#url-tab:checked ~ #url-section,
+#stashtab-tab:checked ~ #stashtab-section {
+    animation: fadein 500ms ease-in-out;
+}
+
+#items {
+    animation: fadein 1s ease-in-out;
+}
+
+#loader {
+    animation: spin 1s linear infinite;
+}
+
+.fadein {
+    animation: fadein 500ms ease-in-out;
+}
+
+.fadeout {
+    animation: fadeout 500ms ease-in-out;
+}

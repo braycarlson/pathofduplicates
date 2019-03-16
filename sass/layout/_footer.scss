@@ -1,0 +1,42 @@
+/* Footer */
+
+footer {
+    height: auto;
+    margin: 75px auto 0;
+    padding: 20px 0;
+    width: 100%;
+    display: inline-block;
+
+    a {
+        @include center;
+        display: table;
+    }
+
+    img {
+        width: 32px;
+        height: 32px;
+        opacity: 0.5;
+    }
+
+    img:hover {
+        opacity: 1;
+    }
+
+    p {
+        width: 50%;
+        margin: 20px auto 0;
+        text-align: center;
+    }
+}
+
+.push {
+    height: 75px;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: $breakpoint-med) {
+    footer, footer p {
+        width: 100%;
+    }
+}

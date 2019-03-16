@@ -1,0 +1,2024 @@
+{
+  "numTabs": 11,
+  "items": [
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring4Unique.png?scale=1&w=1&h=1&v=53570d8ca34bd52e506a93361eae7680",
+      "league": "Standard",
+      "id": "25e2e613f378e2efcbb71c1e57de993ac0f0b7ae13166258175b8d2b3b9c4451",
+      "name": "Andvarius",
+      "typeLine": "Gold Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "10% increased Rarity of Items found"
+      ],
+      "explicitMods": [
+        "+10 to Dexterity",
+        "67% increased Rarity of Items found",
+        "-20% to all Elemental Resistances"
+      ],
+      "flavourText": [
+        "Danger is the price of wealth."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 3,
+      "y": 0,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 29,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring6.png?scale=1&w=1&h=1&v=23acb19022be4c89b3260db63dd1ca05",
+      "league": "Standard",
+      "id": "2369998a1de94cc0cb408b08f209382ebf3c905866713dc77bbe37d4bbadf2f1",
+      "name": "",
+      "typeLine": "Sapphire Ring",
+      "identified": false,
+      "implicitMods": [
+        "+29% to Cold Resistance"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 3,
+      "y": 11,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 32,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet7.png?scale=1&w=1&h=1&v=ecac1e6f4574572eeef0379d955811cd",
+      "league": "Standard",
+      "id": "040bd86011bada9aebcf3b3be2f00ef31f0b85eab356ebc891fec42523b3d69c",
+      "name": "",
+      "typeLine": "Onyx Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+13 to all Attributes"
+      ],
+      "frameType": 0,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 4,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 14,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring6.png?scale=1&w=1&h=1&v=23acb19022be4c89b3260db63dd1ca05",
+      "league": "Standard",
+      "id": "33c7d99dc14dca3680fe9fda92c1456edcd19b4f4b240d186e317c5c40b680b8",
+      "name": "",
+      "typeLine": "Sapphire Ring of the Crystal",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+22% to Cold Resistance"
+      ],
+      "explicitMods": [
+        "+3% to all Elemental Resistances"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 2,
+      "y": 8,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 21,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring6.png?scale=1&w=1&h=1&v=23acb19022be4c89b3260db63dd1ca05",
+      "league": "Standard",
+      "id": "f0da4ae8e25e5f838a8e0dae5a5d7f0e570d1b267b3166a10dd30302ccd5ef18",
+      "name": "",
+      "typeLine": "Sapphire Ring",
+      "identified": false,
+      "implicitMods": [
+        "+20% to Cold Resistance"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 2,
+      "y": 2,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 21,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring5.png?scale=1&w=1&h=1&v=d645f9adfc012c52674c94d16b4292b2",
+      "league": "Standard",
+      "id": "3a1ce10e550340029a0f3f33e9db72cc676ffd11c9d96cdd4fc32431f382ec39",
+      "name": "",
+      "typeLine": "Topaz Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "12",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+26% to Lightning Resistance"
+      ],
+      "frameType": 0,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 2,
+      "y": 5,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 22,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring3.png?scale=1&w=1&h=1&v=bc351f5121b5d5d052733fa5be0f79ca",
+      "league": "Standard",
+      "id": "0a5e742fc51c7137b179456e09627a55c0f3cbc3ae6f526d2ea74d2329d1e7a5",
+      "name": "Blight Finger",
+      "typeLine": "Paua Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "12",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+25 to maximum Mana"
+      ],
+      "explicitMods": [
+        "+32 to Accuracy Rating",
+        "+1 to maximum Energy Shield",
+        "10% increased Light Radius",
+        "9% increased Elemental Damage with Attack Skills"
+      ],
+      "veiledMods": [
+        "Suffix04"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 1,
+      "y": 8,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 22,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring4.png?scale=1&w=1&h=1&v=6ef89e2afcf83dc3cc86b1522597ed2b",
+      "league": "Standard",
+      "id": "2667d7302b057c8448325b5fb769625db2dab8a869d218dfeca3625e6185be50",
+      "name": "",
+      "typeLine": "Gold Ring",
+      "identified": false,
+      "implicitMods": [
+        "8% increased Rarity of Items found"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 0,
+      "y": 6,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 22,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring2.png?scale=1&w=1&h=1&v=ea80f60b4a8ead920044707ed6569849",
+      "league": "Standard",
+      "id": "361ae962fdf2e3cfee9039eb4b1b89ee4111fd4badfc457210ce282dea1791bb",
+      "name": "Dread Twirl",
+      "typeLine": "Coral Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+30 to maximum Life"
+      ],
+      "explicitMods": [
+        "+14 to Dexterity",
+        "Adds 1 to 2 Physical Damage to Attacks",
+        "Adds 1 to 5 Lightning Damage to Attacks",
+        "7% increased Cast Speed"
+      ],
+      "veiledMods": [
+        "Suffix01"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 3,
+      "y": 6,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 29,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring6.png?scale=1&w=1&h=1&v=23acb19022be4c89b3260db63dd1ca05",
+      "league": "Standard",
+      "id": "82a2313c40957bb53e9cac5bb124cbf142f918a0390dff8af21a4fe381c8aa08",
+      "name": "",
+      "typeLine": "Sapphire Ring",
+      "identified": false,
+      "implicitMods": [
+        "+30% to Cold Resistance"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 3,
+      "y": 9,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 28,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6.png?scale=1&w=1&h=1&v=bc7ee6ba515d5f34cfaf7daec1571c52",
+      "league": "Standard",
+      "id": "c577b929e19142cc358bbd7b9132817bc9c84fdb46f7f7dff72015874c2d2819",
+      "name": "",
+      "typeLine": "Gold Amulet",
+      "identified": false,
+      "implicitMods": [
+        "19% increased Rarity of Items found"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 2,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 41,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring7.png?scale=1&w=1&h=1&v=0d73ed3a0f503653328f2593bda615d3",
+      "league": "Standard",
+      "id": "c967d3925533ec3aaf8a7b1bc9cf01dfa2a48c1483639b613ae2d539d9e8b313",
+      "name": "Storm Grasp",
+      "typeLine": "Ruby Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "24",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+30% to Fire Resistance"
+      ],
+      "explicitMods": [
+        "+20 to Dexterity",
+        "Adds 1 to 5 Lightning Damage to Attacks",
+        "+12 to maximum Energy Shield",
+        "+50 to maximum Life",
+        "+2 Life gained for each Enemy hit by your Attacks"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 2,
+      "y": 7,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 10,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4.png?scale=1&w=1&h=1&v=cc3ec167ca9ea10dfa05b2d55b5dcf62",
+      "league": "Standard",
+      "id": "255f1d1191dc5e794c6e0dfdc5a72a48b12169afaae3d94f2984b4c0e66b9012",
+      "name": "Empyrean Braid",
+      "typeLine": "Jade Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "5",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+28 to Dexterity"
+      ],
+      "explicitMods": [
+        "Adds 1 to 5 Lightning Damage to Attacks",
+        "+10 to Accuracy Rating",
+        "2% increased maximum Energy Shield",
+        "+12 to maximum Life",
+        "+10% to Fire Resistance"
+      ],
+      "veiledMods": [
+        "Suffix02"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 3,
+      "y": 5,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 22,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/TopazRuby.png?scale=1&w=1&h=1&v=0bd3c7197b952981eb21cb0dc278c04d",
+      "league": "Standard",
+      "id": "d871c89f47d99cfe978869744cdbc447758330cc370819c78adbb1673427d739",
+      "name": "",
+      "typeLine": "Two-Stone Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+13% to Fire and Lightning Resistances"
+      ],
+      "frameType": 0,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 1,
+      "y": 6,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 10,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring2.png?scale=1&w=1&h=1&v=ea80f60b4a8ead920044707ed6569849",
+      "league": "Standard",
+      "id": "3c1c69380ed142c0a9ecb74cee63157aec7bc2ce642de9014a22f6d46a14d2b6",
+      "name": "",
+      "typeLine": "Coral Ring",
+      "identified": false,
+      "implicitMods": [
+        "+28 to maximum Life"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 3,
+      "y": 10,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 35,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet3.png?scale=1&w=1&h=1&v=ab799e48c3d205973c8cd93ab478d20c",
+      "league": "Standard",
+      "id": "487912ab6530f6da7b0fdf2c3c02366bf5e906267f80a9d1f18486fac0f072d2",
+      "name": "",
+      "typeLine": "Amber Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+23 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 1,
+      "y": 4,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 26,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet5.png?scale=1&w=1&h=1&v=574b38016f547495a51268177882d5cc",
+      "league": "Standard",
+      "id": "01fd855127e3448d1a88d517aaf4343a33d7eab95eb518aa017171a17b4523d8",
+      "name": "",
+      "typeLine": "Cobalt Lapis Amulet of Absorption",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+30 to Intelligence"
+      ],
+      "explicitMods": [
+        "+24 to maximum Mana",
+        "+1 Mana gained on Kill"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 1,
+      "y": 3,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 8,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring2.png?scale=1&w=1&h=1&v=ea80f60b4a8ead920044707ed6569849",
+      "league": "Standard",
+      "id": "5ae0b78b9f3460dc0f47cdb35e232573b34e30aeeac88e9eef3dfe06a732214c",
+      "name": "Armageddon Whorl",
+      "typeLine": "Coral Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "6",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+25 to maximum Life"
+      ],
+      "explicitMods": [
+        "+19 to Accuracy Rating",
+        "+1 to maximum Energy Shield",
+        "+2 Life gained for each Enemy hit by your Attacks",
+        "5% increased Light Radius"
+      ],
+      "veiledMods": [
+        "Suffix02"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 0,
+      "y": 2,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 26,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/TopazSapphire.png?scale=1&w=1&h=1&v=b7334698bf04b28f755467f256a3276b",
+      "league": "Standard",
+      "id": "663d1aa9616bce5622195345ca2e136ea362d942815deb0b764582698b6b300a",
+      "name": "",
+      "typeLine": "Two-Stone Ring",
+      "identified": false,
+      "implicitMods": [
+        "+16% to Cold and Lightning Resistances"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 3,
+      "y": 8,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 10,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet3.png?scale=1&w=1&h=1&v=ab799e48c3d205973c8cd93ab478d20c",
+      "league": "Standard",
+      "id": "8b63e9fb4f488f619d4a6af6719c37ed36517200e824358870407fcf41dbabfc",
+      "name": "",
+      "typeLine": "Healthy Amber Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "5",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+29 to Strength"
+      ],
+      "explicitMods": [
+        "+14 to maximum Life"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 0,
+      "y": 8,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 10,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring6.png?scale=1&w=1&h=1&v=23acb19022be4c89b3260db63dd1ca05",
+      "league": "Standard",
+      "id": "ca8e87bc7b1d4d13c76470c9bfc9b51be04cdc30a6280e29ed7578a5d1dd1369",
+      "name": "",
+      "typeLine": "Sapphire Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+24% to Cold Resistance"
+      ],
+      "frameType": 0,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 2,
+      "y": 4,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 18,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2.png?scale=1&w=1&h=1&v=1bb23cebd36e20ede7c0e76575215b14",
+      "league": "Standard",
+      "id": "b4f1bac2c77b2902f4634b1dfff6e99db2114c53a8b8a0a511e23bcc09a4aced",
+      "name": "Cataclysm Scarab",
+      "typeLine": "Coral Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "3.6 Life Regenerated per second"
+      ],
+      "explicitMods": [
+        "+10 to Accuracy Rating",
+        "+29 to maximum Mana",
+        "+6 Life gained on Kill"
+      ],
+      "veiledMods": [
+        "Prefix06"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 20,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring2.png?scale=1&w=1&h=1&v=ea80f60b4a8ead920044707ed6569849",
+      "league": "Standard",
+      "id": "43158ac8f4f524b811bfaeb9c326239dd3a49c2f3a7e841c8ea40da3812d71f1",
+      "name": "Woe Grip",
+      "typeLine": "Coral Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+26 to maximum Life"
+      ],
+      "explicitMods": [
+        "Adds 1 to 2 Physical Damage to Attacks",
+        "+20 to maximum Mana",
+        "+3% to all Elemental Resistances",
+        "+1 Mana gained on Kill"
+      ],
+      "veiledMods": [
+        "Suffix06"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 0,
+      "y": 5,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 5,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring3.png?scale=1&w=1&h=1&v=bc351f5121b5d5d052733fa5be0f79ca",
+      "league": "Standard",
+      "id": "d84389ac8c62894309b03c0a58a25eb5a6afb1235e01ddfa52c7f1c52c7e2fa9",
+      "name": "",
+      "typeLine": "Paua Ring",
+      "identified": true,
+      "implicitMods": [
+        "+24 to maximum Mana"
+      ],
+      "frameType": 0,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 2,
+      "y": 3,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 28,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4.png?scale=1&w=1&h=1&v=cc3ec167ca9ea10dfa05b2d55b5dcf62",
+      "league": "Standard",
+      "id": "d0f08990eeaa4fcbac44aeea4dea18e40870456e4b02852f652674a959e8eaae",
+      "name": "",
+      "typeLine": "Jade Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+29 to Dexterity"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 3,
+      "y": 4,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 28,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring7.png?scale=1&w=1&h=1&v=0d73ed3a0f503653328f2593bda615d3",
+      "league": "Standard",
+      "id": "5351b926d7134ce732210e349277acdd828fa31fd6004c86467d7e579292d5d5",
+      "name": "",
+      "typeLine": "Glimmering Ruby Ring of Rejuvenation",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "16",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+29% to Fire Resistance"
+      ],
+      "explicitMods": [
+        "+7 to maximum Energy Shield",
+        "+2 Life gained for each Enemy hit by your Attacks"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 4,
+      "y": 1,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 29,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring4.png?scale=1&w=1&h=1&v=6ef89e2afcf83dc3cc86b1522597ed2b",
+      "league": "Standard",
+      "id": "a9440763d980da23300b4288387c9e098091628b1a45e123a598a21a47c7e798",
+      "name": "",
+      "typeLine": "Gold Ring",
+      "identified": false,
+      "implicitMods": [
+        "6% increased Rarity of Items found"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 0,
+      "y": 4,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wychverge.png?scale=1&w=1&h=3&v=307dccab89af02eca9dde539ff7fd024",
+      "league": "Standard",
+      "id": "e62a4d74dc51a854cbbd8cb699e25e204b68e72ae91f531484987a4f30135f40",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Abberath's Horn",
+      "typeLine": "Goat's Horn",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Wand",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+20%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "8-16",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "7.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "6",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "29",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "11% increased Spell Damage"
+      ],
+      "explicitMods": [
+        "28% increased Fire Damage",
+        "Adds 4 to 8 Fire Damage to Spells",
+        "59% increased Global Critical Strike Chance",
+        "+10 Life gained on Killing Ignited Enemies",
+        "25% reduced Ignite Duration on Enemies"
+      ],
+      "flavourText": [
+        "The Goat King drank the smoke and ate the flames\r",
+        "as his ruin spread across the land."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "wand"
+        ]
+      },
+      "x": 0,
+      "y": 9,
+      "inventoryId": "Stash9",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 22,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/TopazSapphire.png?scale=1&w=1&h=1&v=b7334698bf04b28f755467f256a3276b",
+      "league": "Standard",
+      "id": "df1fe60d3fb1a7d47a68e1392da00803b8dc422f29c828de81aef0af66029694",
+      "name": "Dragon Nail",
+      "typeLine": "Two-Stone Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+15% to Cold and Lightning Resistances"
+      ],
+      "explicitMods": [
+        "+2 Life gained for each Enemy hit by your Attacks",
+        "+5 Life gained on Kill",
+        "+1 Mana gained on Kill"
+      ],
+      "veiledMods": [
+        "Prefix01"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 1,
+      "y": 7,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 38,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet7.png?scale=1&w=1&h=1&v=ecac1e6f4574572eeef0379d955811cd",
+      "league": "Standard",
+      "id": "4d69bfe3baa22566d092dea0a8652c72744a12a01cdc15b3859c64986a4825a3",
+      "name": "",
+      "typeLine": "Onyx Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+11 to all Attributes"
+      ],
+      "frameType": 0,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 0,
+      "y": 7,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 13,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4.png?scale=1&w=1&h=1&v=cc3ec167ca9ea10dfa05b2d55b5dcf62",
+      "league": "Standard",
+      "id": "29901d29a04447457257a0049592dde6242ca05f8b6bdcb6be32e1cbe14a4765",
+      "name": "",
+      "typeLine": "Jade Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "5",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+30 to Dexterity"
+      ],
+      "frameType": 0,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 2,
+      "y": 9,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 41,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring5.png?scale=1&w=1&h=1&v=d645f9adfc012c52674c94d16b4292b2",
+      "league": "Standard",
+      "id": "89dd658d0596c32eef8eeb658ec1c7e0c5de148ef4d25063633405c8b9f94043",
+      "name": "",
+      "typeLine": "Topaz Ring",
+      "identified": false,
+      "implicitMods": [
+        "+22% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 2,
+      "y": 6,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 26,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmulet.png?scale=1&w=1&h=1&v=616cdaa894e5fcb0684cbeab3f90c4bc",
+      "league": "Standard",
+      "id": "2b76afc25fdf0250e37db3b696b3ca1cc8e4a72b5a4b02b0bf31e3efe843f1c9",
+      "name": "Torment Pendant",
+      "typeLine": "Agate Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "16",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+21 to Strength and Intelligence"
+      ],
+      "explicitMods": [
+        "+11 to Strength",
+        "8% increased Cast Speed",
+        "15% increased Elemental Damage with Attack Skills"
+      ],
+      "veiledMods": [
+        "Prefix06"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 5,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 9,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "e6221eeafbe50368e3b27d3755b268d6f1afb76ea28576867a6dbe32437f554b",
+      "name": "Hate Medallion",
+      "typeLine": "Paua Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "4",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "26% increased Mana Regeneration Rate"
+      ],
+      "explicitMods": [
+        "5% increased Spell Damage",
+        "4% increased Evasion Rating",
+        "13% increased Mana Regeneration Rate",
+        "+8% to Fire Resistance"
+      ],
+      "veiledMods": [
+        "Suffix01"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 1,
+      "y": 5,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 39,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6.png?scale=1&w=1&h=1&v=bc7ee6ba515d5f34cfaf7daec1571c52",
+      "league": "Standard",
+      "id": "76ecdc8386985010ab40c347a082881eea0a79c6c76960ed182b742063206d1f",
+      "name": "Glyph Torc",
+      "typeLine": "Gold Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "26",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "16% increased Rarity of Items found"
+      ],
+      "explicitMods": [
+        "+16 to all Attributes",
+        "Adds 1 to 2 Cold Damage to Attacks",
+        "3% increased Lightning Damage",
+        "+16 to maximum Mana"
+      ],
+      "veiledMods": [
+        "Suffix01"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 2,
+      "y": 11,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 30,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/DiamondRing.png?scale=1&w=1&h=1&v=d53fabd123b7c64d59ffe8a6baf7d778",
+      "league": "Standard",
+      "id": "ca489791b7664ba113e726e39a9edd2d28aad5efe88f132b0981655a2392260b",
+      "name": "",
+      "typeLine": "Diamond Ring",
+      "identified": false,
+      "implicitMods": [
+        "22% increased Global Critical Strike Chance"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 0,
+      "y": 3,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 39,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet7.png?scale=1&w=1&h=1&v=ecac1e6f4574572eeef0379d955811cd",
+      "league": "Standard",
+      "id": "1ca343d6e74a00a58d55bc9ea903112d31bc1d14c888c49c9f083e9fdfd79289",
+      "name": "",
+      "typeLine": "Onyx Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+16 to all Attributes"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 3,
+      "y": 2,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 37,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/UngilsHarmony.png?scale=1&w=1&h=1&v=6c224f8c61fcc46b904238c8faf3d806",
+      "league": "Standard",
+      "id": "182a4dbfaeeac7ed8d65a539057f6fed1190727a8afc8fca0ecc0df5647df7fb",
+      "name": "Ungil's Harmony",
+      "typeLine": "Turquoise Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "23",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+24 to Dexterity and Intelligence"
+      ],
+      "explicitMods": [
+        "100% increased Global Critical Strike Chance",
+        "-25% to Global Critical Strike Multiplier",
+        "+32 to maximum Life",
+        "+32 to maximum Mana",
+        "40% increased Stun and Block Recovery"
+      ],
+      "flavourText": [
+        "Gentle anger, raging calm."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 1,
+      "y": 1,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 65,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/DiamondRing.png?scale=1&w=1&h=1&v=d53fabd123b7c64d59ffe8a6baf7d778",
+      "league": "Standard",
+      "id": "d4077bffe45472b095b567087146c2e68d92e2aada65a23e803a346743fcb03c",
+      "name": "Sorrow Circle",
+      "typeLine": "Diamond Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "29% increased Global Critical Strike Chance"
+      ],
+      "explicitMods": [
+        "Adds 7 to 12 Physical Damage to Attacks",
+        "+73 to maximum Life",
+        "+13% to Lightning Resistance",
+        "+17% to Chaos Resistance",
+        "+13 Life gained on Kill"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 2,
+      "y": 0,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 35,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/MoonstoneRing.png?scale=1&w=1&h=1&v=4715c1b82b9843bf4b12f0aad25b3f26",
+      "league": "Standard",
+      "id": "936c61dab2e1051b5cd1c2c65203573b59636bd67983c67ff7df3b8a53cc46f5",
+      "name": "Carrion Coil",
+      "typeLine": "Moonstone Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "28",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+22 to maximum Energy Shield"
+      ],
+      "explicitMods": [
+        "+10 to Accuracy Rating",
+        "+6 to maximum Life",
+        "+40 to maximum Mana",
+        "+1 Mana gained on Kill",
+        "5% increased Light Radius"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 61,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6Unique.png?scale=1&w=1&h=1&v=0e58b905f36a5a3e7e80801d191d6a93",
+      "league": "Standard",
+      "id": "f0a9a94ec35a2ab4320bdec061873fa66294fbd1d9806e9a14f6755ed7f9121c",
+      "name": "The Ignomon",
+      "typeLine": "Gold Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "20% increased Rarity of Items found"
+      ],
+      "explicitMods": [
+        "+10 to Dexterity",
+        "Adds 12 to 24 Fire Damage to Attacks",
+        "+111 to Accuracy Rating",
+        "+131 to Evasion Rating",
+        "+20% to Fire Resistance"
+      ],
+      "flavourText": [
+        "The light that reveals is the glare that blinds."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 0,
+      "y": 1,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/MalachaisArtifice.png?scale=1&w=1&h=1&v=9dfec25c325226c7b82989fd93bdd57e",
+      "league": "Standard",
+      "id": "5686e83c4cdb8bc5cfee42587dc70cc75ada883950b0a44feb6db8d2fccc6a5e",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "G",
+          "sColour": "W"
+        }
+      ],
+      "name": "Malachai's Artifice",
+      "typeLine": "Unset Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "5",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "Has 1 Socket"
+      ],
+      "explicitMods": [
+        "Socketed Gems have Elemental Equilibrium",
+        "-20% to all Elemental Resistances",
+        "+93% to Fire Resistance when Socketed with a Red Gem",
+        "+79% to Cold Resistance when Socketed with a Green Gem",
+        "+93% to Lightning Resistance when Socketed with a Blue Gem",
+        "All Sockets are White"
+      ],
+      "flavourText": [
+        "When the wind blows, \r",
+        "Know which way to bend\r",
+        "and watch the others break."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 1,
+      "y": 0,
+      "inventoryId": "Stash9",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring4Unique.png?scale=1&w=1&h=1&v=53570d8ca34bd52e506a93361eae7680",
+      "league": "Standard",
+      "id": "b8317895acc843be5e380a138d8fac678f279a1bfbd1325390b72f8403e769e2",
+      "name": "Andvarius",
+      "typeLine": "Gold Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "15% increased Rarity of Items found"
+      ],
+      "explicitMods": [
+        "+10 to Dexterity",
+        "61% increased Rarity of Items found",
+        "-20% to all Elemental Resistances"
+      ],
+      "flavourText": [
+        "Danger is the price of wealth."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 4,
+      "y": 0,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 25,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet3.png?scale=1&w=1&h=1&v=ab799e48c3d205973c8cd93ab478d20c",
+      "league": "Standard",
+      "id": "2d9c2d3e48e745ee000519b34508d104fd1a71d09545ca5a16ff8b797af82846",
+      "name": "",
+      "typeLine": "Amber Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+24 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 3,
+      "y": 3,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 32,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/ThiefsTorment.png?scale=1&w=1&h=1&v=f7b28d5af8f444b1af856eb172c7d4c7",
+      "league": "Standard",
+      "id": "c28acd2703f200c124553c8415e589919bd2e49e12d8f8031e3d0f91b9f386aa",
+      "name": "Thief's Torment",
+      "typeLine": "Prismatic Ring",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+10% to all Elemental Resistances"
+      ],
+      "explicitMods": [
+        "13% increased Quantity of Items found",
+        "Can't use other Rings",
+        "+23% to all Elemental Resistances",
+        "+52 Life gained for each Enemy hit by your Attacks",
+        "+30 Mana gained for each Enemy hit by your Attacks",
+        "50% reduced Effect of Curses on you"
+      ],
+      "flavourText": [
+        "The ring I stole,\r",
+        "My finger they took,\r",
+        "A shrouded mind,\r",
+        "Cut their curses short,\r",
+        "As I drained their spirit\r",
+        "And stole their soul.\r",
+        "A blessing is often a curse."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 4,
+      "y": 3,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/LifeSprig.png?scale=1&w=1&h=3&v=880d7682adb3ff4578306f526644abd7",
+      "league": "Standard",
+      "id": "267a8eedcc0ed9f396b22566fc24ee7e89d6f0b7509ada0a4096644c02fdf82b",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Lifesprig",
+      "typeLine": "Driftwood Wand",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Wand",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+20%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "5-10",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "7.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.40",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        }
+      ],
+      "implicitMods": [
+        "11% increased Spell Damage"
+      ],
+      "explicitMods": [
+        "+1 to Level of Socketed Spell Gems",
+        "28% increased Spell Damage",
+        "5% increased Cast Speed",
+        "+17 to maximum Life",
+        "+15 to maximum Mana",
+        "Regenerate 7 Life over 1 second when you Cast a Spell"
+      ],
+      "flavourText": [
+        "From the smallest seeds\r",
+        "To the tallest redwoods,\r",
+        "Life endures in Wraeclast."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "wand"
+        ]
+      },
+      "x": 1,
+      "y": 9,
+      "inventoryId": "Stash9",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 42,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CitrineAmulet.png?scale=1&w=1&h=1&v=392b4ef08d8b72daaf1d0ec50d017398",
+      "league": "Standard",
+      "id": "8a20b7bc72e3954cb787244c06e84e5d2e0ed89d7205428a976dd28765fce7bb",
+      "name": "",
+      "typeLine": "Citrine Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+21 to Strength and Dexterity"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 1,
+      "y": 2,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 30,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/DiamondRing.png?scale=1&w=1&h=1&v=d53fabd123b7c64d59ffe8a6baf7d778",
+      "league": "Standard",
+      "id": "499f195e434f168b05d9d0205dd7ad95b8012f063809b6582f239fa367175bab",
+      "name": "",
+      "typeLine": "Diamond Ring",
+      "identified": false,
+      "implicitMods": [
+        "28% increased Global Critical Strike Chance"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 3,
+      "y": 7,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 18,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet3.png?scale=1&w=1&h=1&v=ab799e48c3d205973c8cd93ab478d20c",
+      "league": "Standard",
+      "id": "fce31c8cda161595b1c760343248f8c8655fd1a335104d39c573bc00fa8d88b2",
+      "name": "Gale Rosary",
+      "typeLine": "Amber Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "14",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+21 to Strength"
+      ],
+      "explicitMods": [
+        "+12% to Global Critical Strike Multiplier",
+        "+30 to maximum Life",
+        "+11% to Fire Resistance",
+        "+2 Life gained for each Enemy hit by your Attacks"
+      ],
+      "veiledMods": [
+        "Prefix05"
+      ],
+      "veiled": true,
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 2,
+      "y": 10,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 63,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/WinterHeartALT.png?scale=1&w=1&h=1&v=d90789f121b17787a6b867f3113047c2",
+      "league": "Standard",
+      "id": "a9e810336d8f9028b45c1bd1136400da18e9460823c52c46df3502404553ba80",
+      "name": "Winterheart",
+      "typeLine": "Gold Amulet",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "12% increased Rarity of Items found"
+      ],
+      "explicitMods": [
+        "+20 to Dexterity",
+        "+63 to maximum Life",
+        "+75% to Cold Resistance",
+        "Cannot be Chilled",
+        "20% of Life Regenerated per second while Frozen"
+      ],
+      "flavourText": [
+        "Those who dwell in the deep freeze\r",
+        "enjoy a special kind of madness."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 3,
+      "y": 1,
+      "inventoryId": "Stash9"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 61,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1Unique.png?scale=1&w=1&h=1&v=1ad77d738901b6e1f5ab921f2cfdad5b",
+      "league": "Standard",
+      "id": "a1adf33cbf7670f8223b1dca64a1471bbd5e595070666069fef3d03563daa222",
+      "name": "Sidhebreath",
+      "typeLine": "Paua Amulet",
+      "identified": true,
+      "implicitMods": [
+        "29% increased Mana Regeneration Rate"
+      ],
+      "explicitMods": [
+        "+25% to Cold Resistance",
+        "0.2% of Physical Attack Damage Leeched as Mana",
+        "Minions have 14% increased maximum Life",
+        "Minions have 14% increased Movement Speed",
+        "Minions deal 12% increased Damage",
+        "14% reduced Mana Cost of Minion Skills"
+      ],
+      "flavourText": [
+        "The breath of life is yours to give."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 2,
+      "y": 1,
+      "inventoryId": "Stash9"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+/* Variables */
+
+// Color Scheme
+
+$primary: #171c28;
+$secondary: #121621;
+$purple-accent: #6940f0;
+
+$heading: #ffffff;
+$text: #b1b9cc;
+$link: #6940f0;
+
+$input: #171c28;
+$placeholder: darken($text, 40%);
+$border: #6940f0;
+$valid: #058f54;
+$invalid: #ff0734;
+
+$submitbutton: #6940f0;
+$resetbutton: #3f4656;
+$buttontext: #ffffff;
+
+$table: #6940f0;
+
+$dark-purple-accent: #5628ee;
+$blue-accent: #23c7fb;
+
+// Typography
+
+$heading-font: 'Open Sans', Arial, sans-serif;
+$body-font: 'Open Sans', Arial, sans-serif;
+$font-height: 1.5;
+
+// Grid
+
+$width: 96%;
+$gutter: 4%;
+$breakpoint-small: 33.75em;
+$breakpoint-med: 45em;
+$breakpoint-large: 60em;

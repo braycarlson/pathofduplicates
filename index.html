@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="A free and open source service to check for duplicate items in Path of Exile">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="stylesheets/index-min.css">
+    <script src="javascript/polyfill-min.js"></script>
+    <title>Path of Duplicates</title>
+  </head>
+  <body>
+    <div id="signin">
+      <div id="signin-message">
+        <p>You must <a href="https://www.pathofexile.com/my-account" target="_blank">sign-in to your Path of Exile account</a>.</p>
+      </div>
+      <div id="signin-button">
+        <button type="button" name="close" value="close">&times;</button>
+      </div>
+    </div>
+    <header>
+      <h1><a href="index.html">Path of Duplicates</a></h1>
+    </header>
+    <main>
+      <div class="container">
+        <div id="forms">
+          <input id="url-tab" type="radio" name="tabs" checked>
+          <label class="tab-label" for="url-tab">Link</label>
+          <input id="stashtab-tab" type="radio" name="tabs">
+          <label class="tab-label" for="stashtab-tab">Stashtab</label>
+          <section id="url-section">
+            <h3>Create A Link</h3>
+            <form id="url">
+              <fieldset>
+                <label for="username">Account Name</label>
+                <input class="validate" type="text" id="username" name="username" placeholder="Account Name" required>
+                <ul id="username-hints">
+                  <li>What is my <a href="images/accountname.png" id="username-help" tabindex="-1" target="_blank">Account Name?</a></li>
+                  <li>Please enter letters, numbers or an underscore</li>
+                  <li>Please enter 3 or more characters</li>
+                </ul>
+                <label for="index">Tab Index</label>
+                <input class="validate" type="text" id="index" name="index" placeholder="Tab Index" required>
+                <ul id="index-hints">
+                  <li>What is a <a href="images/tabindex.png" id="index-help" tabindex="-1" target="_blank">Tab Index?</a></li>
+                  <li>Please enter a positive number</li>
+                </ul>
+                <label for="league">League</label>
+                <select class="validate" id="league" name="league" required>
+                  <option value="" disabled selected hidden>League</option>
+                  <option value="standard">Standard</option>
+                  <option value="hardcore">Hardcore</option>
+                  <option value="synthesis">Synthesis</option>
+                  <option value="hardcore synthesis">Hardcore Synthesis</option>
+                </select>
+                <ul id="league-hints">
+                  <li>What is my <a href="images/league.png" id="league-help" tabindex="-1" target="_blank">League?</a></li>
+                  <li>Please select a league</li>
+                </ul>
+                <div id="url-buttons">
+                  <button type="submit" name="submit" value="submit">Submit</button>
+                  <button type="reset" name="reset" value="reset">Clear</button>
+                </div>
+              </fieldset>
+            </form>
+          </section>
+          <section id="stashtab-section">
+            <h3>Stashtab</h3>
+            <form id="stashtab" action="stashtab.php" method="post">
+              <fieldset>
+                <ul id="message"></ul>
+                <label for="stash">Stashtab Data</label>
+                <textarea class="validate" id="stash" name="stash" rows="10" cols="50" placeholder="Stashtab" required></textarea>
+                <ul id="stashtab-hints">
+                  <li>What is <a href="images/stashtab.png" target="_blank">Stashtab Data?</a></li>
+                  <li>Please enter a JSON object</li>
+                </ul>
+                <div id="stashtab-buttons">
+                  <button type="submit" name="submit" value="submit">Submit</button>
+                  <button type="reset" name="reset" value="reset">Clear</button>
+                </div>
+              </fieldset>
+            </form>
+          </section>
+        </div>
+        <div id="loader">       </div>
+        <div id="items"></div>
+        <div class="push"></div>
+      </div>
+    </main>
+    <footer>
+      <div class="container"><a href="https://github.com/braycarlson/pathofduplicates" target="_blank"><img src="images/github.png" alt="Github Logo"></a>
+        <p>Path of Duplicates is not affiliated, associated, endorsed by, or connected to Path of Exile or Grinding Gear Games. All item names, images and artwork are property of their respective owners. All item names, images and artwork used in this website are for identification purposes only.</p>
+      </div>
+    </footer>
+    <script src="javascript/index-min.js"></script>
+  </body>
+</html>

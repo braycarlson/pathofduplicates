@@ -1,0 +1,3130 @@
+{
+  "numTabs": 11,
+  "essenceLayout": {
+    "0": {
+      "x": 292.08924949290065,
+      "y": 111.35902636916836,
+      "w": 1,
+      "h": 1
+    },
+    "1": {
+      "x": 248.27586206896552,
+      "y": 111.35902636916836,
+      "w": 1,
+      "h": 1
+    },
+    "2": {
+      "x": 203.85395537525358,
+      "y": 111.35902636916836,
+      "w": 1,
+      "h": 1
+    },
+    "3": {
+      "x": 160.04056795131848,
+      "y": 111.35902636916836,
+      "w": 1,
+      "h": 1
+    },
+    "4": {
+      "x": 115.6186612576065,
+      "y": 111.35902636916836,
+      "w": 1,
+      "h": 1
+    },
+    "5": {
+      "x": 71.19675456389453,
+      "y": 111.35902636916836,
+      "w": 1,
+      "h": 1
+    },
+    "6": {
+      "x": 26.77484787018256,
+      "y": 111.35902636916836,
+      "w": 1,
+      "h": 1
+    },
+    "7": {
+      "x": 292.08924949290065,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "8": {
+      "x": 248.27586206896552,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "9": {
+      "x": 203.85395537525358,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "10": {
+      "x": 160.04056795131848,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "11": {
+      "x": 115.6186612576065,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "12": {
+      "x": 71.19675456389453,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "13": {
+      "x": 26.77484787018256,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "14": {
+      "x": 292.08924949290065,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "15": {
+      "x": 248.27586206896552,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "16": {
+      "x": 203.85395537525358,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "17": {
+      "x": 160.04056795131848,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "18": {
+      "x": 115.6186612576065,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "19": {
+      "x": 71.19675456389453,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "20": {
+      "x": 26.77484787018256,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "21": {
+      "x": 292.08924949290065,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "22": {
+      "x": 248.27586206896552,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "23": {
+      "x": 203.85395537525358,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "24": {
+      "x": 160.04056795131848,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "25": {
+      "x": 115.6186612576065,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "26": {
+      "x": 71.19675456389453,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "27": {
+      "x": 26.77484787018256,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "28": {
+      "x": 248.27586206896552,
+      "y": 332.86004056795133,
+      "w": 1,
+      "h": 1
+    },
+    "29": {
+      "x": 203.85395537525358,
+      "y": 332.86004056795133,
+      "w": 1,
+      "h": 1
+    },
+    "30": {
+      "x": 160.04056795131848,
+      "y": 332.86004056795133,
+      "w": 1,
+      "h": 1
+    },
+    "31": {
+      "x": 115.6186612576065,
+      "y": 332.86004056795133,
+      "w": 1,
+      "h": 1
+    },
+    "32": {
+      "x": 71.19675456389453,
+      "y": 332.86004056795133,
+      "w": 1,
+      "h": 1
+    },
+    "33": {
+      "x": 26.77484787018256,
+      "y": 332.86004056795133,
+      "w": 1,
+      "h": 1
+    },
+    "34": {
+      "x": 248.27586206896552,
+      "y": 244.6247464503043,
+      "w": 1,
+      "h": 1
+    },
+    "35": {
+      "x": 203.85395537525358,
+      "y": 244.6247464503043,
+      "w": 1,
+      "h": 1
+    },
+    "36": {
+      "x": 160.04056795131848,
+      "y": 244.6247464503043,
+      "w": 1,
+      "h": 1
+    },
+    "37": {
+      "x": 115.6186612576065,
+      "y": 244.6247464503043,
+      "w": 1,
+      "h": 1
+    },
+    "38": {
+      "x": 71.19675456389453,
+      "y": 244.6247464503043,
+      "w": 1,
+      "h": 1
+    },
+    "39": {
+      "x": 26.77484787018256,
+      "y": 244.6247464503043,
+      "w": 1,
+      "h": 1
+    },
+    "40": {
+      "x": 248.27586206896552,
+      "y": 288.4381338742394,
+      "w": 1,
+      "h": 1
+    },
+    "41": {
+      "x": 203.85395537525358,
+      "y": 288.4381338742394,
+      "w": 1,
+      "h": 1
+    },
+    "42": {
+      "x": 160.04056795131848,
+      "y": 288.4381338742394,
+      "w": 1,
+      "h": 1
+    },
+    "43": {
+      "x": 115.6186612576065,
+      "y": 288.4381338742394,
+      "w": 1,
+      "h": 1
+    },
+    "44": {
+      "x": 71.19675456389453,
+      "y": 288.4381338742394,
+      "w": 1,
+      "h": 1
+    },
+    "45": {
+      "x": 26.77484787018256,
+      "y": 288.4381338742394,
+      "w": 1,
+      "h": 1
+    },
+    "46": {
+      "x": 248.27586206896552,
+      "y": 200.2028397565923,
+      "w": 1,
+      "h": 1
+    },
+    "47": {
+      "x": 203.85395537525358,
+      "y": 200.2028397565923,
+      "w": 1,
+      "h": 1
+    },
+    "48": {
+      "x": 160.04056795131848,
+      "y": 200.2028397565923,
+      "w": 1,
+      "h": 1
+    },
+    "49": {
+      "x": 115.6186612576065,
+      "y": 200.2028397565923,
+      "w": 1,
+      "h": 1
+    },
+    "50": {
+      "x": 71.19675456389453,
+      "y": 200.2028397565923,
+      "w": 1,
+      "h": 1
+    },
+    "51": {
+      "x": 26.77484787018256,
+      "y": 200.2028397565923,
+      "w": 1,
+      "h": 1
+    },
+    "52": {
+      "x": 203.85395537525358,
+      "y": 421.0953346855984,
+      "w": 1,
+      "h": 1
+    },
+    "53": {
+      "x": 160.04056795131848,
+      "y": 421.0953346855984,
+      "w": 1,
+      "h": 1
+    },
+    "54": {
+      "x": 115.6186612576065,
+      "y": 421.0953346855984,
+      "w": 1,
+      "h": 1
+    },
+    "55": {
+      "x": 71.19675456389453,
+      "y": 421.0953346855984,
+      "w": 1,
+      "h": 1
+    },
+    "56": {
+      "x": 26.77484787018256,
+      "y": 421.0953346855984,
+      "w": 1,
+      "h": 1
+    },
+    "57": {
+      "x": 203.85395537525358,
+      "y": 376.67342799188646,
+      "w": 1,
+      "h": 1
+    },
+    "58": {
+      "x": 160.04056795131848,
+      "y": 376.67342799188646,
+      "w": 1,
+      "h": 1
+    },
+    "59": {
+      "x": 115.6186612576065,
+      "y": 376.67342799188646,
+      "w": 1,
+      "h": 1
+    },
+    "60": {
+      "x": 71.19675456389453,
+      "y": 376.67342799188646,
+      "w": 1,
+      "h": 1
+    },
+    "61": {
+      "x": 26.77484787018256,
+      "y": 376.0649087221096,
+      "w": 1,
+      "h": 1
+    },
+    "62": {
+      "x": 203.85395537525358,
+      "y": 464.9087221095335,
+      "w": 1,
+      "h": 1
+    },
+    "63": {
+      "x": 160.04056795131848,
+      "y": 464.9087221095335,
+      "w": 1,
+      "h": 1
+    },
+    "64": {
+      "x": 115.6186612576065,
+      "y": 464.9087221095335,
+      "w": 1,
+      "h": 1
+    },
+    "65": {
+      "x": 71.19675456389453,
+      "y": 464.9087221095335,
+      "w": 1,
+      "h": 1
+    },
+    "66": {
+      "x": 26.77484787018256,
+      "y": 464.9087221095335,
+      "w": 1,
+      "h": 1
+    },
+    "67": {
+      "x": 203.85395537525358,
+      "y": 509.3306288032455,
+      "w": 1,
+      "h": 1
+    },
+    "68": {
+      "x": 160.04056795131848,
+      "y": 509.3306288032455,
+      "w": 1,
+      "h": 1
+    },
+    "69": {
+      "x": 115.6186612576065,
+      "y": 509.3306288032455,
+      "w": 1,
+      "h": 1
+    },
+    "70": {
+      "x": 71.19675456389453,
+      "y": 509.3306288032455,
+      "w": 1,
+      "h": 1
+    },
+    "71": {
+      "x": 26.77484787018256,
+      "y": 509.3306288032455,
+      "w": 1,
+      "h": 1
+    },
+    "72": {
+      "x": 373.0223123732252,
+      "y": 110.75050709939148,
+      "w": 1,
+      "h": 1
+    },
+    "73": {
+      "x": 416.83569979716026,
+      "y": 110.75050709939148,
+      "w": 1,
+      "h": 1
+    },
+    "74": {
+      "x": 462.474645030426,
+      "y": 110.75050709939148,
+      "w": 1,
+      "h": 1
+    },
+    "75": {
+      "x": 506.89655172413796,
+      "y": 110.75050709939148,
+      "w": 1,
+      "h": 1
+    },
+    "76": {
+      "x": 373.0223123732252,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "77": {
+      "x": 416.83569979716026,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "78": {
+      "x": 462.474645030426,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "79": {
+      "x": 506.89655172413796,
+      "y": 23.1237322515213,
+      "w": 1,
+      "h": 1
+    },
+    "80": {
+      "x": 373.0223123732252,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "81": {
+      "x": 417.44421906693714,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "82": {
+      "x": 462.474645030426,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "83": {
+      "x": 506.89655172413796,
+      "y": 155.78093306288034,
+      "w": 1,
+      "h": 1
+    },
+    "84": {
+      "x": 373.0223123732252,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "85": {
+      "x": 417.44421906693714,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "86": {
+      "x": 462.474645030426,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "87": {
+      "x": 506.89655172413796,
+      "y": 67.54563894523326,
+      "w": 1,
+      "h": 1
+    },
+    "88": {
+      "x": 417.44421906693714,
+      "y": 288.4381338742394,
+      "w": 1,
+      "h": 1
+    },
+    "89": {
+      "x": 462.474645030426,
+      "y": 288.4381338742394,
+      "w": 1,
+      "h": 1
+    },
+    "90": {
+      "x": 506.89655172413796,
+      "y": 288.4381338742394,
+      "w": 1,
+      "h": 1
+    },
+    "91": {
+      "x": 417.44421906693714,
+      "y": 332.86004056795133,
+      "w": 1,
+      "h": 1
+    },
+    "92": {
+      "x": 462.474645030426,
+      "y": 332.86004056795133,
+      "w": 1,
+      "h": 1
+    },
+    "93": {
+      "x": 506.89655172413796,
+      "y": 332.86004056795133,
+      "w": 1,
+      "h": 1
+    },
+    "94": {
+      "x": 417.44421906693714,
+      "y": 200.2028397565923,
+      "w": 1,
+      "h": 1
+    },
+    "95": {
+      "x": 462.474645030426,
+      "y": 200.2028397565923,
+      "w": 1,
+      "h": 1
+    },
+    "96": {
+      "x": 506.89655172413796,
+      "y": 200.2028397565923,
+      "w": 1,
+      "h": 1
+    },
+    "97": {
+      "x": 417.44421906693714,
+      "y": 244.6247464503043,
+      "w": 1,
+      "h": 1
+    },
+    "98": {
+      "x": 462.474645030426,
+      "y": 244.6247464503043,
+      "w": 1,
+      "h": 1
+    },
+    "99": {
+      "x": 506.89655172413796,
+      "y": 244.6247464503043,
+      "w": 1,
+      "h": 1
+    },
+    "100": {
+      "x": 506.89655172413796,
+      "y": 509.93914807302235,
+      "w": 1,
+      "h": 1
+    },
+    "101": {
+      "x": 506.89655172413796,
+      "y": 377.28194726166333,
+      "w": 1,
+      "h": 1
+    },
+    "102": {
+      "x": 506.89655172413796,
+      "y": 421.7038539553753,
+      "w": 1,
+      "h": 1
+    },
+    "103": {
+      "x": 506.89655172413796,
+      "y": 465.5172413793104,
+      "w": 1,
+      "h": 1
+    },
+    "104": {
+      "x": 462.474645030426,
+      "y": 377.28194726166333,
+      "w": 1,
+      "h": 1
+    },
+    "105": {
+      "x": 462.474645030426,
+      "y": 421.7038539553753,
+      "w": 1,
+      "h": 1
+    },
+    "106": {
+      "x": 462.474645030426,
+      "y": 465.5172413793104,
+      "w": 1,
+      "h": 1
+    },
+    "107": {
+      "x": 462.474645030426,
+      "y": 509.93914807302235,
+      "w": 1,
+      "h": 1
+    },
+    "108": {
+      "x": 312.7789046653144,
+      "y": 397.36308316430024,
+      "w": 2,
+      "h": 4
+    }
+  },
+  "items": [
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Hatred1.png?scale=1&w=1&h=1&v=af1a86ff4108cc78b67a6b7199b8959f",
+      "league": "Standard",
+      "id": "f02ed3b038331dd3a05ff67ba77cdd74aecc2d337bf3a2a6ed27ad38ee0d2e50",
+      "name": "",
+      "typeLine": "Whispering Essence of Hatred",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 35 and below",
+        "",
+        "Two Handed Melee Weapon: Adds (2-3) to (4-5) Cold Damage",
+        "Other Weapon: Adds (1-2) to 3 Cold Damage",
+        "Armour: (6-11)% to Cold Resistance",
+        "Quiver: (6-11)% to Cold Resistance",
+        "Belt: (6-11)% to Cold Resistance",
+        "Other Jewellery: (6-10)% increased Cold Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Torment3.png?scale=1&w=1&h=1&v=df38adcd8dfae9dc7ce43f8902aec8f3",
+      "league": "Standard",
+      "id": "06cf46f83f090a49dc976b78e5e66875c7ed91e42a75e8fb0ca91949211e4975",
+      "name": "",
+      "typeLine": "Weeping Essence of Torment",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "9/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "One Handed Weapon: Adds (1-4) to (46-49) Lightning Damage to Spells",
+        "Two Handed Weapon: Adds (2-6) to (69-73) Lightning Damage to Spells",
+        "Gloves: Adds (1-2) to (21-22) Lightning Damage to Attacks",
+        "Body Armour: (5-6)% chance to Avoid Lightning Damage when Hit",
+        "Shield: (5-6)% chance to Avoid Lightning Damage when Hit",
+        "Other Armour: (15-18)% chance to Avoid being Shocked",
+        "Quiver: Adds (1-2) to (21-22) Lightning Damage to Attacks",
+        "Belt: (15-18)% chance to Avoid being Shocked",
+        "Other Jewellery: Adds (1-2) to (27-28) Lightning Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 9,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 41,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Doubt3.png?scale=1&w=1&h=1&v=c9c89f93be1f54c06d99b9283a94af14",
+      "league": "Standard",
+      "id": "39dd40f700f2fefdf5d86b65aa2795bf4d18b9c0bef5b625678815a47da4b20f",
+      "name": "",
+      "typeLine": "Weeping Essence of Doubt",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "Weapon: (101-130) to Accuracy Rating",
+        "Gloves: (21-25) to Evasion Rating",
+        "Boots: (21-25) to Evasion Rating",
+        "Other Armour: (36-60) to Evasion Rating",
+        "Quiver: (101-130) to Accuracy Rating",
+        "Amulet: (8-10)% increased Evasion Rating",
+        "Other Jewellery: (36-60) to Evasion Rating"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 67,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Contempt1.png?scale=1&w=1&h=1&v=60f8830c2dadd217eb99cee02425f07d",
+      "league": "Standard",
+      "id": "71c9311ed9e35c83f379ccafa0e95f41468a99b71590f0fdfd74142c41b08f3e",
+      "name": "",
+      "typeLine": "Whispering Essence of Contempt",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "6/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 35 and below",
+        "",
+        "One Handed Weapon: Adds 1 to (2-3) Physical Damage",
+        "Two Handed Weapon: Adds 2 to (4-5) Physical Damage",
+        "Gloves: Adds 1 to 2 Physical Damage to Attacks",
+        "Other Armour: Reflects (1-4) Physical Damage to Melee Attackers",
+        "Quiver: Adds 1 to 2 Physical Damage to Attacks",
+        "Belt: Reflects (1-4) Physical Damage to Melee Attackers",
+        "Other Jewellery: Adds 1 to 2 Physical Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 6,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 21,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Hatred2.png?scale=1&w=1&h=1&v=c4d6f1c773d20697ab194039c6734f36",
+      "league": "Standard",
+      "id": "a7b5db0fc5ccefa2ada84e10f41fc333070ae730736ce207869effde230fafb4",
+      "name": "",
+      "typeLine": "Muttering Essence of Hatred",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "10/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 45 and below",
+        "",
+        "Two Handed Melee Weapon: Adds (10-13) to (19-22) Cold Damage",
+        "Other Weapon: Adds (6-8) to (13-15) Cold Damage",
+        "Armour: (12-17)% to Cold Resistance",
+        "Quiver: (12-17)% to Cold Resistance",
+        "Belt: (12-17)% to Cold Resistance",
+        "Other Jewellery: (11-14)% increased Cold Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 10,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 1,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Fear3.png?scale=1&w=1&h=1&v=89cdd73a4de987ebc1bd4136507f7576",
+      "league": "Standard",
+      "id": "280258977d804a19f6b15fc128c3266f8b3b306ca8969e0f5724565e81dcfd84",
+      "name": "",
+      "typeLine": "Weeping Essence of Fear",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "5/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "One Handed Weapon: Minions deal (11-14)% increased Damage",
+        "Two Handed Weapon: Minions deal (16-21)% increased Damage",
+        "Armour: Minions have (11-14)% increased maximum Life",
+        "Quiver: Minions have (11-14)% increased Movement Speed",
+        "Belt: Minions have (11-14)% increased maximum Life",
+        "Other Jewellery: Minions have (11-14)% increased Movement Speed"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 5,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 47,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Woe4.png?scale=1&w=1&h=1&v=26d83392a96b8947d6f9741849619711",
+      "league": "Standard",
+      "id": "acaa090115e2e46183d7b1eb077f2b4e496536e7cc77f4b9cbd090836e3ae32b",
+      "name": "",
+      "typeLine": "Wailing Essence of Woe",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "One Handed Weapon: (40-49)% increased Spell Damage",
+        "Two Handed Weapon: (60-74)% increased Spell Damage",
+        "Gloves: (18-26) to maximum Energy Shield",
+        "Boots: (18-26) to maximum Energy Shield",
+        "Shield: (39-49) to maximum Energy Shield",
+        "Other Armour: (31-38) to maximum Energy Shield",
+        "Quiver: (26-29)% increased Elemental Damage with Attack Skills",
+        "Amulet: (11-13)% increased maximum Energy Shield",
+        "Ring: (23-26) to maximum Energy Shield",
+        "Belt: (23-26) to maximum Energy Shield"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 10,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/EssenceCorrupt.png?scale=1&w=1&h=1&v=49220b99e034b4dd3c85702167958b38",
+      "league": "Standard",
+      "id": "023a55eaa6e0ca4b47e0f563b64ad9f352bb617f017cdcb0f576abaa4ec87e70",
+      "name": "",
+      "typeLine": "Remnant of Corruption",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Corrupts the Essences trapping a monster, modifying them unpredictably"
+      ],
+      "descrText": "Right click this item then left click a monster trapped by Essences to corrupt them. Corrupted Essences cannot be modified again.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 104,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Hatred3.png?scale=1&w=1&h=1&v=7ce462d82e43b67ce7103cb8af695057",
+      "league": "Standard",
+      "id": "071c13742c90111cc055b4d4481b18cf1b0a3791c0fdaab55b85b5ae88480f7e",
+      "name": "",
+      "typeLine": "Weeping Essence of Hatred",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "6/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "Two Handed Melee Weapon: Adds (21-27) to (41-48) Cold Damage",
+        "Other Weapon: Adds (14-18) to (27-32) Cold Damage",
+        "Armour: (18-23)% to Cold Resistance",
+        "Quiver: (18-23)% to Cold Resistance",
+        "Belt: (18-23)% to Cold Resistance",
+        "Other Jewellery: (15-18)% increased Cold Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 6,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 2,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Hatred6.png?scale=1&w=1&h=1&v=7e73d6da1f6a165ebebf35dcd45638b2",
+      "league": "Standard",
+      "id": "b899261cdf367808ad2c5dc5b1471aff7cb6c5cb30557980e869952c55715319",
+      "name": "",
+      "typeLine": "Shrieking Essence of Hatred",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+        "",
+        "Two Handed Melee Weapon: Adds (56-75) to (112-131) Cold Damage",
+        "Other Weapon: Adds (37-50) to (74-87) Cold Damage",
+        "Armour: (42-45)% to Cold Resistance",
+        "Quiver: (42-45)% to Cold Resistance",
+        "Belt: (42-45)% to Cold Resistance",
+        "Other Jewellery: (27-30)% increased Cold Damage"
+      ],
+      "descrText": "Right click this item then left click a normal or rare item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 5,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Woe5.png?scale=1&w=1&h=1&v=719bf2e52c17d688e02fa3de0a7e4bf7",
+      "league": "Standard",
+      "id": "7f8831794dc005a676ef99e258f1bceac98a73ca2440a2b3be160a05db86bf5c",
+      "name": "",
+      "typeLine": "Screaming Essence of Woe",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "7/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "One Handed Weapon: (50-56)% increased Spell Damage",
+        "Two Handed Weapon: (75-84)% increased Spell Damage",
+        "Body Armour: (50-61) to maximum Energy Shield",
+        "Helmet: (39-45) to maximum Energy Shield",
+        "Shield: (50-59) to maximum Energy Shield",
+        "Other Armour: (27-32) to maximum Energy Shield",
+        "Quiver: (30-34)% increased Elemental Damage with Attack Skills",
+        "Amulet: (14-16)% increased maximum Energy Shield",
+        "Ring: (27-31) to maximum Energy Shield",
+        "Belt: (27-31) to maximum Energy Shield"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 7,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 11,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Woe3.png?scale=1&w=1&h=1&v=e55316dbaaad843c3f96c0fc6b13fc72",
+      "league": "Standard",
+      "id": "529d85efb67c397d3be1e2ea0b10e6c217b372db4cb363f5a86a0ca47c357a19",
+      "name": "",
+      "typeLine": "Weeping Essence of Woe",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "4/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "One Handed Weapon: (30-39)% increased Spell Damage",
+        "Two Handed Weapon: (45-59)% increased Spell Damage",
+        "Armour: (17-23) to maximum Energy Shield",
+        "Quiver: (21-25)% increased Elemental Damage with Attack Skills",
+        "Amulet: (8-10)% increased maximum Energy Shield",
+        "Ring: (16-19) to maximum Energy Shield",
+        "Belt: (16-19) to maximum Energy Shield"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 4,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 9,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Zeal5.png?scale=1&w=1&h=1&v=9cc43fa4c69034ea6c7c13a4387c6a20",
+      "league": "Standard",
+      "id": "f4d6d4b53474b2cb6ae81672247c57e7ef68f8305894ebb5bde407e55391097d",
+      "name": "",
+      "typeLine": "Screaming Essence of Zeal",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Melee Weapon: (23-25)% increased Attack Speed",
+        "Ranged Weapon: (10-11)% increased Attack Speed",
+        "Gloves: (11-13)% increased Attack Speed",
+        "Boots: 25% increased Movement Speed",
+        "Other Armour: (23-25)% increased Stun and Block Recovery",
+        "Quiver: (7-8)% increased Attack Speed",
+        "Belt: (23-25)% increased Stun and Block Recovery",
+        "Other Jewellery: (5-6)% increased Attack Speed"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 85,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Hatred5.png?scale=1&w=1&h=1&v=c3346cf8ca025bd89d8efe5604d322ab",
+      "league": "Standard",
+      "id": "d4855865fea22fa275c131ef36e5b31f318cef79dc6fc606d5512b45221e6cf1",
+      "name": "",
+      "typeLine": "Screaming Essence of Hatred",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Two Handed Melee Weapon: Adds (47-63) to (94-110) Cold Damage",
+        "Other Weapon: Adds (31-42) to (63-73) Cold Damage",
+        "Armour: (36-41)% to Cold Resistance",
+        "Quiver: (36-41)% to Cold Resistance",
+        "Belt: (36-41)% to Cold Resistance",
+        "Other Jewellery: (23-26)% increased Cold Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 4,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Rage3.png?scale=1&w=1&h=1&v=4e2cc03f5494682153e0209fda0e0e9d",
+      "league": "Standard",
+      "id": "871ae41e8d170ded02cea70d5eb133fdae500a80d3e281009184ec7fa5c38e8e",
+      "name": "",
+      "typeLine": "Weeping Essence of Rage",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "Weapon: +1 to Level of Socketed Fire Gems",
+        "Other Item: (18-22) to Strength"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 57,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Anger4.png?scale=1&w=1&h=1&v=35c3aaa66bb84caf183a372d38a5a07c",
+      "league": "Standard",
+      "id": "01c324c0948545be4980da56f009b45f40e63d839542c9bb8045fd8f0d8ebf0c",
+      "name": "",
+      "typeLine": "Wailing Essence of Anger",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "Two Handed Melee Weapon: Adds (40-53) to (79-92) Fire Damage",
+        "Other Weapon: Adds (26-35) to (53-61) Fire Damage",
+        "Armour: (24-29)% to Fire Resistance",
+        "Quiver: (24-29)% to Fire Resistance",
+        "Belt: (24-29)% to Fire Resistance",
+        "Other Jewellery: (19-22)% increased Fire Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 36,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Anguish4.png?scale=1&w=1&h=1&v=7f159be306f742b0e4845beacdecd612",
+      "league": "Standard",
+      "id": "4ba1d35ab26e079c9709f1d28c4273bb764a1ed8efb5c41430a9d77eb616e574",
+      "name": "",
+      "typeLine": "Wailing Essence of Anguish",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "One Handed Weapon: Adds (21-28) to (42-49) Fire Damage to Spells",
+        "Two Handed Weapon: Adds (28-38) to (57-66) Fire Damage to Spells",
+        "Gloves: Adds (5-7) to (11-14) Fire Damage to Attacks",
+        "Body Armour: (6-7)% chance to Avoid Fire Damage when Hit",
+        "Shield: (6-7)% chance to Avoid Fire Damage when Hit",
+        "Other Armour: (19-22)% chance to Avoid being Ignited",
+        "Quiver: Adds (5-7) to (11-14) Fire Damage to Attacks",
+        "Belt: (19-22)% chance to Avoid being Ignited",
+        "Other Jewellery: Adds (11-15) to (23-27) Fire Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 72,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Torment4.png?scale=1&w=1&h=1&v=a9d3fedc6e36286fbfc6bf32763db2da",
+      "league": "Standard",
+      "id": "f782f4ea10bf1f6536a849934bf2a807f387af494ee5d74bdbe21ee15772e9c0",
+      "name": "",
+      "typeLine": "Wailing Essence of Torment",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "One Handed Weapon: Adds (2-6) to (73-77) Lightning Damage to Spells",
+        "Two Handed Weapon: Adds (3-9) to (109-115) Lightning Damage to Spells",
+        "Gloves: Adds (1-2) to (23-24) Lightning Damage to Attacks",
+        "Body Armour: (6-7)% chance to Avoid Lightning Damage when Hit",
+        "Shield: (6-7)% chance to Avoid Lightning Damage when Hit",
+        "Other Armour: (19-22)% chance to Avoid being Shocked",
+        "Quiver: Adds (1-2) to (23-24) Lightning Damage to Attacks",
+        "Belt: (19-22)% chance to Avoid being Shocked",
+        "Other Jewellery: Adds (1-4) to (40-43) Lightning Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 42,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Suffering3.png?scale=1&w=1&h=1&v=3198cb3a59be5c098fa3a3fcaaf0b941",
+      "league": "Standard",
+      "id": "e2b86914428c179907a3bf8bd084bd0afe6943ab0109c238287915ec7c08eb37",
+      "name": "",
+      "typeLine": "Weeping Essence of Suffering",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "One Handed Weapon: Adds (11-15) to (22-25) Cold Damage to Spells",
+        "Two Handed Weapon: Adds (16-22) to (33-38) Cold Damage to Spells",
+        "Gloves: Adds (5-7) to (10-12) Cold Damage to Attacks",
+        "Body Armour: (5-6)% chance to Avoid Cold Damage when Hit",
+        "Shield: (5-6)% chance to Avoid Cold Damage when Hit",
+        "Other Armour: (15-18)% chance to Avoid being Frozen",
+        "Quiver: Adds (5-7) to (10-12) Cold Damage to Attacks",
+        "Belt: (15-18)% chance to Avoid being Frozen",
+        "Other Jewellery: Adds (6-9) to (13-16) Cold Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 52,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Rage5.png?scale=1&w=1&h=1&v=b75372bd4b454b6ae9f6ae841df29f89",
+      "league": "Standard",
+      "id": "88693abb84f3fd59f3b9ac58e0a79992ec922723d58d37d007c21783f902c98a",
+      "name": "",
+      "typeLine": "Screaming Essence of Rage",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "4/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Weapon: +1 to Level of Socketed Fire Gems",
+        "Other Item: (33-37) to Strength"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 4,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 59,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Fear2.png?scale=1&w=1&h=1&v=b87e37101af11df191863915c951c2de",
+      "league": "Standard",
+      "id": "c68e63b87af05c6a829d262edba2a92813202a14daebad8a99648a58157fcb5a",
+      "name": "",
+      "typeLine": "Muttering Essence of Fear",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "4/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 45 and below",
+        "",
+        "One Handed Weapon: Minions deal (7-10)% increased Damage",
+        "Two Handed Weapon: Minions deal (10-15)% increased Damage",
+        "Armour: Minions have (7-10)% increased maximum Life",
+        "Quiver: Minions have (7-10)% increased Movement Speed",
+        "Belt: Minions have (7-10)% increased maximum Life",
+        "Other Jewellery: Minions have (7-10)% increased Movement Speed"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 4,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 46,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Zeal4.png?scale=1&w=1&h=1&v=c09f456b095f7ecf967ff10b191fba2f",
+      "league": "Standard",
+      "id": "f335c2562ce73d93f1b2b7a9c1bfa5032d66d10b2e45617c212caef4df5fca49",
+      "name": "",
+      "typeLine": "Wailing Essence of Zeal",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "Melee Weapon: (20-22)% increased Attack Speed",
+        "Ranged Weapon: (8-9)% increased Attack Speed",
+        "Gloves: (8-10)% increased Attack Speed",
+        "Boots: 20% increased Movement Speed",
+        "Other Armour: (20-22)% increased Stun and Block Recovery",
+        "Quiver: (6-7)% increased Attack Speed",
+        "Belt: (20-22)% increased Stun and Block Recovery",
+        "Other Jewellery: (4-5)% increased Attack Speed"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 84,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Woe2.png?scale=1&w=1&h=1&v=4214744a550dc61157b8d7c7becf9cbd",
+      "league": "Standard",
+      "id": "8b7686385d334a2f17612cac1b6f0426e0cb7ac1127e9bc45d38ed5d1c077321",
+      "name": "",
+      "typeLine": "Muttering Essence of Woe",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 45 and below",
+        "",
+        "One Handed Weapon: (20-29)% increased Spell Damage",
+        "Two Handed Weapon: (30-44)% increased Spell Damage",
+        "Armour: (6-11) to maximum Energy Shield",
+        "Quiver: (16-20)% increased Elemental Damage with Attack Skills",
+        "Amulet: (5-7)% increased maximum Energy Shield",
+        "Ring: (4-8) to maximum Energy Shield",
+        "Belt: (4-8) to maximum Energy Shield"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 8,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Doubt4.png?scale=1&w=1&h=1&v=02095ead87ba8aa5bb818521d89431ba",
+      "league": "Standard",
+      "id": "832c9fc326002d7f6eb56b163f9a0e739ae92613009b41fdcea456b0c5d6d86f",
+      "name": "",
+      "typeLine": "Wailing Essence of Doubt",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "Weapon: (166-200) to Accuracy Rating",
+        "Body Armour: (61-138) to Evasion Rating",
+        "Helmet: (40-49) to Evasion Rating",
+        "Shield: (61-138) to Evasion Rating",
+        "Other Armour: (26-29) to Evasion Rating",
+        "Quiver: (166-200) to Accuracy Rating",
+        "Amulet: (11-13)% increased Evasion Rating",
+        "Other Jewellery: (61-80) to Evasion Rating"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 68,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Wrath5.png?scale=1&w=1&h=1&v=47288253244910c2da4f0bdda069b832",
+      "league": "Standard",
+      "id": "6d965e3c3349cf08da5363d409110f8df26a216b401ecb5acbf9fc080491851a",
+      "name": "",
+      "typeLine": "Screaming Essence of Wrath",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "4/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Two Handed Melee Weapon: Adds (5-16) to (200-211) Lightning Damage",
+        "Other Weapon: Adds (4-11) to (133-140) Lightning Damage",
+        "Armour: (36-41)% to Lightning Resistance",
+        "Quiver: (36-41)% to Lightning Resistance",
+        "Belt: (36-41)% to Lightning Resistance",
+        "Other Jewellery: (23-26)% increased Lightning Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 4,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 64,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Contempt2.png?scale=1&w=1&h=1&v=54a248bdc119c25b458deaf1e4867821",
+      "league": "Standard",
+      "id": "de14843b8d5410e5152ae63ffa2d8d11dbb1b8f517c59a2d97eaaebb6cff212a",
+      "name": "",
+      "typeLine": "Muttering Essence of Contempt",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 45 and below",
+        "",
+        "One Handed Weapon: Adds (4-5) to (8-9) Physical Damage",
+        "Two Handed Weapon: Adds (6-8) to (12-14) Physical Damage",
+        "Gloves: Adds (2-3) to (4-5) Physical Damage to Attacks",
+        "Other Armour: Reflects (5-10) Physical Damage to Melee Attackers",
+        "Quiver: Adds (2-3) to (4-5) Physical Damage to Attacks",
+        "Belt: Reflects (5-10) Physical Damage to Melee Attackers",
+        "Other Jewellery: Adds (2-3) to (4-5) Physical Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 22,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Anguish5.png?scale=1&w=1&h=1&v=9769855172e3523de00e083ab3649ab8",
+      "league": "Standard",
+      "id": "36985ed1c90b4a332cacd092202c251f1823af9df1dcd69b8c81ecaa08492254",
+      "name": "",
+      "typeLine": "Screaming Essence of Anguish",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "One Handed Weapon: Adds (31-41) to (61-71) Fire Damage to Spells",
+        "Two Handed Weapon: Adds (41-55) to (83-96) Fire Damage to Spells",
+        "Gloves: Adds (6-8) to (13-17) Fire Damage to Attacks",
+        "Body Armour: (7-8)% chance to Avoid Fire Damage when Hit",
+        "Shield: (7-8)% chance to Avoid Fire Damage when Hit",
+        "Other Armour: (23-26)% chance to Avoid being Ignited",
+        "Quiver: Adds (6-8) to (13-17) Fire Damage to Attacks",
+        "Belt: (23-26)% chance to Avoid being Ignited",
+        "Other Jewellery: Adds (16-22) to (32-38) Fire Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 73,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Contempt3.png?scale=1&w=1&h=1&v=d3673e9f9027fc270a8950d2998b1f6c",
+      "league": "Standard",
+      "id": "0e03a52becdade84c637eb27f7aaf9bbe8c92c8fa2f73b06b85d1926bac897a0",
+      "name": "",
+      "typeLine": "Weeping Essence of Contempt",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "One Handed Weapon: Adds (6-8) to (13-15) Physical Damage",
+        "Two Handed Weapon: Adds (9-12) to (18-21) Physical Damage",
+        "Gloves: Adds (3-4) to (6-7) Physical Damage to Attacks",
+        "Other Armour: Reflects (11-24) Physical Damage to Melee Attackers",
+        "Quiver: Adds (3-4) to (6-7) Physical Damage to Attacks",
+        "Belt: Reflects (11-24) Physical Damage to Melee Attackers",
+        "Other Jewellery: Adds (4-6) to (9-10) Physical Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 23,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Suffering5.png?scale=1&w=1&h=1&v=f308ffc5c350e8d224063040ad142f41",
+      "league": "Standard",
+      "id": "7bc91b53ec7c7e9ff48ca9bc9188afc4de0b2e4144d27c1907ec36c61a952bd4",
+      "name": "",
+      "typeLine": "Screaming Essence of Suffering",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "One Handed Weapon: Adds (25-33) to (50-58) Cold Damage to Spells",
+        "Two Handed Weapon: Adds (38-50) to (75-88) Cold Damage to Spells",
+        "Gloves: Adds (6-8) to (12-15) Cold Damage to Attacks",
+        "Body Armour: (7-8)% chance to Avoid Cold Damage when Hit",
+        "Shield: (7-8)% chance to Avoid Cold Damage when Hit",
+        "Other Armour: (23-26)% chance to Avoid being Frozen",
+        "Quiver: Adds (6-8) to (12-15) Cold Damage to Attacks",
+        "Belt: (23-26)% chance to Avoid being Frozen",
+        "Other Jewellery: Adds (12-16) to (24-28) Cold Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 54,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Suffering4.png?scale=1&w=1&h=1&v=e764ac660e07b09bad94914c5bcb8dc0",
+      "league": "Standard",
+      "id": "cc6774e12610c7d66696635ee54190a75f1fc5b53c1d50e75e5216387127f55b",
+      "name": "",
+      "typeLine": "Wailing Essence of Suffering",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "One Handed Weapon: Adds (17-23) to (34-40) Cold Damage to Spells",
+        "Two Handed Weapon: Adds (26-34) to (52-60) Cold Damage to Spells",
+        "Gloves: Adds (6-7) to (11-14) Cold Damage to Attacks",
+        "Body Armour: (6-7)% chance to Avoid Cold Damage when Hit",
+        "Shield: (6-7)% chance to Avoid Cold Damage when Hit",
+        "Other Armour: (19-22)% chance to Avoid being Frozen",
+        "Quiver: Adds (6-7) to (11-14) Cold Damage to Attacks",
+        "Belt: (19-22)% chance to Avoid being Frozen",
+        "Other Jewellery: Adds (10-13) to (20-24) Cold Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 53,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Spite4.png?scale=1&w=1&h=1&v=4e706193d7c9c0c7b390740799679a4a",
+      "league": "Standard",
+      "id": "99ba98e1803bd4996cc1c2aacf9417f9b1781acb3ddc8e56e99c89833862742b",
+      "name": "",
+      "typeLine": "Wailing Essence of Spite",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "Weapon: +1 to Level of Socketed Lightning Gems",
+        "Other Item: (28-32) to Intelligence"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 80,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Doubt5.png?scale=1&w=1&h=1&v=8d3a34ab4f38108888a592ef53452eb5",
+      "league": "Standard",
+      "id": "9b2164820fc4daa668c7527ec5cb9df66dd0ea00338b179aca47609f010623c9",
+      "name": "",
+      "typeLine": "Screaming Essence of Doubt",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Weapon: (251-320) to Accuracy Rating",
+        "Body Armour: (139-322) to Evasion Rating",
+        "Helmet: (50-60) to Evasion Rating",
+        "Shield: (139-322) to Evasion Rating",
+        "Other Armour: (30-35) to Evasion Rating",
+        "Quiver: (251-320) to Accuracy Rating",
+        "Amulet: (14-16)% increased Evasion Rating",
+        "Other Jewellery: (81-120) to Evasion Rating"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 69,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Rage4.png?scale=1&w=1&h=1&v=35eed2dacc8916e6710bae0ecaee9367",
+      "league": "Standard",
+      "id": "a8bb6925f507475f3988dbf3303805b58b0f657ffbbe8f1e49a001a13846892c",
+      "name": "",
+      "typeLine": "Wailing Essence of Rage",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "5/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "Weapon: +1 to Level of Socketed Fire Gems",
+        "Other Item: (28-32) to Strength"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 5,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 58,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Hatred4.png?scale=1&w=1&h=1&v=91177a1b7ab8a636d0028718227f1f84",
+      "league": "Standard",
+      "id": "81a7662f0b5da417ade4a429dc55a838eda43c30fb92f1fa200e54c3ce3be03e",
+      "name": "",
+      "typeLine": "Wailing Essence of Hatred",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "6/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "Two Handed Melee Weapon: Adds (32-43) to (65-76) Cold Damage",
+        "Other Weapon: Adds (22-29) to (43-50) Cold Damage",
+        "Armour: (24-29)% to Cold Resistance",
+        "Quiver: (24-29)% to Cold Resistance",
+        "Belt: (24-29)% to Cold Resistance",
+        "Other Jewellery: (19-22)% increased Cold Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 6,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 3,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Misery5.png?scale=1&w=1&h=1&v=fe191e14d46d94e18c3650566fa1ceac",
+      "league": "Standard",
+      "id": "06b23a2f199c029e86a1e2485ca97a703dcb05dd5e83411daa30c31297803ab3",
+      "name": "",
+      "typeLine": "Screaming Essence of Misery",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "5/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "One Handed Weapon: (17-19)% increased Cast Speed",
+        "Two Handed Weapon: (26-29)% increased Cast Speed",
+        "Shield: (50-59)% increased Mana Regeneration Rate",
+        "Other Armour: (55-59) to maximum Mana",
+        "Quiver: Projectiles Pierce an additional Target",
+        "Belt: (11-15)% increased Flask Mana Recovery rate",
+        "Other Jewellery: (50-59)% increased Mana Regeneration Rate"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 5,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 88,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Contempt4.png?scale=1&w=1&h=1&v=31184aca892c0697a53adc523df41a71",
+      "league": "Standard",
+      "id": "7c771a72d9260b2caceee890db78d8ba9c578fc3baecb100a5e6d6c7eba5d61f",
+      "name": "",
+      "typeLine": "Wailing Essence of Contempt",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "One Handed Weapon: Adds (7-11) to (16-19) Physical Damage",
+        "Two Handed Weapon: Adds (11-15) to (23-27) Physical Damage",
+        "Gloves: Adds (3-5) to (7-8) Physical Damage to Attacks",
+        "Other Armour: Reflects (25-50) Physical Damage to Melee Attackers",
+        "Quiver: Adds (3-5) to (7-8) Physical Damage to Attacks",
+        "Amulet: Adds (6-9) to (13-15) Physical Damage to Attacks",
+        "Ring: Adds (5-7) to (11-12) Physical Damage to Attacks",
+        "Belt: Reflects (25-50) Physical Damage to Melee Attackers"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 24,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Anger2.png?scale=1&w=1&h=1&v=56963b86f3de434e89b427190f3c6466",
+      "league": "Standard",
+      "id": "a8873fcdc258027c937861b6c8c3d54850bbc5b7cc4cdd4179121ddd6a2dad50",
+      "name": "",
+      "typeLine": "Muttering Essence of Anger",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 45 and below",
+        "",
+        "Two Handed Melee Weapon: Adds (12-16) to (23-27) Fire Damage",
+        "Other Weapon: Adds (8-10) to (15-18) Fire Damage",
+        "Armour: (12-17)% to Fire Resistance",
+        "Quiver: (12-17)% to Fire Resistance",
+        "Belt: (12-17)% to Fire Resistance",
+        "Other Jewellery: (11-14)% increased Fire Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 34,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Greed2.png?scale=1&w=1&h=1&v=2c3f8a3a5a1454ca0883d4c17109b617",
+      "league": "Standard",
+      "id": "7008a1c73398032ad5086f10a0026217288ffc3e767728091521b265de8b18c3",
+      "name": "",
+      "typeLine": "Muttering Essence of Greed",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 45 and below",
+        "",
+        "Weapon: (0.6-0.8)% of Physical Attack Damage Leeched as Life",
+        "Armour: (15-30) to maximum Life",
+        "Quiver: (0.6-0.8)% of Physical Attack Damage Leeched as Life",
+        "Belt: (12-15)% increased Flask Life Recovery rate",
+        "Other Jewellery: (2-4) Life Regenerated per second"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 15,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Woe1.png?scale=1&w=1&h=1&v=c2091e476989643b8eb31d5f7ee20f71",
+      "league": "Standard",
+      "id": "8d02e6e1f6419a9e09374e8468f992ae077d2d3ba96548c65e30b22236801b29",
+      "name": "",
+      "typeLine": "Whispering Essence of Woe",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 35 and below",
+        "",
+        "One Handed Weapon: (10-19)% increased Spell Damage",
+        "Two Handed Weapon: (15-29)% increased Spell Damage",
+        "Armour: (3-5) to maximum Energy Shield",
+        "Quiver: (11-15)% increased Elemental Damage with Attack Skills",
+        "Amulet: (2-4)% increased maximum Energy Shield",
+        "Ring: (1-3) to maximum Energy Shield",
+        "Belt: (1-3) to maximum Energy Shield"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 7,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Sorrow4.png?scale=1&w=1&h=1&v=f5512f122d9c273e57c3eb4e1aa72fec",
+      "league": "Standard",
+      "id": "a6e226e0f37473eb37444667aedebed77be1fd0a2e2e6304c90204caeb6ad035",
+      "name": "",
+      "typeLine": "Wailing Essence of Sorrow",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "6/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "Weapon: +1 to Level of Socketed Cold Gems",
+        "Other Item: (28-32) to Dexterity"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 6,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 30,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Sorrow2.png?scale=1&w=1&h=1&v=07f487552536d08952250cb242dcd3ce",
+      "league": "Standard",
+      "id": "bdb5ad7696ef244e29826078202cabe3d8401c075e23c1375fe3657c8f70bab5",
+      "name": "",
+      "typeLine": "Muttering Essence of Sorrow",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 45 and below",
+        "",
+        "Weapon: +1 to Level of Socketed Cold Gems",
+        "Other Item: (13-17) to Dexterity"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 28,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Greed1.png?scale=1&w=1&h=1&v=aa5003ecc7f4899317f84cdf7c4ee05f",
+      "league": "Standard",
+      "id": "6efdad1fbe1b271852b7ea3a4fb4d1b4f3d97f66518bdf9fb2853af58e02656e",
+      "name": "",
+      "typeLine": "Whispering Essence of Greed",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "4/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 35 and below",
+        "",
+        "Weapon: (0.5-0.7)% of Physical Attack Damage Leeched as Life",
+        "Armour: (5-14) to maximum Life",
+        "Quiver: (0.5-0.7)% of Physical Attack Damage Leeched as Life",
+        "Belt: (8-11)% increased Flask Life Recovery rate",
+        "Other Jewellery: (1-2) Life Regenerated per second"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 4,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 14,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Loathing5.png?scale=1&w=1&h=1&v=f081b3de4779da9cb22b6fe0c8ca018c",
+      "league": "Standard",
+      "id": "c77892925978f82948cb42cc87d5e57d024f6ed1cd3dd6364aa6a9bc9c7ff175",
+      "name": "",
+      "typeLine": "Screaming Essence of Loathing",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Weapon: (25-29)% increased Critical Strike Chance",
+        "Gloves: (18-20)% increased Global Critical Strike Chance",
+        "Helmet: 3% reduced Mana Reserved",
+        "Shield: (3-4)% Chance to Block",
+        "Other Armour: (5-6)% chance to Dodge Attack Hits",
+        "Quiver: (30-34)% increased Global Critical Strike Chance",
+        "Amulet: (30-34)% increased Global Critical Strike Chance",
+        "Ring: (18-20)% increased Global Critical Strike Chance",
+        "Belt: (26-30)% increased Stun Duration on Enemies"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 77,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Anger3.png?scale=1&w=1&h=1&v=2386a07a358a9949b4f925f7b544c1d3",
+      "league": "Standard",
+      "id": "c723c7609b28d9fc1dfd6a725a81c33ca6a951f62651e901b13fedcb6d33ee0c",
+      "name": "",
+      "typeLine": "Weeping Essence of Anger",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "Two Handed Melee Weapon: Adds (25-34) to (50-59) Fire Damage",
+        "Other Weapon: Adds (17-22) to (33-39) Fire Damage",
+        "Armour: (18-23)% to Fire Resistance",
+        "Quiver: (18-23)% to Fire Resistance",
+        "Belt: (18-23)% to Fire Resistance",
+        "Other Jewellery: (15-18)% increased Fire Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 35,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Wrath3.png?scale=1&w=1&h=1&v=3870a986ca4f5984a797427c40a4ab41",
+      "league": "Standard",
+      "id": "25fe720baf0470f74c3e49c8f216f1850099906fbc2adcd2b14c0c2cfa45c7cb",
+      "name": "",
+      "typeLine": "Weeping Essence of Wrath",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "4/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "Two Handed Melee Weapon: Adds (2-7) to (87-92) Lightning Damage",
+        "Other Weapon: Adds (2-5) to (58-61) Lightning Damage",
+        "Armour: (18-23)% to Lightning Resistance",
+        "Quiver: (18-23)% to Lightning Resistance",
+        "Belt: (18-23)% to Lightning Resistance",
+        "Other Jewellery: (8-12)% increased Lightning Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 4,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 62,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Sorrow3.png?scale=1&w=1&h=1&v=3bb862824c36ee034a3a727a311432f8",
+      "league": "Standard",
+      "id": "eb9816d169436d9221ed7e4d94186715fe8bdc52b479ecdc6ef9d9cd41244566",
+      "name": "",
+      "typeLine": "Weeping Essence of Sorrow",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "Weapon: +1 to Level of Socketed Cold Gems",
+        "Other Item: (18-22) to Dexterity"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 29,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Fear4.png?scale=1&w=1&h=1&v=19d61d301f7c14a3e26e4604b3273af5",
+      "league": "Standard",
+      "id": "c13fbcb512ad5184ecac10e097cc30eaa8ca04e2f658f8f9ed24abe752e0cba0",
+      "name": "",
+      "typeLine": "Wailing Essence of Fear",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "One Handed Weapon: Minions deal (15-18)% increased Damage",
+        "Two Handed Weapon: Minions deal (22-27)% increased Damage",
+        "Armour: Minions have (15-18)% increased maximum Life",
+        "Quiver: Minions have (15-18)% increased Movement Speed",
+        "Belt: Minions have (15-18)% increased maximum Life",
+        "Other Jewellery: Minions have (15-18)% increased Movement Speed"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 48,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Sorrow5.png?scale=1&w=1&h=1&v=c7e6a975cf955ee33a5c25558951643d",
+      "league": "Standard",
+      "id": "f4ae92c5620238dbed4374faeb904c0e328ec2d12f4733672eeb8fc23229c899",
+      "name": "",
+      "typeLine": "Screaming Essence of Sorrow",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Weapon: +1 to Level of Socketed Cold Gems",
+        "Other Item: (33-37) to Dexterity"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 31,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Anger5.png?scale=1&w=1&h=1&v=6a1a5786842f93c1decfd5448ec58ea0",
+      "league": "Standard",
+      "id": "a350b539fede3cc3d58185928f8a397f50c9cc4b9bc1cdc334971161ec8f275a",
+      "name": "",
+      "typeLine": "Screaming Essence of Anger",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Two Handed Melee Weapon: Adds (58-77) to (115-134) Fire Damage",
+        "Other Weapon: Adds (38-51) to (77-89) Fire Damage",
+        "Armour: (36-41)% to Fire Resistance",
+        "Quiver: (36-41)% to Fire Resistance",
+        "Belt: (36-41)% to Fire Resistance",
+        "Other Jewellery: (23-26)% increased Fire Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 37,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Torment5.png?scale=1&w=1&h=1&v=e771c7292c0e1885e657b0c84f9fe7e6",
+      "league": "Standard",
+      "id": "f7426041b9068b34da34c5b488d73c8aa5d0f1b79179d41c1cd076ca58cd7739",
+      "name": "",
+      "typeLine": "Screaming Essence of Torment",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "One Handed Weapon: Adds (3-9) to (106-112) Lightning Damage to Spells",
+        "Two Handed Weapon: Adds (4-13) to (159-168) Lightning Damage to Spells",
+        "Gloves: Adds (1-2) to (25-26) Lightning Damage to Attacks",
+        "Body Armour: (7-8)% chance to Avoid Lightning Damage when Hit",
+        "Shield: (7-8)% chance to Avoid Lightning Damage when Hit",
+        "Other Armour: (23-26)% chance to Avoid being Shocked",
+        "Quiver: Adds (1-2) to (25-26) Lightning Damage to Attacks",
+        "Belt: (23-26)% chance to Avoid being Shocked",
+        "Other Jewellery: Adds (3-6) to (57-61) Lightning Damage to Attacks"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 43,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Greed3.png?scale=1&w=1&h=1&v=a673402a48dd5d1a6509515f5e249dab",
+      "league": "Standard",
+      "id": "a9aad099af96f2792ba9a4aa9e530d9189fd4cc61561e821b5ca801fd661b4d9",
+      "name": "",
+      "typeLine": "Weeping Essence of Greed",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "2/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 60 and below",
+        "",
+        "Weapon: (0.7-0.9)% of Physical Attack Damage Leeched as Life",
+        "Armour: (31-45) to maximum Life",
+        "Quiver: (0.7-0.9)% of Physical Attack Damage Leeched as Life",
+        "Belt: (16-19)% increased Flask Life Recovery rate",
+        "Other Jewellery: (4-7) Life Regenerated per second"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 16,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Envy5.png?scale=1&w=1&h=1&v=bac465c20f512b02d742b69f72d84b7a",
+      "league": "Standard",
+      "id": "931ccbada1ea691493e63ffb6bd0907ce6d35e0966b8f7bbbe5a9a2525c44abb",
+      "name": "",
+      "typeLine": "Screaming Essence of Envy",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "4/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Weapon: (0.2-0.4)% of Physical Attack Damage Leeched as Mana",
+        "Armour: (21-25)% to Chaos Resistance",
+        "Quiver: (0.2-0.4)% of Physical Attack Damage Leeched as Mana",
+        "Belt: (21-25)% to Chaos Resistance",
+        "Other Jewellery: (23-26)% increased Chaos Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 4,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 97,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Wrath4.png?scale=1&w=1&h=1&v=1b78b631cf91f1d6ec48173183c26257",
+      "league": "Standard",
+      "id": "920b9267769f9780085576aff265f5fdfe0d9f534ad8025fb5cb7ec9b9bbc393",
+      "name": "",
+      "typeLine": "Wailing Essence of Wrath",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "Properties restricted to level 75 and below",
+        "",
+        "Two Handed Melee Weapon: Adds (4-11) to (137-145) Lightning Damage",
+        "Other Weapon: Adds (2-7) to (91-96) Lightning Damage",
+        "Armour: (24-29)% to Lightning Resistance",
+        "Quiver: (24-29)% to Lightning Resistance",
+        "Belt: (24-29)% to Lightning Resistance",
+        "Other Jewellery: (13-17)% increased Lightning Damage"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 63,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Fear5.png?scale=1&w=1&h=1&v=98666642411b25e17b860dfa79499bef",
+      "league": "Standard",
+      "id": "5c938789930112014bebb1145de6b1c47014d8abd7ba87450eae6d5e73a4c85d",
+      "name": "",
+      "typeLine": "Screaming Essence of Fear",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "1/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "One Handed Weapon: Minions deal (19-22)% increased Damage",
+        "Two Handed Weapon: Minions deal (28-33)% increased Damage",
+        "Armour: Minions have (19-22)% increased maximum Life",
+        "Quiver: Minions have (19-22)% increased Movement Speed",
+        "Belt: Minions have (19-22)% increased maximum Life",
+        "Other Jewellery: Minions have (19-22)% increased Movement Speed"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 1,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 49,
+      "y": 0,
+      "inventoryId": "Stash11"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Essence/Greed5.png?scale=1&w=1&h=1&v=f2cac5eb3527123b27ef94c99edbe3a2",
+      "league": "Standard",
+      "id": "b8508ed8b76deee4d0a9756b8c44b62ce939f88e9784089742d6cf178e660a2a",
+      "name": "",
+      "typeLine": "Screaming Essence of Greed",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/9",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to rare with one guaranteed property",
+        "",
+        "Weapon: (0.9-1.1)% of Physical Attack Damage Leeched as Life",
+        "Body Armour: (90-99) to maximum Life",
+        "Helmet: (80-89) to maximum Life",
+        "Shield: (90-99) to maximum Life",
+        "Other Armour: (70-79) to maximum Life",
+        "Quiver: (0.9-1.1)% of Physical Attack Damage Leeched as Life",
+        "Belt: (24-27)% increased Flask Life Recovery rate",
+        "Other Jewellery: (10-13) Life Regenerated per second"
+      ],
+      "descrText": "Right click this item then left click a normal item to apply it.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 5000,
+      "category": {
+        "currency": []
+      },
+      "x": 18,
+      "y": 0,
+      "inventoryId": "Stash11"
+    }
+  ]
+}

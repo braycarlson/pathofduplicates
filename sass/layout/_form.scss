@@ -1,0 +1,106 @@
+/* Forms */
+
+#forms {
+    margin: 40px auto 0;
+    width: 75%;
+    min-height: 660px;
+}
+
+#url-tab:checked ~ #url-section,
+#stashtab-tab:checked ~ #stashtab-section {
+    display: inline-block;
+}
+
+#url-buttons, #stashtab-buttons {
+    margin-top: 10px;
+}
+
+#message {
+    display: none;
+    min-height: 27px;
+    overflow: hidden;
+}
+
+label {
+    margin: 25px 0 4px 0;
+    font-weight: bold;
+    display: block;
+}
+
+input[type="radio"] + label {
+    cursor: pointer;
+    margin-top: -1px;
+    padding: 6px;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+input[type="radio"]:checked + label:hover {
+    cursor: default;
+}
+
+input[type=text],
+input[type=number],
+select,
+textarea {
+    display: block;
+    padding: 6px;
+    margin-bottom: 4px;
+    width: 100%;
+}
+
+textarea {
+    height: 270px;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+fieldset {
+    border: none;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+select::-ms-expand { 
+    display: none;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: $breakpoint-med) {
+    #forms {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: $breakpoint-small) {
+    #url-section, 
+    #stashtab-section {
+        padding: 0 20px;
+    }
+}
+
+@media screen and (min-width:0\0) {
+    select {
+        padding: 5px\9;
+    } 
+}

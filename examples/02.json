@@ -1,0 +1,7908 @@
+{
+  "numTabs": 11,
+  "quadLayout": true,
+  "items": [
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BiscosLeash.png?scale=1&w=2&h=1&v=75329e5f2855d55be4593a30aaead9fd",
+      "league": "Standard",
+      "id": "6993bc67450a1edb9d368b4badcf2f47246580c2214360448cc88d2d5744f92d",
+      "name": "Bisco's Leash",
+      "typeLine": "Heavy Belt",
+      "identified": true,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+34 to Strength"
+      ],
+      "explicitMods": [
+        "5% increased Quantity of Items found",
+        "+33% to Cold Resistance",
+        "1% increased Rarity of Items found per 15 Rampage Kills",
+        "Rampage"
+      ],
+      "flavourText": [
+        "You were always there, by my side,\r",
+        "whether we sat or played.\r",
+        "Our friendship was a joyful ride,\r",
+        "I wish you could have stayed."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 3,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/gen/image/WzksNCx7ImYiOiJBcnRcLzJESXRlbXNcL0ZsYXNrc1wvT3ZlcmZsb3dpbmdDaGFsaWNlIiwic3AiOjAuNjA4NSwibGV2ZWwiOjB9XQ/1177cee65a/Item.png",
+      "league": "Standard",
+      "id": "d23ef65f490a1945c330dbc29d4c40ee48e745b5cca51e76bbc1c6059b67d547",
+      "name": "The Overflowing Chalice",
+      "typeLine": "Sulphur Flask",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Lasts %0 Seconds",
+          "values": [
+            [
+              "4.40",
+              1
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes %0 of %1 Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has %0 Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "40% increased Damage"
+      ],
+      "implicitMods": [
+        "Creates Consecrated Ground on Use"
+      ],
+      "explicitMods": [
+        "100% increased Charge Recovery",
+        "10% increased Duration",
+        "Gains no Charges during Effect of any Overflowing Chalice Flask",
+        "100% increased Charges gained by Other Flasks during Flask Effect"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "flavourText": [
+        "Empty cup, full of promise."
+      ],
+      "frameType": 3,
+      "category": {
+        "flasks": []
+      },
+      "x": 1,
+      "y": 17,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/PrismaticEclipse.png?scale=1&w=2&h=3&v=6065c4c8951187534c6c42be10dc611b",
+      "league": "Standard",
+      "id": "3e580edfc2d3dd33b429b8cefc336c5cb6061bc04cde153a02d61d592ae80fdb",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Prismatic Eclipse",
+      "typeLine": "Twilight Blade",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "One Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "57-123",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "53",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "91",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "91",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "40% increased Global Accuracy Rating"
+      ],
+      "explicitMods": [
+        "+8% Chance to Block Attack Damage while Dual Wielding",
+        "Adds 27 to 37 Physical Damage",
+        "25% increased Global Physical Damage with Weapons per Red Socket",
+        "12% increased Global Attack Speed per Green Socket",
+        "0.4% of Physical Attack Damage Leeched as Mana per Blue Socket",
+        "+2 to Melee Weapon Range per White Socket"
+      ],
+      "flavourText": [
+        "\"A raging Solaris seared and contorted the orb's surface. \r",
+        "A despairing Lunaris filled the scars with her tears. \r",
+        "Yet Viridi remained, trapped within, forever more.\"\r",
+        " - Azmerian Creation Myth"
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "onesword"
+        ]
+      },
+      "x": 10,
+      "y": 15,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Wildslash.png?scale=1&w=2&h=2&v=f1ce7ae95f4a9102de5886be4c985bcd",
+      "league": "Standard",
+      "id": "07bff13a18efc3e26d44df44048e0d466219cbace67277ef3907c3625cbe3881",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Wildslash",
+      "typeLine": "Awl",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Claw",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "9-41",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.30%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.65",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "12",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+7 Life gained for each Enemy hit by Attacks"
+      ],
+      "explicitMods": [
+        "+11 to Strength",
+        "+12 to Dexterity",
+        "Adds 2 to 17 Physical Damage",
+        "10% increased Attack Speed",
+        "20% increased Damage with Movement Skills",
+        "15% increased Attack Speed with Movement Skills",
+        "15% reduced Global Accuracy Rating"
+      ],
+      "flavourText": [
+        "There are two things to know about fighting:\r",
+        "When to swing like crazy, and when to run."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "claw"
+        ]
+      },
+      "x": 14,
+      "y": 3,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ExplorersGauntlet2.png?scale=1&w=2&h=2&v=87c7ffd1e181a375231d3bc9ed0b421b",
+      "league": "Standard",
+      "id": "9bd33464d173e55b0f1838cdfd8c78dfb29e537e7a135218fe3f9bee563cb1b4",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Worldcarver",
+      "typeLine": "Dragonscale Gauntlets",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "278",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "278",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "67",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "51",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "51",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Trigger Level 20 Arcane Wake after Spending a total of 200 Mana",
+        "+254 to Accuracy Rating",
+        "130% increased Armour and Evasion",
+        "+60 to maximum Life",
+        "6% increased Attack Damage for each Map Item Modifier affecting the Area",
+        "3% increased Attack Speed for each Map Item Modifier affecting the Area"
+      ],
+      "flavourText": [
+        "Is it better to find new lands - or to create them?"
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "gloves"
+        ]
+      },
+      "x": 0,
+      "y": 20,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/NomicsStorm.png?scale=1&w=2&h=2&v=765086c7187b029a99cf7cfb6bbff44d",
+      "league": "Standard",
+      "id": "2478eea838f8ccdd539b55f426aacf3d5bcbc621671e4586d74840d5fab06047",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Nomic's Storm",
+      "typeLine": "Strapped Boots",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "74",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "27",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "16",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+27 to Dexterity",
+        "+44 to Evasion Rating",
+        "+21 to maximum Energy Shield",
+        "+20% to Cold Resistance",
+        "20% increased Movement Speed",
+        "15% increased Damage taken while on Full Energy Shield",
+        "20% increased Movement Speed while on Full Energy Shield"
+      ],
+      "flavourText": [
+        "It takes a clear mind to outrun a storm. "
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 10,
+      "y": 2,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Voidshaft.png?scale=1&w=2&h=4&v=d9858b5ec83b16a101bc893d7f1d8ad0",
+      "league": "Standard",
+      "id": "2a818fd2115314e6ef7a2be89b466379b51354ae5664295c9ab0cfd7bd5cbc92",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Voltaxic Rift",
+      "typeLine": "Spine Bow",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Bow",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "27-80",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Elemental Damage",
+          "values": [
+            [
+              "1-295",
+              6
+            ]
+          ],
+          "displayMode": 0,
+          "type": 10
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.53",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Adds 1 to 295 Lightning Damage",
+        "13% increased Attack Speed",
+        "60% of Lightning Damage Converted to Chaos Damage",
+        "10% chance to Shock",
+        "Your Chaos Damage can Shock"
+      ],
+      "flavourText": [
+        "The eldritch storm descended upon us, and bruised lightning\r",
+        "rained down. Metal withered and flesh melted before its\r",
+        "arcane power. There was no escape, no shelter. Only despair."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "bow"
+        ]
+      },
+      "x": 3,
+      "y": 17,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BatedBreath.png?scale=1&w=2&h=1&v=3f6afe1ec6b53f8424e8de6c4598284c",
+      "league": "Standard",
+      "id": "475104639e40c7d891467d805ba1acae879805b3447e466540fcce2fe50d2dc9",
+      "name": "Bated Breath",
+      "typeLine": "Chain Belt",
+      "identified": true,
+      "note": "~price 1 alch",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "22",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+18 to maximum Energy Shield"
+      ],
+      "explicitMods": [
+        "+21 to Intelligence",
+        "10% increased Damage",
+        "+28 to maximum Energy Shield",
+        "20% increased maximum Energy Shield",
+        "50% increased Energy Shield Recharge Rate"
+      ],
+      "flavourText": [
+        "At knifepoint, a moment's hesitation means death."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 4,
+      "y": 13,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/RelentlessFury.png?scale=1&w=2&h=3&v=a73ad02d8417880da8918a49e05a1161",
+      "league": "Standard",
+      "id": "e1efe4a26187ad034d5dde082575953f7b27b4afd68017d3e8d9249ff27bc9f2",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Relentless Fury",
+      "typeLine": "Decorative Axe",
+      "identified": true,
+      "properties": [
+        {
+          "name": "One Handed Axe",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "52-98",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "29",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "80",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "23",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "72% increased Physical Damage",
+        "Adds 3 to 7 Physical Damage",
+        "2% of Physical Attack Damage Leeched as Life",
+        "Culling Strike",
+        "You gain Onslaught for 3 seconds on Culling Strike",
+        "Cannot be Chilled during Onslaught"
+      ],
+      "flavourText": [
+        "Relentless fury\r",
+        "Sunder my every foe\r",
+        "Fuel my boiling blood"
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "oneaxe"
+        ]
+      },
+      "x": 22,
+      "y": 0,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/KondosPride.png?scale=1&w=2&h=4&v=4572de733157fec06a06aa1693223836",
+      "league": "Standard",
+      "id": "49ad8fd8b621016899692558e08727a2d35dcaf3061c26603ca466763ec1a20f",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Kondo's Pride",
+      "typeLine": "Ezomyte Blade",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Two Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "223-414",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.35",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "61",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+435 to Accuracy Rating"
+      ],
+      "explicitMods": [
+        "306% increased Physical Damage",
+        "0.6% of Physical Attack Damage Leeched as Life",
+        "50% increased Melee Damage against Bleeding Enemies",
+        "Cannot Leech Life from Critical Strikes",
+        "30% chance to Blind Enemies on Critical Strike",
+        "50% chance to cause Bleeding on Critical Strike"
+      ],
+      "flavourText": [
+        "Faintly gleaming in the moonlit night,\r",
+        "Kondo's Pride was primed to fight.\r",
+        "Driven by an inner fire,\r",
+        "bloodlust, spite and ill desire.\r",
+        "He swiftly moved to strike them all,\r",
+        "wreaking havoc like a steel squall."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "twosword"
+        ]
+      },
+      "x": 14,
+      "y": 5,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 84,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/WakeOfDestruction.png?scale=1&w=2&h=2&v=b63b590dc9832607c7621daa7c8433ef",
+      "league": "Standard",
+      "id": "56b053bbdf2bfba5c62a6fdaefecf17be3f4bddab578045f6733821f09056897",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Wake of Destruction",
+      "typeLine": "Mesh Boots",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "70",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "14",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "28",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "28",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "28",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Adds 1 to 120 Lightning Damage to Attacks",
+        "37% increased Armour and Energy Shield",
+        "+20 Life gained on Kill",
+        "15% increased Movement Speed",
+        "10% chance to Cause Monsters to Flee"
+      ],
+      "flavourText": [
+        "Tempest's power given form,\r",
+        "Flee before the walking storm."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 14,
+      "y": 12,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordUnique3.png?scale=1&w=2&h=4&v=87dca069d5969a7a63346b9b0c2d079f",
+      "league": "Standard",
+      "id": "3175ba84b9cdeff534b706c6402c12c083205af685dfb4047cf0b6b31400f001",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Queen's Decree",
+      "typeLine": "Ornate Sword",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Two Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "26-43",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.40",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "56",
+              1
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+185 to Accuracy Rating"
+      ],
+      "explicitMods": [
+        "Minions have 11% increased maximum Life",
+        "176% increased Skeleton Duration",
+        "25% increased Strength Requirement",
+        "Minions deal 11% increased Damage",
+        "+1 to maximum number of Zombies",
+        "+1 to maximum number of Spectres",
+        "+1 to maximum number of Skeletons"
+      ],
+      "flavourText": [
+        "The nobles wanted to take her throne.\r",
+        "She let the peasants take their wealth.\r",
+        "The peasants wanted to take her wealth.\r",
+        "She let the soldiers take their heads.\r",
+        "The soldiers wanted to take her head.\r",
+        "She sat on her throne and wept."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "twosword"
+        ]
+      },
+      "x": 10,
+      "y": 4,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Tarynsshiver.png?scale=1&w=2&h=4&v=2794eba8dec8db29541eae96bc3555e2",
+      "league": "Standard",
+      "id": "824bddaeb9e9ec1fdddcf99f4fdebdcbe102c41ee011c5eb844113f214e287e7",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Taryn's Shiver",
+      "typeLine": "Maelström Staff",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Staff",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "57-119",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+20% Chance to Block Attack Damage while wielding a Staff"
+      ],
+      "explicitMods": [
+        "+2 to Level of Socketed Cold Gems",
+        "52% increased Spell Damage",
+        "44% increased Cold Damage",
+        "13% increased Cast Speed",
+        "8% chance to Freeze",
+        "Enemies Frozen by you take 20% increased Damage"
+      ],
+      "flavourText": [
+        "Shed by the winged beast of night,\r",
+        "A scaly frost-encrusted thorn.\r",
+        "All who feel its wintry light\r",
+        "Shiver in pain at the frozen dawn."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "staff"
+        ]
+      },
+      "x": 2,
+      "y": 3,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff6unique.png?scale=1&w=2&h=4&v=d2e8ef91b21959805d65c9110d356ada",
+      "league": "Standard",
+      "id": "f451912014788d745162f715f41dc9391576f67410ada98a78127660428c71d0",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Agnerod South",
+      "typeLine": "Imperial Staff",
+      "identified": true,
+      "note": "~price 5 chaos",
+      "properties": [
+        {
+          "name": "Staff",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "49-147",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.50%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.15",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "66",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "158",
+              1
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+18% Chance to Block Attack Damage while wielding a Staff"
+      ],
+      "explicitMods": [
+        "+2 to Level of Socketed Lightning Gems",
+        "+109 to Intelligence",
+        "38% increased Lightning Damage",
+        "+5% to maximum Lightning Resistance",
+        "40% increased Strength Requirement",
+        "Damage Penetrates 20% Lightning Resistance"
+      ],
+      "flavourText": [
+        "One for each corner of the great Vinktar Square."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "staff"
+        ]
+      },
+      "x": 0,
+      "y": 6,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr7.png?scale=1&w=2&h=4&v=aac930a9a0f3a17f498ba8e2e3e512ea",
+      "league": "Standard",
+      "id": "388dbda3200b055ef4c01bb26a11fe9c8aaa5856944437222d79e5d76bb9e61d",
+      "elder": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Woe Fend",
+      "typeLine": "Pinnacle Tower Shield",
+      "identified": true,
+      "note": "~price 2 chaos",
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+9%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "25%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 15
+        },
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "663",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "70",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "159",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+23 to maximum Life"
+      ],
+      "explicitMods": [
+        "Socketed Gems are Supported by Level 5 Cast when Damage Taken",
+        "33% increased Armour",
+        "22% chance to Avoid being Stunned",
+        "35% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "shield"
+        ]
+      },
+      "x": 6,
+      "y": 13,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofThorns.png?scale=1&w=2&h=2&v=4e8c66d75c7741e19a3d4d7a4376f2dc",
+      "league": "Standard",
+      "id": "f8f688d6859321d205baf964026d440b63368c69347d1a1049675f12ae8f035c",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Crown of Thorns",
+      "typeLine": "Vine Circlet",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "84",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "explicitMods": [
+        "+78 to maximum Energy Shield",
+        "Reflects 5 Physical Damage to Melee Attackers",
+        "Take 5 Physical Damage when Hit by Attacks",
+        "Pain Attunement"
+      ],
+      "flavourText": [
+        "Lift it lightly, don it slow.\r",
+        "The spikes point out and in, you know."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 8,
+      "y": 16,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Prismweave.png?scale=1&w=2&h=1&v=019ee26051258b18f96309965a003b52",
+      "league": "Standard",
+      "id": "b5ac83d0ada721c7b14ea2afb36e7d836c64a04ba59122716e254a3f2ebd98d7",
+      "name": "Prismweave",
+      "typeLine": "Rustic Sash",
+      "identified": true,
+      "note": "~price 1 alch",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "17% increased Global Physical Damage"
+      ],
+      "explicitMods": [
+        "Adds 8 to 15 Fire Damage to Attacks",
+        "Adds 5 to 13 Cold Damage to Attacks",
+        "Adds 1 to 33 Lightning Damage to Attacks",
+        "+8% to all Elemental Resistances",
+        "30% increased Elemental Damage with Attack Skills during any Flask Effect",
+        "10% increased Elemental Damage with Attack Skills"
+      ],
+      "flavourText": [
+        "Nothing is as vivid as the rage of battle"
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 8,
+      "y": 23,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3C.png?scale=1&w=2&h=3&v=54c1559d59813905d1547099cf4c6950",
+      "league": "Standard",
+      "id": "d6d425a987502d93fb704a124590b4bed78b6f887b6faafd75186df309b8f59d",
+      "elder": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Dire Skin",
+      "typeLine": "Coronal Leather",
+      "identified": true,
+      "note": "~price 5 chaos",
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "633",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "134",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "29% increased Evasion Rating",
+        "Recover 3% of Maximum Life on Kill",
+        "28% increased Stun and Block Recovery",
+        "4% chance to Dodge Attack Hits",
+        "Reflects 43 Physical Damage to Melee Attackers"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 4,
+      "y": 0,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique1.png?scale=1&w=2&h=2&v=4a55a505b039d47780a41cec58984459",
+      "league": "Standard",
+      "id": "a2a2ac2722268a78435db6d5a7d9dea530dbd8a26adab29916f45c04950daa6a",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Deerstalker",
+      "typeLine": "Deerskin Boots",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "208",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "22",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "42",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Socketed Gems are Supported by Level 11 Trap",
+        "181% increased Evasion Rating",
+        "+37 to maximum Life",
+        "15% increased Movement Speed",
+        "14% increased Trap Throwing Speed",
+        "15% increased Movement Speed for 9 seconds on Throwing a Trap"
+      ],
+      "flavourText": [
+        "Anticipation, preparation, exhilaration, celebration."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 5,
+      "y": 17,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/RelentlessFury.png?scale=1&w=2&h=3&v=a73ad02d8417880da8918a49e05a1161",
+      "league": "Standard",
+      "id": "32265777e50388d42207559980512b374eb39193c0007af8d76cbf99ea7837bd",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Relentless Fury",
+      "typeLine": "Decorative Axe",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "One Handed Axe",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+7%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "51-97",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "29",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "80",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "23",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "63% increased Physical Damage",
+        "Adds 3 to 7 Physical Damage",
+        "2% of Physical Attack Damage Leeched as Life",
+        "Culling Strike",
+        "You gain Onslaught for 3 seconds on Culling Strike",
+        "Cannot be Chilled during Onslaught"
+      ],
+      "flavourText": [
+        "Relentless fury\r",
+        "Sunder my every foe\r",
+        "Fuel my boiling blood"
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "oneaxe"
+        ]
+      },
+      "x": 12,
+      "y": 6,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 4,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff1unique.png?scale=1&w=1&h=4&v=46fadaab1d1ca8dd62de64e70031fca7",
+      "league": "Standard",
+      "id": "1bdedb9ead195c77f8eebb331d1ce60d49d6ee053d8d10a98e1b91b4c12950c0",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Fencoil",
+      "typeLine": "Gnarled Branch",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Staff",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "8-17",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "implicitMods": [
+        "+18% Chance to Block Attack Damage while wielding a Staff"
+      ],
+      "explicitMods": [
+        "Socketed Gems are Supported by Level 8 Trap",
+        "42% increased Global Damage",
+        "14% increased maximum Life",
+        "14% increased maximum Mana"
+      ],
+      "flavourText": [
+        "You've no reason for fear when you're a root in a fen\r",
+        "- Old Ezomyte saying."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "staff"
+        ]
+      },
+      "x": 2,
+      "y": 17,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Wildslash.png?scale=1&w=2&h=2&v=f1ce7ae95f4a9102de5886be4c985bcd",
+      "league": "Standard",
+      "id": "820105c3bff6273f07a09cd245c79d518bdc99348c0c580d43f25044a3051e75",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Wildslash",
+      "typeLine": "Awl",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Claw",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+14%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "15-50",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.30%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.68",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "12",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "25",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+7 Life gained for each Enemy hit by Attacks"
+      ],
+      "explicitMods": [
+        "+12 to Strength",
+        "+13 to Dexterity",
+        "Adds 6 to 20 Physical Damage",
+        "12% increased Attack Speed",
+        "20% increased Damage with Movement Skills",
+        "15% increased Attack Speed with Movement Skills",
+        "15% reduced Global Accuracy Rating"
+      ],
+      "flavourText": [
+        "There are two things to know about fighting:\r",
+        "When to swing like crazy, and when to run."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "claw"
+        ]
+      },
+      "x": 8,
+      "y": 6,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Scaeva.png?scale=1&w=2&h=3&v=c4cb60a83be330fc90ef5efaf7d69f93",
+      "league": "Standard",
+      "id": "7949a3824638139b21f84bb253e88f6970ab52972259396f01172c50f308c510",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Scaeva",
+      "typeLine": "Gladius",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "One Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "134-219",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.95%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "40% increased Global Accuracy Rating"
+      ],
+      "explicitMods": [
+        "Adds 80 to 141 Physical Damage",
+        "19% increased Critical Strike Chance",
+        "0.3% of Physical Attack Damage Leeched as Life per Red Socket",
+        "+10% to Global Critical Strike Multiplier per Green Socket",
+        "0.3% of Physical Attack Damage Leeched as Mana per Blue Socket",
+        "8% increased Global Defences per White Socket",
+        "75% increased Global Critical Strike Chance when in Main Hand",
+        "+8% Chance to Block Attack Damage when in Off Hand"
+      ],
+      "flavourText": [
+        "Even from the back rows,\r",
+        "the whistling steel was mesmerising.\r",
+        "They watched the dance in the arena dust, silent as the dead.\r",
+        "A spell only broken by the spilling of blood."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "onesword"
+        ]
+      },
+      "x": 4,
+      "y": 10,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Bloodseeker.png?scale=1&w=2&h=2&v=9b858294912041d71443e85559226010",
+      "league": "Standard",
+      "id": "10f81fe768d364ce8ac78fa09bef51ac6bd81db8f841283639e9586fa67969a1",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Bloodseeker",
+      "typeLine": "Hellion's Paw",
+      "identified": true,
+      "note": "~price 80 chaos",
+      "properties": [
+        {
+          "name": "Claw",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "101-174",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.68",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "62",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "131",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "95",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "1.6% of Physical Attack Damage Leeched as Life"
+      ],
+      "explicitMods": [
+        "159% increased Physical Damage",
+        "Adds 10 to 12 Physical Damage",
+        "5% increased Attack Speed",
+        "1.2% of Physical Attack Damage Leeched as Life",
+        "5% increased Movement Speed",
+        "Life Leech from Hits with this Weapon is instant"
+      ],
+      "flavourText": [
+        "\"For the life of the flesh will always be in the blood.\"\r",
+        "- Atalui, Vaal Priestess"
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "claw"
+        ]
+      },
+      "x": 8,
+      "y": 14,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 63,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1Aunique.png?scale=1&w=2&h=3&v=27495c172d542874271c0ab8ec7feaa2",
+      "league": "Standard",
+      "id": "f8bba674ad3d93af4df0a95119527997be9c6e0986aaaaebcab4c15aa029b586",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Cloak of Flame",
+      "typeLine": "Scholar's Robe",
+      "identified": true,
+      "note": "~price 1 fuse",
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "39",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "55",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+35% to Fire Resistance",
+        "41% increased Ignite Duration on Enemies",
+        "10% chance to Ignite",
+        "Reflects 15 Fire Damage to Melee Attackers",
+        "20% of Physical Damage from Hits taken as Fire Damage"
+      ],
+      "flavourText": [
+        "He who sows an ember shall reap an inferno."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 0,
+      "y": 14,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Deidbell.png?scale=1&w=2&h=2&v=0e7d1d42faebcfe4f2146b2176e78bc4",
+      "league": "Standard",
+      "id": "6d8d07d94064e8f88a3cf50b387ae0c589b99798cf1125fa9c387a5b0d1ed75b",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Deidbell",
+      "typeLine": "Gilded Sallet",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "310",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "90",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "33",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+23 to Strength",
+        "+29 to Dexterity",
+        "Adds 10 to 20 Physical Damage to Attacks",
+        "+220 to Armour",
+        "20% increased Melee Damage",
+        "Cannot Leech when on Low Life"
+      ],
+      "flavourText": [
+        "May you never hear it toll."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 8,
+      "y": 1,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter8.png?scale=1&w=2&h=3&v=f1b80e8b35ecb64cf2441a9ef9a39562",
+      "league": "Standard",
+      "id": "524ad86bb76f731c552bb7f2f407585e7bc1c5cce15445a02e3a74d581c10835",
+      "elder": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Vortex Knell",
+      "typeLine": "Abyssal Sceptre",
+      "identified": true,
+      "note": "~price 2 chaos",
+      "properties": [
+        {
+          "name": "One Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+7%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "98-146",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.20%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "83",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "99",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Elemental Damage"
+      ],
+      "explicitMods": [
+        "Socketed Gems are Supported by Level 16 Brutality",
+        "111% increased Physical Damage",
+        "37% increased Mana Regeneration Rate",
+        "17% increased Burning Damage",
+        "13% of Physical Damage Converted to Chaos Damage"
+      ],
+      "frameType": 2,
+      "category": {
+        "weapons": [
+          "sceptre",
+          "onemace"
+        ]
+      },
+      "x": 2,
+      "y": 14,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/NullBow.png?scale=1&w=2&h=4&v=f5a5565af5cbff314d898f29a07a3002",
+      "league": "Standard",
+      "id": "7c098ae5c474f5a664444b4fc6593e343fe2cadbc3654158b7bcfd2ff7dcac65",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Null's Inclination",
+      "typeLine": "Ranger Bow",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Bow",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "37-76",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Chaos Damage",
+          "values": [
+            [
+              "64-142",
+              7
+            ]
+          ],
+          "displayMode": 0,
+          "type": 11
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.42",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "212",
+              1
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Adds 64 to 142 Chaos Damage",
+        "9% increased Attack Speed",
+        "+8% to Chaos Resistance",
+        "+212 Intelligence Requirement",
+        "Minions deal 1% increased Damage per 10 Dexterity",
+        "Trigger Socketed Minion Spells on Kill with this Weapon"
+      ],
+      "flavourText": [
+        "The hunt continues when the prey falls."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "bow"
+        ]
+      },
+      "x": 8,
+      "y": 8,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ShapersSeed.png?scale=1&w=1&h=1&v=b8ea3b9a74332bb6e40b1109b987d234",
+      "league": "Standard",
+      "id": "ca59afb35f0dcd3d7ca768209ece44908dd08cfbb8bcea2d1dee8ba7e917d57b",
+      "name": "Shaper's Seed",
+      "typeLine": "Agate Amulet",
+      "identified": true,
+      "note": "~price 1 alch",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "16",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+17 to Strength and Intelligence"
+      ],
+      "explicitMods": [
+        "37% increased Mana Regeneration Rate",
+        "2% of Life Regenerated per second",
+        "Nearby Allies gain 2% of Life Regenerated per second",
+        "Nearby Allies gain 40% increased Mana Regeneration Rate"
+      ],
+      "flavourText": [
+        "The first light to grow in the primordial darkness."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 0,
+      "y": 5,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 66,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff3.png?scale=1&w=2&h=4&v=15d15e5f67e45a703a09d5249d6ab7a4",
+      "league": "Standard",
+      "id": "11e3bc11179cf8bc66ac40aeceb0cf8200eea582a7e55c3f50c6ef1df89ad9b4",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Quarterstaff",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Staff",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "41-68",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "41",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "72",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "72",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+18% Chance to Block Attack Damage while wielding a Staff"
+      ],
+      "frameType": 0,
+      "category": {
+        "weapons": [
+          "staff"
+        ]
+      },
+      "x": 12,
+      "y": 13,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 61,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MurderousEye.png?scale=1&w=1&h=1&v=6679365e95eb89fd626cf59fa2b57c99",
+      "league": "Standard",
+      "id": "c4a583e305b87e03d7525a739fee6d89aa16fd2974544cbd37233f1c5670f35a",
+      "abyssJewel": true,
+      "name": "",
+      "typeLine": "Hale Murderous Eye Jewel",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Abyss",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "+28 to maximum Life"
+      ],
+      "descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "frameType": 1,
+      "category": {
+        "jewels": [
+          "abyss"
+        ]
+      },
+      "x": 0,
+      "y": 4,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 4,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Daressos.png?scale=1&w=1&h=4&v=126b08473af3187435fc62fa3d8f1a99",
+      "league": "Standard",
+      "id": "1bf0333f5b49bd9a023991106b6a3853770a98b58d4c38ab3c0a632a031cdff8",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Daresso's Passion",
+      "typeLine": "Estoc",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "One Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "52-98",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Elemental Damage",
+          "values": [
+            [
+              "36-45",
+              5
+            ]
+          ],
+          "displayMode": 0,
+          "type": 10
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.50%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.50",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "12",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "43",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "140",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+25% to Global Critical Strike Multiplier"
+      ],
+      "explicitMods": [
+        "Adds 31 to 48 Physical Damage",
+        "Adds 36 to 45 Cold Damage",
+        "20% reduced Frenzy Charge Duration",
+        "25% chance to gain a Frenzy Charge on Kill",
+        "69% increased Damage while you have no Frenzy Charges"
+      ],
+      "flavourText": [
+        "It doesn't matter how well the young swordsman trains.\r",
+        "All form and finesse are forgotten when blood first hits the ground."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "onesword"
+        ]
+      },
+      "x": 7,
+      "y": 17,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring1Unique.png?scale=1&w=1&h=1&v=f962bd6db3b4125085fdadc3f7c00c44",
+      "league": "Standard",
+      "id": "acd80958d2ce5d04cc961be7b3ee98a99346b4f0a627ecb3120a28ef3df17f24",
+      "name": "Blackheart",
+      "typeLine": "Iron Ring",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "implicitMods": [
+        "Adds 1 to 4 Physical Damage to Attacks"
+      ],
+      "explicitMods": [
+        "5% increased Global Physical Damage",
+        "Adds 1 to 3 Chaos Damage to Attacks",
+        "+26 to maximum Life",
+        "3.8 Life Regenerated per second",
+        "10% chance to Cause Monsters to Flee"
+      ],
+      "flavourText": [
+        "Fear is highly infectious."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 2,
+      "y": 8,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Goredrill.png?scale=1&w=1&h=3&v=8840bde8e1f4efef74e0bb5093b74a36",
+      "league": "Standard",
+      "id": "af4d94a604a75a8510fe966576c2fc701d67d6ed43942ad1eb3c64873aac9224",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Goredrill",
+      "typeLine": "Skinning Knife",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Dagger",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "10-37",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "7.80%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "5",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "16",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Global Critical Strike Chance"
+      ],
+      "explicitMods": [
+        "+11 to Dexterity",
+        "68% increased Physical Damage",
+        "Adds 1 to 3 Physical Damage",
+        "30% increased Critical Strike Chance",
+        "40% increased Attack Damage against Bleeding Enemies",
+        "50% chance to cause Bleeding on Critical Strike"
+      ],
+      "flavourText": [
+        "A tap on the shoulder\r",
+        "A peck on the cheek\r",
+        "A sip of your wine\r",
+        "So red and so sleek"
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "dagger"
+        ]
+      },
+      "x": 7,
+      "y": 21,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/CurrencyUpgradeToRareShard.png?scale=1&w=1&h=1&v=d8fb5f5edca4b67035081f1eb9955d80",
+      "league": "Standard",
+      "id": "c76d25ec1ccd732fd4264336ffaf7f460dcc0ca36d0db806e343227ab0d1b56e",
+      "name": "",
+      "typeLine": "Alchemy Shard",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "8/20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "A stack of 20 shards becomes an Orb of Alchemy.",
+      "frameType": 5,
+      "stackSize": 8,
+      "maxStackSize": 20,
+      "category": {
+        "currency": []
+      },
+      "x": 4,
+      "y": 22,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/CurrencyRerollMagicShard.png?scale=1&w=1&h=1&v=937a56eea2dcf9b009ee8f6134818795",
+      "league": "Standard",
+      "id": "28f2f8ee52723b990a19e89e87f85ed7e595e8f4b46aa63c4669608ea09f4141",
+      "name": "",
+      "typeLine": "Alteration Shard",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "9/20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "A stack of 20 shards becomes an Orb of Alteration.",
+      "frameType": 5,
+      "stackSize": 9,
+      "maxStackSize": 20,
+      "category": {
+        "currency": []
+      },
+      "x": 4,
+      "y": 21,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BearTrapShield2.png?scale=1&w=2&h=2&v=c7b6ffad509c9bb323066c17e54332bb",
+      "league": "Standard",
+      "id": "26fe9a019f35d513d63b5ea24d9bd3e2fb35a7f6c2ee23e6e2e4dfa30f313fb3",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Jaws of Agony",
+      "typeLine": "Supreme Spiked Shield",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "24%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 15
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "242",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "47",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "70",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "85",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "85",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "4% chance to Dodge Spell Hits"
+      ],
+      "explicitMods": [
+        "Grants Level 20 Bear Trap Skill",
+        "26% increased Trap Damage",
+        "20% increased Global Physical Damage",
+        "+79 to maximum Life",
+        "-14 Physical Damage taken from Attacks",
+        "25% chance to gain a Power Charge on Throwing a Trap"
+      ],
+      "flavourText": [
+        "One wrong step triggers destruction. \r",
+        "Agony slowly dominates the will to live."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "shield"
+        ]
+      },
+      "x": 10,
+      "y": 8,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Jacktheaxe.png?scale=1&w=2&h=3&v=ef567be86d00f91f696fd2d8ab786228",
+      "league": "Standard",
+      "id": "63bac0d7c67f963565ceebe917bdb989100819b0ca678ffe3bb97ae2bd2d2a0f",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Jack, the Axe",
+      "typeLine": "Vaal Hatchet",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "One Handed Axe",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "82-215",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.54",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "140",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "86",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "90% increased Physical Damage",
+        "Adds 13 to 23 Physical Damage",
+        "10% increased Attack Speed",
+        "2% of Physical Attack Damage Leeched as Life",
+        "50% reduced total Recovery per second from Life Leech",
+        "25% chance to cause Bleeding on Hit"
+      ],
+      "flavourText": [
+        "\"Hey, you with the hands. Got a deal for you. \r",
+        "Give me a bit of life and I'll give you more death than you can poke a stick at. \r",
+        "You in?\""
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "oneaxe"
+        ]
+      },
+      "x": 2,
+      "y": 0,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/RyuslathasClutches.png?scale=1&w=2&h=1&v=222cd7044798511f90a2e56aa6028d1e",
+      "league": "Standard",
+      "id": "72de937525c5cd8e7af61565b964c0e2cf77bff73fb8c8343d6ae4c94e83f3d7",
+      "name": "Ryslatha's Coil",
+      "typeLine": "Studded Belt",
+      "identified": true,
+      "note": "~price 1 exa",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "32",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "22% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "+39 to Strength",
+        "30% more Maximum Physical Attack Damage",
+        "37% less Minimum Physical Attack Damage",
+        "Adds 1 to 16 Physical Damage to Attacks",
+        "+80 to maximum Life",
+        "Gain 50 Life when you Stun an Enemy"
+      ],
+      "flavourText": [
+        "All creatures have the potential for greatness\r",
+        "or unequivocal failure."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 19,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/OrnamentOfTheEast.png?scale=1&w=2&h=2&v=439960e4be13db407faf82dc675ebd4b",
+      "league": "Standard",
+      "id": "67195af5d7de72b6fe4093f7c62d0048cdd8f5e827bd6215f1b4bd5477b7eddc",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Ornament of the East",
+      "typeLine": "Gut Ripper",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Claw",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "54-143",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.30%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.65",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "46",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "80",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "80",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+44 Life gained for each Enemy hit by Attacks"
+      ],
+      "explicitMods": [
+        "+1 to Level of Socketed Dexterity Gems",
+        "Socketed Gems are Supported by Level 10 Faster Attacks",
+        "170% increased Physical Damage",
+        "10% increased Attack Speed",
+        "25% increased Stun and Block Recovery",
+        "Hits can't be Evaded"
+      ],
+      "flavourText": [
+        "To the Maraketh, death is as intimate as love."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "claw"
+        ]
+      },
+      "x": 10,
+      "y": 21,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/CurrencyUpgradeToMagicShard.png?scale=1&w=1&h=1&v=764a2f94c7a77f06a56252299246af53",
+      "league": "Standard",
+      "id": "120cf7fb12d5fcc2537efcac50fad7d03a129f75a292c7a6e4c045e682d9bd5a",
+      "name": "",
+      "typeLine": "Transmutation Shard",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "14/20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "A stack of 20 shards becomes an Orb of Transmutation.",
+      "frameType": 5,
+      "stackSize": 14,
+      "maxStackSize": 20,
+      "category": {
+        "currency": []
+      },
+      "x": 3,
+      "y": 8,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "ilvl": 86,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger4.png?scale=1&w=1&h=3&v=73f07b51d53c87085bc93c1eb8a23a28",
+      "league": "Standard",
+      "id": "b4bf86e8eef947a58f19ed80a6cd61047756acf91a2b15df5d4c9d83576c4861",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Soul Barb",
+      "typeLine": "Ambusher",
+      "identified": true,
+      "note": "~price 5 chaos",
+      "properties": [
+        {
+          "name": "Dagger",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+10%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "53-167",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.10%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.50",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Global Critical Strike Chance"
+      ],
+      "explicitMods": [
+        "62% increased Physical Damage",
+        "Adds 12 to 23 Physical Damage",
+        "+4 Life gained for each Enemy hit by Attacks",
+        "24% increased Damage with Poison",
+        "24% increased Elemental Damage with Attack Skills"
+      ],
+      "frameType": 2,
+      "category": {
+        "weapons": [
+          "dagger"
+        ]
+      },
+      "x": 14,
+      "y": 14,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Embrace.png?scale=1&w=2&h=3&v=03a2af82093a51ee94cd46b06d5fa05d",
+      "league": "Standard",
+      "id": "70f97bca3a3e8ca4081faab1040f1ca353fd0741775e5964456a5f14a68c5298",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "The Covenant",
+      "typeLine": "Spidersilk Robe",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "325",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "49",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "134",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Socketed Gems are Supported by Level 15 Added Chaos Damage",
+        "Socketed Gems have Blood Magic",
+        "+27 to Intelligence",
+        "239% increased Energy Shield",
+        "10% increased maximum Life"
+      ],
+      "flavourText": [
+        "My Soul is your Strength\r",
+        "My Price is your Blood"
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 4,
+      "y": 14,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Zahndethuscassock.png?scale=1&w=2&h=3&v=032175eb0e9b7c3cada82889806344b1",
+      "league": "Standard",
+      "id": "a518d25bda72a8ce443dd0cbb8f01aa21272d2c51175eb714185bb8657401980",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Zahndethus' Cassock",
+      "typeLine": "Sage's Robe",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "183",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "37",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "104",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Adds 1 to 40 Lightning Damage to Attacks",
+        "147% increased Energy Shield",
+        "+45% to Chaos Resistance",
+        "25% increased Light Radius",
+        "100% chance to create Consecrated Ground when you Block"
+      ],
+      "flavourText": [
+        "When dead men rise and darkness falls\r",
+        "Only faith can be your walls\r",
+        "Walls of Light, not of brick\r",
+        "Twice as strong and twice as thick"
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 14,
+      "y": 0,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Delve/PerfectFossil.png?scale=1&w=1&h=1&v=cbce2c743aad0314753383fa1cf220e2",
+      "league": "Standard",
+      "id": "f029f929aa05b5f252de34b522b5043441db76fe58e7a58229b17e6d641d5ead",
+      "name": "",
+      "typeLine": "Perfect Fossil",
+      "identified": true,
+      "note": "~price 10 chaos",
+      "properties": [
+        {
+          "name": "Applies to",
+          "values": [
+            [
+              "Weapons, Body Armour, Gloves, Boots, Helmets, Shields, Maps",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Improved Quality"
+      ],
+      "descrText": "Place in a Resonator to influence item crafting.",
+      "frameType": 5,
+      "category": {
+        "currency": [
+          "fossil"
+        ]
+      },
+      "x": 0,
+      "y": 22,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword6Unique.png?scale=1&w=2&h=4&v=9f88714c468a915a107324aa46cb13de",
+      "league": "Standard",
+      "id": "f694f2b47870f1d6a089ad56a73db7c7229d3a61e38ec3f9c65ab3448aacc1ee",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Shiversting",
+      "typeLine": "Bastard Sword",
+      "identified": true,
+      "note": "~price 1 exa",
+      "properties": [
+        {
+          "name": "Two Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "29-48",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Elemental Damage",
+          "values": [
+            [
+              "35-70",
+              5
+            ]
+          ],
+          "displayMode": 0,
+          "type": 10
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.45",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "14",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "21",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "30",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "40% increased Global Accuracy Rating"
+      ],
+      "explicitMods": [
+        "90% increased Physical Damage",
+        "Adds 35 to 70 Cold Damage",
+        "0.6% of Physical Attack Damage Leeched as Mana",
+        "Cannot be Frozen"
+      ],
+      "flavourText": [
+        "Stoic visage, icy heart.\r",
+        "Life of sorrow, lived apart."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "twosword"
+        ]
+      },
+      "x": 4,
+      "y": 6,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 61,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace7Unique.png?scale=1&w=2&h=4&v=be8a026098eae6766dd4d1d5f32b2648",
+      "league": "Standard",
+      "id": "15c9f6cd56e2039d4fff0e5be59ee79a9773d6db26ae0b4d9ad8d8aee054a842",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Geofri's Baptism",
+      "typeLine": "Brass Maul",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "102-153",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Elemental Damage",
+          "values": [
+            [
+              "11-23",
+              5
+            ]
+          ],
+          "displayMode": 0,
+          "type": 10
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "92",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "200% increased Physical Damage",
+        "Adds 11 to 23 Cold Damage",
+        "15% increased Stun Duration on Enemies",
+        "Never deal Critical Strikes"
+      ],
+      "flavourText": [
+        "\"One quick tap is all the persuasion you'll need.\"\r",
+        "- Archbishop Geofri of Phrecia Cathedral"
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "twomace"
+        ]
+      },
+      "x": 6,
+      "y": 6,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 68,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique2.png?scale=1&w=2&h=1&v=aae1ffa9f08a009d8da57b99f327ec03",
+      "league": "Standard",
+      "id": "514f12a0331a4e7d64ccd0ddf6eef4bddc73185e89ebdd6b8b66c9cd3bf3c46b",
+      "name": "Perandus Blazon",
+      "typeLine": "Cloth Belt",
+      "identified": true,
+      "note": "~price 1 alch",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "16",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "23% increased Stun and Block Recovery"
+      ],
+      "explicitMods": [
+        "+22 to all Attributes",
+        "6% increased Quantity of Items found",
+        "+20% to Fire Resistance",
+        "20% increased Flask Effect Duration",
+        "-2 Physical Damage taken from Attacks"
+      ],
+      "flavourText": [
+        "A large enough debt turns even a friend\r",
+        "into an enemy, and the Perandus family\r",
+        "had more debtors than anyone."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 7,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6Unique.png?scale=1&w=2&h=1&v=83c49cda8bbc6956e816208f6a4f680f",
+      "league": "Standard",
+      "id": "9978a1cc91c87dee820530124e470d3747f10fec1baae2c401093b191480a128",
+      "name": "Wurm's Molt",
+      "typeLine": "Leather Belt",
+      "identified": true,
+      "note": "~price 1 alch",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+26 to maximum Life"
+      ],
+      "explicitMods": [
+        "+22 to Strength",
+        "+24 to Intelligence",
+        "+13% to Cold Resistance",
+        "0.4% of Physical Attack Damage Leeched as Life",
+        "0.4% of Physical Attack Damage Leeched as Mana"
+      ],
+      "flavourText": [
+        "They say a lifetime of wisdom is carried\r",
+        "in every skin the great beasts shed."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 8,
+      "y": 0,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 61,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/TasaliosSign.png?scale=1&w=1&h=1&v=cab58ad9258a4ef09a9ee5478eda50cb",
+      "league": "Standard",
+      "id": "2b00eac02beca6b085338b4522ef0852e85a9642f8ea293aa0967bb0ca9f3a86",
+      "name": "Tasalio's Sign",
+      "typeLine": "Sapphire Ring",
+      "identified": true,
+      "note": "~price 5 chaos",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+29% to Cold Resistance"
+      ],
+      "explicitMods": [
+        "Adds 10 to 19 Cold Damage to Spells and Attacks",
+        "+252 to Evasion Rating",
+        "50% chance to Avoid being Chilled",
+        "10% chance to Freeze",
+        "Adds 40 to 60 Cold Damage against Chilled Enemies"
+      ],
+      "flavourText": [
+        "A gift from Tasalio, God of Water,\r",
+        "to the chieftain Rakiata.\r",
+        "Kaom took Rakiata's head and hand\r",
+        "so that his warriors' axes might rise and fall like the waves."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 1,
+      "y": 5,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt1B.png?scale=1&w=2&h=3&v=e3ef9ff43db66e7bb9d49e26c1ead023",
+      "league": "Standard",
+      "id": "a37b398d88cafc620f0d6b5254d74b5b728d078a1016d3f52ecd101c269a11fc",
+      "shaper": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Agony Shelter",
+      "typeLine": "Loricated Ringmail",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "488",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "95",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "84",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "84",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "50% increased Armour and Energy Shield",
+        "+6% to Fire Resistance",
+        "Recover 5% of Maximum Energy Shield on Kill",
+        "5% increased Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 18,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 68,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/EzomytePeak.png?scale=1&w=2&h=2&v=1ea157f8fe142f5abe41f1342ed3a02c",
+      "league": "Standard",
+      "id": "7ed5429061414c46cb8ea2dfd61c5938040e639c674b69af80c7f140178de0c5",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Ezomyte Peak",
+      "typeLine": "Iron Hat",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+6%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "25",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "explicitMods": [
+        "20% increased Global Physical Damage",
+        "+15 to Armour",
+        "+31 to maximum Life",
+        "Cannot Evade Enemy Attacks"
+      ],
+      "flavourText": [
+        "Centuries of servitude, a day\r",
+        "of glory, an eternity of death."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 0,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Delve/Upgrade1x1A.png?scale=1&w=1&h=1&v=b1e654a4fc6338833a86053c8c9f803c",
+      "league": "Standard",
+      "id": "fec17c9e403f2690b7dc99312faef678614a5bcf10650efcdc8aac0d849178cc",
+      "delve": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "DV",
+          "sColour": "DV"
+        }
+      ],
+      "name": "",
+      "typeLine": "Primitive Alchemical Resonator",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Requires <unmet>{1} Socketed Fossil",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to a rare item"
+      ],
+      "descrText": "All sockets must be filled with Fossils before this item can be used.",
+      "frameType": 5,
+      "category": {
+        "currency": [
+          "resonator"
+        ]
+      },
+      "x": 0,
+      "y": 23,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Delve/Upgrade1x1A.png?scale=1&w=1&h=1&v=b1e654a4fc6338833a86053c8c9f803c",
+      "league": "Standard",
+      "id": "3659cd1b2014b5a0c0516834041a00c6034aa823b3f19df1f9f3466eb549fc44",
+      "delve": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "DV",
+          "sColour": "DV"
+        }
+      ],
+      "name": "",
+      "typeLine": "Primitive Alchemical Resonator",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Requires <unmet>{1} Socketed Fossil",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to a rare item"
+      ],
+      "descrText": "All sockets must be filled with Fossils before this item can be used.",
+      "frameType": 5,
+      "category": {
+        "currency": [
+          "resonator"
+        ]
+      },
+      "x": 1,
+      "y": 22,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Delve/Upgrade1x1A.png?scale=1&w=1&h=1&v=b1e654a4fc6338833a86053c8c9f803c",
+      "league": "Standard",
+      "id": "420f9bfce095c93bdfa4a72a1c59f0bdf586cc5a4b7573cb3c965eacea7e4da1",
+      "delve": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "DV",
+          "sColour": "DV"
+        }
+      ],
+      "name": "",
+      "typeLine": "Primitive Alchemical Resonator",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Requires <unmet>{1} Socketed Fossil",
+          "values": [],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "Upgrades a normal item to a rare item"
+      ],
+      "descrText": "All sockets must be filled with Fossils before this item can be used.",
+      "frameType": 5,
+      "category": {
+        "currency": [
+          "resonator"
+        ]
+      },
+      "x": 1,
+      "y": 23,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/DarkrayVectors.png?scale=1&w=2&h=2&v=6ddb5285ab1bd32a565dea229c97feed",
+      "league": "Standard",
+      "id": "d460e6df98822f08bbee00753f40d67c252b44ce33c6b9ff96d9d804f85f4864",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 2,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Darkray Vectors",
+      "typeLine": "Dragonscale Boots",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "179",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "179",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "65",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "62",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "62",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "48% increased Armour and Evasion",
+        "+36% to Lightning Resistance",
+        "5% increased Movement Speed per Frenzy Charge",
+        "+1 to Maximum Frenzy Charges",
+        "40% reduced Frenzy Charge Duration",
+        "25% reduced Light Radius",
+        "2% chance to Dodge Attack Hits per Frenzy Charge"
+      ],
+      "flavourText": [
+        "\"Sirrius flew on wings of light, faster than wind, faster\r",
+        "than thought. But try as he might to outrun the darkness,\r",
+        "it was there, at every turn, waiting for him.\"\r",
+        "- Azmerian legend"
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 2,
+      "y": 21,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Kingsguard.png?scale=1&w=2&h=3&v=efc50530918b24eda1a7650492e4ce32",
+      "league": "Standard",
+      "id": "da9678664a8d11f13fd06093e5166a776d5f35b72853166e7269b771a3245121",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Kingsguard",
+      "typeLine": "Conquest Chainmail",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "1002",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "194",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "61",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "96",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "96",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "159% increased Armour and Energy Shield",
+        "+88 to maximum Life",
+        "+62 to maximum Mana",
+        "30% increased Endurance Charge Duration",
+        "Gain 100 Life when you lose an Endurance Charge"
+      ],
+      "flavourText": [
+        "The toughest armour is the trust of your people."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 10,
+      "y": 18,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt3C.png?scale=1&w=2&h=3&v=bbdf9f67046cb1f1c0311066d0f7fada",
+      "league": "Standard",
+      "id": "ca50c35c0d34d6f8f39888820ca1d0057e5d66c41f60d290b81c907c99ea2276",
+      "shaper": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Beast Ward",
+      "typeLine": "Devout Chainmail",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "302",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "59",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "80",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "80",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+31 to Intelligence",
+        "+3 to maximum Life",
+        "+67 to maximum Mana",
+        "Reflects 3 Physical Damage to Melee Attackers",
+        "8% increased Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 5,
+      "y": 19,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword5Unique.png?scale=1&w=2&h=3&v=8e4e2fd787fdf7203f95165c70586bff",
+      "league": "Standard",
+      "id": "7f4a390024c6ff21c7020139bbd814e6250d90f8878f7313990579751d9365fe",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Lakishu's Blade",
+      "typeLine": "Elegant Sword",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "One Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "46-77",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.67",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "28",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "46",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "55",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+190 to Accuracy Rating"
+      ],
+      "explicitMods": [
+        "Socketed Gems are supported by Level 1 Multistrike",
+        "78% increased Physical Damage",
+        "Adds 6 to 10 Physical Damage",
+        "11% increased Attack Speed",
+        "20% chance to Avoid being Stunned",
+        "36% reduced Stun and Block Recovery"
+      ],
+      "flavourText": [
+        "\"May the Blessed Lakishu watch our backs and our wives.\"\r",
+        "- Legionnaire Battle Blessing"
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "onesword"
+        ]
+      },
+      "x": 6,
+      "y": 10,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/PrismaticEclipse.png?scale=1&w=2&h=3&v=6065c4c8951187534c6c42be10dc611b",
+      "league": "Standard",
+      "id": "520928c16c2f1bf30a099eba8318b61c13f70161696f247291448a51f6553ba8",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Prismatic Eclipse",
+      "typeLine": "Twilight Blade",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "One Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "55-126",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "53",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "91",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "91",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "40% increased Global Accuracy Rating"
+      ],
+      "explicitMods": [
+        "+8% Chance to Block Attack Damage while Dual Wielding",
+        "Adds 25 to 40 Physical Damage",
+        "25% increased Global Physical Damage with Weapons per Red Socket",
+        "12% increased Global Attack Speed per Green Socket",
+        "0.4% of Physical Attack Damage Leeched as Mana per Blue Socket",
+        "+2 to Melee Weapon Range per White Socket"
+      ],
+      "flavourText": [
+        "\"A raging Solaris seared and contorted the orb's surface. \r",
+        "A despairing Lunaris filled the scars with her tears. \r",
+        "Yet Viridi remained, trapped within, forever more.\"\r",
+        " - Azmerian Creation Myth"
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "onesword"
+        ]
+      },
+      "x": 4,
+      "y": 3,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw2.png?scale=1&w=2&h=2&v=13a717e8db4f740348e01c17e7669b8e",
+      "league": "Standard",
+      "id": "83c4d4fa7474861a7334397c9757458cbc132d436e783e4c28a51e5b2c25be2e",
+      "shaper": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Pandemonium Roar",
+      "typeLine": "Great White Claw",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Claw",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "30-78",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.50%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "58",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "81",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "117",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+46 Life gained for each Enemy hit by Attacks"
+      ],
+      "explicitMods": [
+        "+2 to Level of Socketed Melee Gems",
+        "+4% Chance to Block Attack Damage while Dual Wielding",
+        "+22 to maximum Mana",
+        "21% increased Damage with Poison",
+        "12% increased Poison Duration"
+      ],
+      "frameType": 2,
+      "category": {
+        "weapons": [
+          "claw"
+        ]
+      },
+      "x": 8,
+      "y": 12,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/ConduitSigil.png?scale=1&w=1&h=1&v=2b0f2ebb7f53eea033ed352c3d7c4e42",
+      "support": false,
+      "league": "Standard",
+      "id": "4c077c0a3365567bd7aa51064c7a9d812b5dace8f4ff9909177eba168fbeddf6",
+      "name": "",
+      "typeLine": "Storm Brand",
+      "identified": true,
+      "note": "~price 2 exa",
+      "corrupted": true,
+      "properties": [
+        {
+          "name": "Lightning, Spell, AoE, Chaining, Duration, Brand",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Level",
+          "values": [
+            [
+              "21 (Max)",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 5
+        },
+        {
+          "name": "Mana Cost",
+          "values": [
+            [
+              "22",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Cast Time",
+          "values": [
+            [
+              "0.65 sec",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.50%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Effectiveness of Added Damage",
+          "values": [
+            [
+              "30%",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "72",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "159",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "secDescrText": "Creates a magical brand which can attach to a nearby enemy. It periodically activates while attached, firing beams which deal damage to nearby enemies and those around them. The brand will detach if the enemy dies.",
+      "explicitMods": [
+        "Deals 83 to 249 Lightning Damage",
+        "Increases and Reductions to Cast Speed also apply to this Skill's Activation frequency",
+        "Activates every 0.5 seconds while Attached",
+        "Can be Attached for a total Duration of 5.00 seconds",
+        "Can be Detached for a total Duration of 10.00 seconds",
+        "Sends beams to 3 Enemies, including the Branded Enemy",
+        "Deals 50% more Damage to Branded Enemy"
+      ],
+      "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+      "frameType": 4,
+      "category": {
+        "gems": [
+          "activegem"
+        ]
+      },
+      "x": 0,
+      "y": 18,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CitrineAmuletUnique.png?scale=1&w=1&h=1&v=2d1e4a17a5980de000575b60ec02543e",
+      "league": "Standard",
+      "id": "9e473635193eb6a908d164d0305955fbdc1ac0bd1f944895339a181c34d5eaa6",
+      "name": "Daresso's Salute",
+      "typeLine": "Citrine Amulet",
+      "identified": true,
+      "note": "~price 25 chaos",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "16",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+24 to Strength and Dexterity"
+      ],
+      "explicitMods": [
+        "50% reduced maximum Energy Shield",
+        "+39% to Fire Resistance",
+        "+36% to Cold Resistance",
+        "10% increased Movement Speed when on Full Life",
+        "+2 to Melee Weapon and Unarmed Attack range",
+        "60% increased Melee Damage when on Full Life"
+      ],
+      "flavourText": [
+        "\"A bit short in the arm, are you? \r",
+        "Then you'll be short of a head soon enough.\"\r",
+        "- Daresso the Daring"
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 13,
+      "y": 1,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt8.png?scale=1&w=2&h=1&v=27d4031a1730327aeeef9faf12a01fa4",
+      "league": "Standard",
+      "id": "42fc347dac9b649ad788cd98e12326aaa7e98d8560d38c4d58edb21de142936a",
+      "name": "Sunblast",
+      "typeLine": "Cloth Belt",
+      "identified": true,
+      "note": "~price 1 alch",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "37",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "25% increased Stun and Block Recovery"
+      ],
+      "explicitMods": [
+        "38% increased Trap Damage",
+        "20% increased Mana Regeneration Rate",
+        "+30% to Fire Resistance",
+        "80% reduced Trap Duration",
+        "25% increased Light Radius"
+      ],
+      "flavourText": [
+        "The sun's fury, trapped\r",
+        "in pillars of blazing light,\r",
+        "Explodes from its cage."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 23,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique2.png?scale=1&w=2&h=1&v=aae1ffa9f08a009d8da57b99f327ec03",
+      "league": "Standard",
+      "id": "5ca1b63753a668b7d278712d5f1e50b7f86ab28f50ec94ca778e4594ae17d91d",
+      "name": "Perandus Blazon",
+      "typeLine": "Cloth Belt",
+      "identified": true,
+      "note": "~price 1 alch",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "16",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "18% increased Stun and Block Recovery"
+      ],
+      "explicitMods": [
+        "+22 to all Attributes",
+        "8% increased Quantity of Items found",
+        "+20% to Fire Resistance",
+        "20% increased Flask Effect Duration",
+        "-2 Physical Damage taken from Attacks"
+      ],
+      "flavourText": [
+        "A large enough debt turns even a friend\r",
+        "into an enemy, and the Perandus family\r",
+        "had more debtors than anyone."
+      ],
+      "frameType": 3,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 12,
+      "y": 2,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 2,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/gen/image/WzksNCx7ImYiOiJBcnRcLzJESXRlbXNcL0ZsYXNrc1wvU29ycm93T2ZUaGVEaXZpbmUiLCJzcCI6MC42MDg1LCJsZXZlbCI6MH1d/fee485ecf4/Item.png",
+      "league": "Standard",
+      "id": "2e362e8a923bba25242ad9c71544f9480282d36022369dc5d155142eb9cc5126",
+      "name": "The Sorrow of the Divine",
+      "typeLine": "Sulphur Flask",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Lasts %0 Seconds",
+          "values": [
+            [
+              "5.60",
+              1
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Consumes %0 of %1 Charges on use",
+          "values": [
+            [
+              "20",
+              0
+            ],
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 3
+        },
+        {
+          "name": "Currently has %0 Charges",
+          "values": [
+            [
+              "0",
+              0
+            ]
+          ],
+          "displayMode": 3
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "utilityMods": [
+        "40% increased Damage"
+      ],
+      "implicitMods": [
+        "Creates Consecrated Ground on Use"
+      ],
+      "explicitMods": [
+        "41% increased Duration",
+        "Zealot's Oath during Flask effect"
+      ],
+      "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+      "flavourText": [
+        "As man sins,\r",
+        "God weeps."
+      ],
+      "frameType": 3,
+      "category": {
+        "flasks": []
+      },
+      "x": 12,
+      "y": 0,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Deidbell.png?scale=1&w=2&h=2&v=0e7d1d42faebcfe4f2146b2176e78bc4",
+      "league": "Standard",
+      "id": "baa10ad734461a51484e611ee362cd0ecb67ae464be9b7f9ab16da7a39c910c9",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Deidbell",
+      "typeLine": "Gilded Sallet",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "296",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "90",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "33",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+21 to Strength",
+        "+27 to Dexterity",
+        "Adds 10 to 20 Physical Damage to Attacks",
+        "+206 to Armour",
+        "20% increased Melee Damage",
+        "Cannot Leech when on Low Life"
+      ],
+      "flavourText": [
+        "May you never hear it toll."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 5,
+      "y": 22,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff5.png?scale=1&w=2&h=4&v=7fc20cdfc2edfee54eea27dfd5d54375",
+      "league": "Standard",
+      "id": "51829fa387c67a03ce353990b6aa7288c3322f0750b3d03eeacb97b012e54b6c",
+      "elder": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Brood Beam",
+      "typeLine": "Serpentine Staff",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Staff",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "55-116",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "85",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "85",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+20% Chance to Block Attack Damage while wielding a Staff"
+      ],
+      "explicitMods": [
+        "51% increased Spell Damage",
+        "Adds 9 to 21 Physical Damage",
+        "3% increased Cold Damage",
+        "19% increased Cast Speed",
+        "34% chance to Avoid interruption from Stuns while Casting",
+        "5% chance to gain Unholy Might for 3 seconds on Kill"
+      ],
+      "frameType": 2,
+      "category": {
+        "weapons": [
+          "staff"
+        ]
+      },
+      "x": 0,
+      "y": 10,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Sundance.png?scale=1&w=2&h=2&v=097caa8185a34a22e9d3c8b3e61ca242",
+      "league": "Standard",
+      "id": "b896309b206945863c9f40f7943803bb3970c909d6ac1a4cef04ab59178ce578",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 2,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Sundance",
+      "typeLine": "Clasped Boots",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "91",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "10",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "10% increased Attack Speed",
+        "82% increased Evasion Rating",
+        "26% increased Rarity of Items found",
+        "+35% to Fire Resistance",
+        "20% increased Movement Speed"
+      ],
+      "flavourText": [
+        "Blazing body, shining bold.\r",
+        "Dance beneath the orb of gold!"
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 8,
+      "y": 21,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt5.png?scale=1&w=2&h=2&v=7b64f98e1b574d61b7cf6a159a8fc3a4",
+      "league": "Standard",
+      "id": "5b682cfc39236ceac67a39a84ef83324411f9a0b78d5f33a6c3d5f422e464420",
+      "elder": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Wrath Sanctuary",
+      "typeLine": "Chiming Spirit Shield",
+      "identified": true,
+      "note": "~price 5 chaos",
+      "properties": [
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "23%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 15
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "66",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "118",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "13% increased Spell Damage"
+      ],
+      "explicitMods": [
+        "Socketed Gems are Supported by Level 5 Cast when Damage Taken",
+        "19% increased Critical Strike Chance for Spells",
+        "68% increased Energy Shield",
+        "8.1 Life Regenerated per second",
+        "11% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "shield"
+        ]
+      },
+      "x": 2,
+      "y": 9,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/StrInt3AUnique.png?scale=1&w=2&h=3&v=a5e18f952cbfe1e695ac642496b97c8d",
+      "league": "Standard",
+      "id": "3d0bdb25b53e08232074016f37a2146f40a445c3c393664638e9a8297eda3d6c",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Voll's Protector",
+      "typeLine": "Holy Chainmail",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "310",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "62",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "53",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "53",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "60% increased Armour and Energy Shield",
+        "50% reduced maximum Mana",
+        "Gain a Power Charge for each Enemy you hit with a Critical Strike"
+      ],
+      "flavourText": [
+        "Although a great leader during the war,\r",
+        "Voll proved disastrous in times of peace."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 10,
+      "y": 12,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Stormcharger.png?scale=1&w=2&h=2&v=62fe6ee8cb11965ed4d088e8bf25df03",
+      "league": "Standard",
+      "id": "1d386d45bf38e067640c2be12c24f9a183626cc07d1986f018447b92e9872861",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Stormcharger",
+      "typeLine": "Plated Greaves",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "77",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "23",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "44",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+19% to Lightning Resistance",
+        "20% increased Movement Speed",
+        "50% increased Shock Duration on Enemies",
+        "30% of Physical Damage Converted to Lightning Damage",
+        "20% increased Effect of Shock"
+      ],
+      "flavourText": [
+        "Like lightning, the Ezomyte cavalry need never strike twice."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 10,
+      "y": 0,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 83,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/AsphyxiasWrath.png?scale=1&w=2&h=3&v=5043163e3773bb64a186365ce6723f59",
+      "league": "Standard",
+      "id": "30a2a579c0c841563612bf5895e18d2618b9ef165af4e95b466f5ed97516c36c",
+      "name": "Asphyxia's Wrath",
+      "typeLine": "Two-Point Arrow Quiver",
+      "identified": true,
+      "note": "~price 1 alch",
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "10",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "22% increased Global Accuracy Rating"
+      ],
+      "explicitMods": [
+        "Grants Level 5 Frostbite Skill",
+        "10% increased Attack Speed",
+        "+36% to Cold Resistance",
+        "38% increased Chill Duration on Enemies",
+        "Gain 20% of Physical Damage as Extra Cold Damage",
+        "8% chance to Freeze",
+        "Curses on Slain Enemies are transferred to a nearby Enemy"
+      ],
+      "flavourText": [
+        "Mist of breath\r",
+        "Icing to lips and throat\r",
+        "As the warm ones choke and fall\r",
+        "Upon the frozen wasteland."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "quiver"
+        ]
+      },
+      "x": 14,
+      "y": 9,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex5.png?scale=1&w=2&h=3&v=1903d38cc7f3282d9dbb987256d1ad77",
+      "league": "Standard",
+      "id": "feab3f03e9e0765fe675c4afc390d8754b9e51040cfb33df79a31142ac4581f5",
+      "elder": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Viper Watch",
+      "typeLine": "Baroque Round Shield",
+      "identified": true,
+      "note": "~price 2 chaos",
+      "properties": [
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "24%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 15
+        },
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "167",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "167",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "70",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "70",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "120% increased Block Recovery"
+      ],
+      "explicitMods": [
+        "37% increased Armour and Evasion",
+        "4% increased maximum Life",
+        "+40% to Lightning Resistance",
+        "11% chance to Avoid being Stunned",
+        "14% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "shield"
+        ]
+      },
+      "x": 2,
+      "y": 11,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Deidbell.png?scale=1&w=2&h=2&v=0e7d1d42faebcfe4f2146b2176e78bc4",
+      "league": "Standard",
+      "id": "443f129093dac84b27d1f19228fe19a067ad0f0c66b409e3c9b09232bf8e745d",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 2,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Deidbell",
+      "typeLine": "Gilded Sallet",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "329",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "90",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "33",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "38",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+20 to Strength",
+        "+25 to Dexterity",
+        "Adds 10 to 20 Physical Damage to Attacks",
+        "+239 to Armour",
+        "20% increased Melee Damage",
+        "Cannot Leech when on Low Life"
+      ],
+      "flavourText": [
+        "May you never hear it toll."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 10,
+      "y": 10,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/AmericsMaul.png?scale=1&w=2&h=3&v=9dab18be263dbc8aa07b613db8a95e06",
+      "league": "Standard",
+      "id": "f3b62db79b4ef52400e598557e4c3b116aa03fad002a2f90dab4e10159f2e563",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Cameria's Maul",
+      "typeLine": "Gavel",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "One Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "142-266",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Elemental Damage",
+          "values": [
+            [
+              "11-44",
+              5
+            ]
+          ],
+          "displayMode": 0,
+          "type": 10
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.80%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.15",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "15% reduced Enemy Stun Threshold"
+      ],
+      "explicitMods": [
+        "163% increased Physical Damage",
+        "Adds 11 to 44 Cold Damage",
+        "16% increased Critical Strike Chance",
+        "40% increased Rarity of Items Dropped by Frozen Enemies",
+        "33% increased Cold Damage with Attack Skills"
+      ],
+      "flavourText": [
+        "\"You'll have my riches when you pry them\r",
+        "from my cold, dead hands!\"\r",
+        "\"That's how I prefer it.\""
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "onemace"
+        ]
+      },
+      "x": 12,
+      "y": 3,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Baelfire.png?scale=1&w=2&h=3&v=4ec753326dcd7e46da44838cba49fcb9",
+      "league": "Standard",
+      "id": "a2ebda5560c0435c3802ed5b64cbcf5288e7f9376f153154139d4147ad933531",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Balefire",
+      "typeLine": "Opal Sceptre",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "One Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "49-73",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.50%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "9",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "95",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "131",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "40% increased Elemental Damage"
+      ],
+      "explicitMods": [
+        "Grants Level 25 Scorching Ray Skill",
+        "16% increased Cast Speed",
+        "Recover 1% of Maximum Life on Kill",
+        "Recover 3% of Maximum Mana on Kill",
+        "10% increased Scorching Ray beam length"
+      ],
+      "flavourText": [
+        "After the fires swept down from the sky and swallowed the city,\r",
+        "all that lingered, as if locked in time,\r",
+        "was a memory of that which was gone, a whisper of deeds undone."
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "sceptre",
+          "onemace"
+        ]
+      },
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 78,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ColdSnapModifier.png?scale=1&w=1&h=1&v=02892c77eb1b00147e6c8092f7123096",
+      "league": "Standard",
+      "id": "2a571df02174cfa1798e08bdb8969ce9ab789ea0b9e9ac625021a8cd1bb389e5",
+      "name": "Winter's Bounty",
+      "typeLine": "Cobalt Jewel",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Limited to",
+          "values": [
+            [
+              "1",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Radius",
+          "values": [
+            [
+              "Medium",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "11% increased Cold Damage",
+        "With at least 40 Intelligence in Radius, Cold Snap grants Power Charges instead of Frenzy Charges when Enemies die in its Area\nWith at least 40 Intelligence in Radius, Cold Snap's Cooldown can be bypassed by Power Charges instead of Frenzy Charges"
+      ],
+      "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "flavourText": [
+        "As a boy, Rigwald was taught to hunt,\r",
+        "Through the first snows of winter,\r",
+        "When beasts have gorged their fill,\r",
+        "And see nothing but the long slumber ahead."
+      ],
+      "frameType": 3,
+      "category": {
+        "jewels": []
+      },
+      "x": 0,
+      "y": 17,
+      "inventoryId": "Stash3"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/PillarsOfArun.png?scale=1&w=2&h=2&v=5230bc4328f2af4cbfe30d0a856ffd9d",
+      "league": "Standard",
+      "id": "f34ffad9091970e3881ec120237461fad19f5a0d0ec72a5a8a72e5bd2cf2a5e2",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Gorgon's Gaze",
+      "typeLine": "Regicide Mask",
+      "identified": true,
+      "note": "~price 1 chaos",
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "141",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "87",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "58",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "58",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Grants Level 20 Petrification Statue Skill",
+        "212% increased Energy Shield",
+        "+70 to maximum Life",
+        "6% increased Attack and Cast Speed",
+        "5% additional Physical Damage Reduction while moving",
+        "5% reduced Elemental Damage taken while stationary"
+      ],
+      "flavourText": [
+        "Men always fell for her honeyed eyes,\r",
+        "and broke when they hit the ground."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 2,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Embrace.png?scale=1&w=2&h=3&v=03a2af82093a51ee94cd46b06d5fa05d",
+      "league": "Standard",
+      "id": "081ecbf6f982c17c2d0ee7372f779b8a5fb7bcd989f6177a88a72dd689f37847",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "The Covenant",
+      "typeLine": "Spidersilk Robe",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "322",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "49",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "134",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "Socketed Gems are Supported by Level 15 Added Chaos Damage",
+        "Socketed Gems have Blood Magic",
+        "+23 to Intelligence",
+        "235% increased Energy Shield",
+        "10% increased maximum Life"
+      ],
+      "flavourText": [
+        "My Soul is your Strength\r",
+        "My Price is your Blood"
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 3,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace7Unique.png?scale=1&w=2&h=4&v=be8a026098eae6766dd4d1d5f32b2648",
+      "league": "Standard",
+      "id": "4da615ff5059554dc8a7dcb08839c55273837a745f971dabe2115a8b68c00979",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Geofri's Baptism",
+      "typeLine": "Brass Maul",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Two Handed Mace",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "102-153",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Elemental Damage",
+          "values": [
+            [
+              "11-23",
+              5
+            ]
+          ],
+          "displayMode": 0,
+          "type": 10
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "27",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "92",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "30% increased Stun Duration on Enemies"
+      ],
+      "explicitMods": [
+        "200% increased Physical Damage",
+        "Adds 11 to 23 Cold Damage",
+        "13% increased Stun Duration on Enemies",
+        "Never deal Critical Strikes"
+      ],
+      "flavourText": [
+        "\"One quick tap is all the persuasion you'll need.\"\r",
+        "- Archbishop Geofri of Phrecia Cathedral"
+      ],
+      "frameType": 3,
+      "category": {
+        "weapons": [
+          "twomace"
+        ]
+      },
+      "x": 12,
+      "y": 9,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/EzomytePeak.png?scale=1&w=2&h=2&v=1ea157f8fe142f5abe41f1342ed3a02c",
+      "league": "Standard",
+      "id": "8f4ab435d2203cc8bb2c06aff528b38034bfa137772d928f868269f2ebb2cb41",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Ezomyte Peak",
+      "typeLine": "Iron Hat",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "31",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "explicitMods": [
+        "20% increased Global Physical Damage",
+        "+22 to Armour",
+        "+50 to maximum Life",
+        "Cannot Evade Enemy Attacks"
+      ],
+      "flavourText": [
+        "Centuries of servitude, a day\r",
+        "of glory, an eternity of death."
+      ],
+      "frameType": 3,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 22,
+      "y": 3,
+      "inventoryId": "Stash3",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique5.png?scale=1&w=1&h=1&v=e1bc414d1737767a4ee5b7735fc3b923",
+      "league": "Standard",
+      "id": "cd5ac6fa0a156ea1d81eec77bc9e0d6aa583c631c453793e6074179f6192b491",
+      "name": "Martial Artistry",
+      "typeLine": "Crimson Jewel",
+      "identified": true,
+      "note": "~price 1 alch",
+      "properties": [
+        {
+          "name": "Limited to",
+          "values": [
+            [
+              "1",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "explicitMods": [
+        "14% increased Area of Effect while Unarmed"
+      ],
+      "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+      "flavourText": [
+        "A gentle hand rarely leaves a mark on the world."
+      ],
+      "frameType": 3,
+      "category": {
+        "jewels": []
+      },
+      "x": 1,
+      "y": 4,
+      "inventoryId": "Stash3"
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "numTabs": 11,
+  "fragmentLayout": {
+    "0": {
+      "x": 124.13793103448276,
+      "y": 89.45233265720081,
+      "w": 1,
+      "h": 1
+    },
+    "1": {
+      "x": 124.13793103448276,
+      "y": 130.22312373225154,
+      "w": 1,
+      "h": 1
+    },
+    "2": {
+      "x": 82.1501014198783,
+      "y": 130.22312373225154,
+      "w": 1,
+      "h": 1
+    },
+    "3": {
+      "x": 82.1501014198783,
+      "y": 89.45233265720081,
+      "w": 1,
+      "h": 1
+    },
+    "4": {
+      "x": 455.78093306288037,
+      "y": 89.45233265720081,
+      "w": 1,
+      "h": 1
+    },
+    "5": {
+      "x": 455.78093306288037,
+      "y": 130.22312373225154,
+      "w": 1,
+      "h": 1
+    },
+    "6": {
+      "x": 413.184584178499,
+      "y": 130.22312373225154,
+      "w": 1,
+      "h": 1
+    },
+    "7": {
+      "x": 413.184584178499,
+      "y": 89.45233265720081,
+      "w": 1,
+      "h": 1
+    },
+    "8": {
+      "x": 232.45436105476676,
+      "y": 89.45233265720081,
+      "w": 1,
+      "h": 1
+    },
+    "9": {
+      "x": 232.45436105476676,
+      "y": 130.22312373225154,
+      "w": 1,
+      "h": 1
+    },
+    "10": {
+      "x": 189.85801217038542,
+      "y": 130.22312373225154,
+      "w": 1,
+      "h": 1
+    },
+    "11": {
+      "x": 189.85801217038542,
+      "y": 89.45233265720081,
+      "w": 1,
+      "h": 1
+    },
+    "12": {
+      "x": 344.421906693712,
+      "y": 89.45233265720081,
+      "w": 1,
+      "h": 1
+    },
+    "13": {
+      "x": 344.421906693712,
+      "y": 130.22312373225154,
+      "w": 1,
+      "h": 1
+    },
+    "14": {
+      "x": 301.82555780933063,
+      "y": 130.22312373225154,
+      "w": 1,
+      "h": 1
+    },
+    "15": {
+      "x": 301.82555780933063,
+      "y": 89.45233265720081,
+      "w": 1,
+      "h": 1
+    },
+    "16": {
+      "x": 90.66937119675457,
+      "y": 217.24137931034485,
+      "w": 1,
+      "h": 2
+    },
+    "17": {
+      "x": 186.20689655172416,
+      "y": 208.72210953346857,
+      "w": 1,
+      "h": 1
+    },
+    "18": {
+      "x": 228.19472616632862,
+      "y": 208.72210953346857,
+      "w": 1,
+      "h": 1
+    },
+    "19": {
+      "x": 270.18255578093306,
+      "y": 208.72210953346857,
+      "w": 1,
+      "h": 1
+    },
+    "20": {
+      "x": 312.17038539553755,
+      "y": 208.72210953346857,
+      "w": 1,
+      "h": 1
+    },
+    "21": {
+      "x": 354.76673427991886,
+      "y": 208.72210953346857,
+      "w": 1,
+      "h": 1
+    },
+    "22": {
+      "x": 186.20689655172416,
+      "y": 250.10141987829616,
+      "w": 1,
+      "h": 1
+    },
+    "23": {
+      "x": 228.19472616632862,
+      "y": 250.10141987829616,
+      "w": 1,
+      "h": 1
+    },
+    "24": {
+      "x": 270.18255578093306,
+      "y": 250.10141987829616,
+      "w": 1,
+      "h": 1
+    },
+    "25": {
+      "x": 312.17038539553755,
+      "y": 250.10141987829616,
+      "w": 1,
+      "h": 1
+    },
+    "26": {
+      "x": 354.76673427991886,
+      "y": 250.10141987829616,
+      "w": 1,
+      "h": 1
+    },
+    "27": {
+      "x": 445.43610547667345,
+      "y": 229.41176470588238,
+      "w": 1,
+      "h": 1
+    },
+    "28": {
+      "x": 374.23935091277895,
+      "y": 451.5212981744422,
+      "w": 1,
+      "h": 1
+    },
+    "29": {
+      "x": 415.6186612576065,
+      "y": 451.5212981744422,
+      "w": 1,
+      "h": 1
+    },
+    "30": {
+      "x": 456.38945233265724,
+      "y": 451.5212981744422,
+      "w": 1,
+      "h": 1
+    },
+    "31": {
+      "x": 229.41176470588238,
+      "y": 451.5212981744422,
+      "w": 1,
+      "h": 1
+    },
+    "32": {
+      "x": 270.79107505070994,
+      "y": 451.5212981744422,
+      "w": 1,
+      "h": 1
+    },
+    "33": {
+      "x": 312.7789046653144,
+      "y": 451.5212981744422,
+      "w": 1,
+      "h": 1
+    },
+    "34": {
+      "x": 83.36713995943205,
+      "y": 363.894523326572,
+      "w": 1,
+      "h": 1
+    },
+    "35": {
+      "x": 125.9634888438134,
+      "y": 363.894523326572,
+      "w": 1,
+      "h": 1
+    },
+    "36": {
+      "x": 167.95131845841786,
+      "y": 363.894523326572,
+      "w": 1,
+      "h": 1
+    },
+    "37": {
+      "x": 83.36713995943205,
+      "y": 320.68965517241384,
+      "w": 1,
+      "h": 1
+    },
+    "38": {
+      "x": 125.9634888438134,
+      "y": 320.68965517241384,
+      "w": 1,
+      "h": 1
+    },
+    "39": {
+      "x": 167.95131845841786,
+      "y": 320.68965517241384,
+      "w": 1,
+      "h": 1
+    },
+    "40": {
+      "x": 229.41176470588238,
+      "y": 363.894523326572,
+      "w": 1,
+      "h": 1
+    },
+    "41": {
+      "x": 270.79107505070994,
+      "y": 363.894523326572,
+      "w": 1,
+      "h": 1
+    },
+    "42": {
+      "x": 312.7789046653144,
+      "y": 363.894523326572,
+      "w": 1,
+      "h": 1
+    },
+    "43": {
+      "x": 374.23935091277895,
+      "y": 363.894523326572,
+      "w": 1,
+      "h": 1
+    },
+    "44": {
+      "x": 415.6186612576065,
+      "y": 363.894523326572,
+      "w": 1,
+      "h": 1
+    },
+    "45": {
+      "x": 456.38945233265724,
+      "y": 363.894523326572,
+      "w": 1,
+      "h": 1
+    },
+    "46": {
+      "x": 83.36713995943205,
+      "y": 451.5212981744422,
+      "w": 1,
+      "h": 1
+    },
+    "47": {
+      "x": 125.9634888438134,
+      "y": 451.5212981744422,
+      "w": 1,
+      "h": 1
+    },
+    "48": {
+      "x": 167.95131845841786,
+      "y": 451.5212981744422,
+      "w": 1,
+      "h": 1
+    },
+    "49": {
+      "x": 374.23935091277895,
+      "y": 406.4908722109534,
+      "w": 1,
+      "h": 1
+    },
+    "50": {
+      "x": 415.6186612576065,
+      "y": 406.4908722109534,
+      "w": 1,
+      "h": 1
+    },
+    "51": {
+      "x": 456.38945233265724,
+      "y": 406.4908722109534,
+      "w": 1,
+      "h": 1
+    },
+    "52": {
+      "x": 83.36713995943205,
+      "y": 406.4908722109534,
+      "w": 1,
+      "h": 1
+    },
+    "53": {
+      "x": 125.9634888438134,
+      "y": 406.4908722109534,
+      "w": 1,
+      "h": 1
+    },
+    "54": {
+      "x": 167.95131845841786,
+      "y": 406.4908722109534,
+      "w": 1,
+      "h": 1
+    },
+    "55": {
+      "x": 229.41176470588238,
+      "y": 320.68965517241384,
+      "w": 1,
+      "h": 1
+    },
+    "56": {
+      "x": 270.79107505070994,
+      "y": 320.68965517241384,
+      "w": 1,
+      "h": 1
+    },
+    "57": {
+      "x": 312.7789046653144,
+      "y": 320.68965517241384,
+      "w": 1,
+      "h": 1
+    },
+    "58": {
+      "x": 374.23935091277895,
+      "y": 320.68965517241384,
+      "w": 1,
+      "h": 1
+    },
+    "59": {
+      "x": 415.6186612576065,
+      "y": 320.68965517241384,
+      "w": 1,
+      "h": 1
+    },
+    "60": {
+      "x": 456.38945233265724,
+      "y": 320.68965517241384,
+      "w": 1,
+      "h": 1
+    },
+    "61": {
+      "x": 229.41176470588238,
+      "y": 406.4908722109534,
+      "w": 1,
+      "h": 1
+    },
+    "62": {
+      "x": 270.79107505070994,
+      "y": 406.4908722109534,
+      "w": 1,
+      "h": 1
+    },
+    "63": {
+      "x": 312.7789046653144,
+      "y": 406.4908722109534,
+      "w": 1,
+      "h": 1
+    }
+  },
+  "items": [
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Maps/Vaal02.png?scale=1&w=1&h=1&v=3ead6455599ec6c303f54ba98d6f8eb2",
+      "league": "Standard",
+      "id": "11cf2a230d77c02220d81b218565623b888e4e0ca487aff17c6bf353a8d02163",
+      "name": "",
+      "typeLine": "Sacrifice at Dawn",
+      "identified": true,
+      "descrText": "Can be used in the Templar Laboratory or a personal Map Device.",
+      "flavourText": [
+        "Only those who aspire can dare to hope."
+      ],
+      "frameType": 0,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "maps": [
+          "fragment"
+        ]
+      },
+      "x": 1,
+      "y": 0,
+      "inventoryId": "Stash10"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Breach/BreachShardChaos.png?scale=1&w=1&h=1&v=2c18cbe5384375bbe4643cd8b83ea32d",
+      "league": "Standard",
+      "id": "8485c6c0373d8f4e9ea7f8eea90fdaca58fb45ea82b76a6ca46eb8bf6dddc0a3",
+      "name": "",
+      "typeLine": "Splinter of Chayula",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "4/100",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Combine 100 splinters to create Chayula's Breachstone.",
+      "frameType": 5,
+      "stackSize": 4,
+      "maxStackSize": 100,
+      "category": {
+        "currency": []
+      },
+      "x": 26,
+      "y": 0,
+      "inventoryId": "Stash10"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Maps/Vaal04.png?scale=1&w=1&h=1&v=72207b7e72a4ed4fafd3e72f7b0b2a93",
+      "league": "Standard",
+      "id": "8ccb844884c87b4e94c5960276f3323e49c0c5074966bae007531e8d44be03fb",
+      "name": "",
+      "typeLine": "Sacrifice at Dusk",
+      "identified": true,
+      "descrText": "Can be used in the Templar Laboratory or a personal Map Device.",
+      "flavourText": [
+        "The Vaal shall never fear the setting of our sun."
+      ],
+      "frameType": 0,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "maps": [
+          "fragment"
+        ]
+      },
+      "x": 3,
+      "y": 0,
+      "inventoryId": "Stash10"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Breach/BreachShardCold.png?scale=1&w=1&h=1&v=4a7652d6ff5de2493d37768e993c9411",
+      "league": "Standard",
+      "id": "0390206e3ce598bd2c4ef7cec4e28a064bea9d5effd54a0e39ac56d6d1ec294e",
+      "name": "",
+      "typeLine": "Splinter of Tul",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "21/100",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Combine 100 splinters to create Tul's Breachstone.",
+      "frameType": 5,
+      "stackSize": 21,
+      "maxStackSize": 100,
+      "category": {
+        "currency": []
+      },
+      "x": 23,
+      "y": 0,
+      "inventoryId": "Stash10"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Breach/BreachShardFire.png?scale=1&w=1&h=1&v=4635e0847323cf1d62c8b4e8101351bf",
+      "league": "Standard",
+      "id": "9068108d634310ccee11b13b965a2b5686f6db2f3ca4f6c0a272f3bafaf68858",
+      "name": "",
+      "typeLine": "Splinter of Xoph",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "3/100",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Combine 100 splinters to create Xoph's Breachstone.",
+      "frameType": 5,
+      "stackSize": 3,
+      "maxStackSize": 100,
+      "category": {
+        "currency": []
+      },
+      "x": 22,
+      "y": 0,
+      "inventoryId": "Stash10"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Breach/BreachShardPhysical.png?scale=1&w=1&h=1&v=25f31f4a5e1ba4540cb7bfa03b82c1e8",
+      "league": "Standard",
+      "id": "c10eef6d69062060e67da33e30bf938d2202bbcceb6ebc74f9df4f935e313c54",
+      "name": "",
+      "typeLine": "Splinter of Uul-Netol",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "4/100",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Combine 100 splinters to create Uul-Netol's Breachstone.",
+      "frameType": 5,
+      "stackSize": 4,
+      "maxStackSize": 100,
+      "category": {
+        "currency": []
+      },
+      "x": 25,
+      "y": 0,
+      "inventoryId": "Stash10"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Breach/BreachShardLightning.png?scale=1&w=1&h=1&v=11cd23560f7aa0dda27cc323fa97cb96",
+      "league": "Standard",
+      "id": "03b633cd27057bd820212914863f1799a35d59ee5cba1f551bfd544057016784",
+      "name": "",
+      "typeLine": "Splinter of Esh",
+      "identified": true,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "39/100",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "descrText": "Combine 100 splinters to create Esh's Breachstone.",
+      "frameType": 5,
+      "stackSize": 39,
+      "maxStackSize": 100,
+      "category": {
+        "currency": []
+      },
+      "x": 24,
+      "y": 0,
+      "inventoryId": "Stash10"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Maps/Vaal03.png?scale=1&w=1&h=1&v=ba374d543316349b87de121039c3cc6f",
+      "league": "Standard",
+      "id": "a419dac342a697489a1a556b50284fbdde5d81550a4ea6a684ba8ae0daf510e1",
+      "name": "",
+      "typeLine": "Sacrifice at Noon",
+      "identified": true,
+      "descrText": "Can be used in the Templar Laboratory or a personal Map Device.",
+      "flavourText": [
+        "The light without pales in comparison to the light within."
+      ],
+      "frameType": 0,
+      "stackSize": 2,
+      "maxStackSize": 5000,
+      "category": {
+        "maps": [
+          "fragment"
+        ]
+      },
+      "x": 2,
+      "y": 0,
+      "inventoryId": "Stash10"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 0,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Maps/Labyrinth.png?scale=1&w=1&h=1&v=ef005aef5d2f9135d6922f4b1b912f78",
+      "league": "Standard",
+      "id": "05e31f3a862cb12bb596cb22b2b1eb4d39f6dfc6adb3ba3c0419c2a0a6102f29",
+      "name": "",
+      "typeLine": "Offering to the Goddess",
+      "identified": true,
+      "descrText": "Travel to the Aspirants' Plaza and spend this item to open the Eternal Labyrinth. You must have completed the six different Trials of Ascendancy found in Maps in order to access this area.",
+      "flavourText": [
+        "It is time for the Goddess to give her final verdict.\r",
+        "Your fate rests in her even hands."
+      ],
+      "frameType": 0,
+      "stackSize": 7,
+      "maxStackSize": 5000,
+      "category": {
+        "maps": [
+          "fragment"
+        ]
+      },
+      "x": 27,
+      "y": 0,
+      "inventoryId": "Stash10"
+    }
+  ]
+}

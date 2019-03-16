@@ -1,0 +1,93 @@
+/* Typography
+
+Simple Grid
+http://simplegrid.io/
+MIT License
+
+Zach Cole
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+
+* {
+  font-family: $body-font;
+  line-height: $font-height;
+}
+
+html {
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: rgba(0, 0, 0, .01) 0 0 1px;
+}
+
+h1, 
+h1 > a,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.375rem;
+}
+
+h4 {
+  font-size: 1.125rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+h6 {
+  font-size: 0.875rem;
+}
+
+p {
+  font-size: 1.125rem;
+  font-weight: 200;
+  line-height: 1.8;
+}
+
+ul {
+    li {
+        font-size: 0.83333125rem;
+    }
+}
+
+#signin {
+    button[type='button'] {
+      font-size: 1.5rem;
+    }
+
+    p {
+        font-weight: 600;
+        letter-spacing: 0.03125rem;
+    }
+}
+
+#message {
+    li {
+      font-size: 1.125rem;
+    }
+}
+
+footer {
+    p {
+      font-size: 0.83333125rem;
+    }
+}

@@ -1,0 +1,5193 @@
+{
+  "numTabs": 11,
+  "quadLayout": true,
+  "items": [
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex2.png?scale=1&w=2&h=2&v=958754f78c163c1a80befdca6e8ce7bf",
+      "league": "Standard",
+      "id": "e244c2920fbd221c9a00e0f091e8f1b7db985d2521196420215735e4273a8f1b",
+      "shaper": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Oak Buckler",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "26%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 15
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "188",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dexterity",
+          "values": [
+            [
+              "94",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "3% increased Movement Speed"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "shield"
+        ]
+      },
+      "x": 22,
+      "y": 5,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "d9cf660478efaee5fd592bb8bf3fa89748d23ca509209e2420eb748bbe2b2a8c",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "19% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 4,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt8.png?scale=1&w=2&h=2&v=3f4940b7435925dd03ce3bce57a9703f",
+      "league": "Standard",
+      "id": "f8c8a33bbb551d27f7deb31f9834bf1c94cb31d6b2c383cc2866c005732c94bf",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Regicide Mask",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "141",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "28",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "58",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "58",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 8,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "17b82cfd8c0d0ffa610ffa2d293667fa1adf85c348fdb63b80e57d9d07580fff",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "24% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 2,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 83,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt2.png?scale=1&w=2&h=2&v=9a8ce1f6169c2ad274efc202693b7293",
+      "league": "Standard",
+      "id": "87199d597dcc57c984aedda2ebe6d49c4f84b71de15460d2fcfaef32360c359f",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Legion Boots",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "104",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 12,
+      "y": 12,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 62,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt2.png?scale=1&w=2&h=2&v=9a8ce1f6169c2ad274efc202693b7293",
+      "league": "Standard",
+      "id": "dd51c5229f8cfd2101de06560ac19587ce3207c67287d966ba9b20dc42a2c5cd",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Legion Boots",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "104",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 12,
+      "y": 2,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "0767b90ba34a9c60ec9d84679b20b4cc3a1599ef70203dc7117e0ecbefdccf58",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "20% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 14,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f5",
+      "league": "Standard",
+      "id": "e4e571c2164fc32cece335dd17b481ab0144eea52e38422da475ccbf2af0c391",
+      "name": "",
+      "typeLine": "Heavy Belt",
+      "identified": false,
+      "implicitMods": [
+        "+33 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 1,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "5b4474c337509c2c338045c6b6e78114c15ce63ef23999b9abbbd57c279711f1",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+18 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "f249242d148384012860c288df34e5681f4bad3b7a2fd4d6dee2ed4ff403f273",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "25% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 9,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "b0d42fc5c9e2d27e1643bfe14153cfb038acbb1ab00a09277a3864383fae9149",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+16 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 13,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmulet.png?scale=1&w=1&h=1&v=484a8eac4316c65308deea4efcfbb621",
+      "league": "Standard",
+      "id": "f7d41c2bf9f76578025264966ccb971d3bd67c7559d5694d6c165e7046466cb0",
+      "name": "",
+      "typeLine": "Turquoise Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+18 to Dexterity and Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 9,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 63,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt1.png?scale=1&w=2&h=2&v=035f3b60cab4a435455f0fbb19b7804c",
+      "league": "Standard",
+      "id": "79989777e8401278fb73a262c92c4e8cf68fa29038e1550df820f7a3f65eb6e4",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Superior Riveted Boots",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+7%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "70",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "14",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 12,
+      "y": 0,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "87a68d1bd941db6f73cdd0cb76f32cc8c0dc3e069ea2599c2288afbd448724b7",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "29% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 5,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6.png?scale=1&w=2&h=1&v=c6603b23e7ea1431c247869e74262a58",
+      "league": "Standard",
+      "id": "f89e9eb88f35a7887e01c1c99a305c1ad3b5ec45123c4d0ed6eacf5a5c6a5359",
+      "name": "",
+      "typeLine": "Studded Belt",
+      "identified": false,
+      "implicitMods": [
+        "29% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 18,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow3.png?scale=1&w=2&h=4&v=da52da78a5c580592f9071316832b647",
+      "league": "Standard",
+      "id": "1523eb8cff3cd9ecd275f8e00ee378a20548897d9f0e49c139725dfc3f339912",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Citadel Bow",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Bow",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "25-101",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.25",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dexterity",
+          "values": [
+            [
+              "185",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "weapons": [
+          "bow"
+        ]
+      },
+      "x": 14,
+      "y": 0,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet5.png?scale=1&w=1&h=1&v=574b38016f547495a51268177882d5cc",
+      "league": "Standard",
+      "id": "e8bca88a188f43d98fe101ac4436027cc5dc33171052509dbfa141dc459ac5cc",
+      "name": "",
+      "typeLine": "Lapis Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+30 to Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 1,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr3.png?scale=1&w=2&h=2&v=8a687dd11fc5368392d6ba84321867ce",
+      "league": "Standard",
+      "id": "5f3232026ad1a5b0e8f628654b4ad77893a9e0b09e9fcb45c731df9541191692",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Vaal Gauntlets",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "232",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "100",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "gloves"
+        ]
+      },
+      "x": 10,
+      "y": 2,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr4.png?scale=1&w=2&h=2&v=e26e440ce9b34d249004f0c063d3fe12",
+      "league": "Standard",
+      "id": "acead467c1074dd1a6aa9f039f77e64b68d38c68519b6096acef479825d3bc60",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 2,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Titan Greaves",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "241",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "120",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 12,
+      "y": 16,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "723be997b1da4404fdfc59d04597cf236e4158d900bde5c29cda5a40e35ce155",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "23% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 19,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f5",
+      "league": "Standard",
+      "id": "f90eeee69f925e3430c03e09167388d951b74b33cf502684aa78fa45c9e2c25d",
+      "name": "",
+      "typeLine": "Heavy Belt",
+      "identified": false,
+      "implicitMods": [
+        "+30 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 23,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6.png?scale=1&w=2&h=1&v=c6603b23e7ea1431c247869e74262a58",
+      "league": "Standard",
+      "id": "7d674fd780350a46284ca58aef2ee06f36538aa2c7822423df36b46bb64a4bb4",
+      "name": "",
+      "typeLine": "Studded Belt",
+      "identified": false,
+      "implicitMods": [
+        "29% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 5,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6.png?scale=1&w=2&h=1&v=c6603b23e7ea1431c247869e74262a58",
+      "league": "Standard",
+      "id": "ba288b5be38cd729591e2e966d942e77e6b5437ffc2d785fe0d2b8e86b1cd495",
+      "name": "",
+      "typeLine": "Studded Belt",
+      "identified": false,
+      "implicitMods": [
+        "24% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 0,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt3.png?scale=1&w=2&h=1&v=a559821037f54c94dae053b90bcea363",
+      "league": "Standard",
+      "id": "cfc217a4d1fb8bb046c5de503686dd0b93631094973cd81735e8cd0f857458d3",
+      "name": "",
+      "typeLine": "Leather Belt",
+      "identified": false,
+      "implicitMods": [
+        "+35 to maximum Life"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 6,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex4.png?scale=1&w=2&h=2&v=daacc0418feaedbe51b9b47ef8caebab",
+      "league": "Standard",
+      "id": "617502de6ea87289a250ae1f35edfcf7f8a65843c68a5319628a359adbab2929",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Slink Gloves",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "242",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dexterity",
+          "values": [
+            [
+              "95",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "gloves"
+        ]
+      },
+      "x": 10,
+      "y": 4,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "977e87923b499a3e7c5262cbc979c1503fad83241f863004d7d5d4c503115c1c",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+9 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 3,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmulet.png?scale=1&w=1&h=1&v=616cdaa894e5fcb0684cbeab3f90c4bc",
+      "league": "Standard",
+      "id": "64867fcb39f2717f599b8b173097ac0f61d1f0e1a40d1e39dae841afc75ff28d",
+      "name": "",
+      "typeLine": "Agate Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+22 to Strength and Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 18,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 63,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex8.png?scale=1&w=2&h=2&v=e041f1d30cb6e997023b09d2a822b7a6",
+      "league": "Standard",
+      "id": "c9933f3f5b00dddfd8844e208f595fdbf6aedb5c23f7e44651d788c2d56c05a2",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Fluted Bascinet",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "160",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "160",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 2,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring3.png?scale=1&w=1&h=1&v=bc351f5121b5d5d052733fa5be0f79ca",
+      "league": "Standard",
+      "id": "1418d6215e966687ae1b31c656dfa597e0416fd4d08ea003f957daaf1afecdbd",
+      "name": "",
+      "typeLine": "Paua Ring",
+      "identified": false,
+      "implicitMods": [
+        "+23 to maximum Mana"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 4,
+      "y": 4,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f5",
+      "league": "Standard",
+      "id": "f58721d050f591decc4d631c0a0ad5ed512e5b86a50efa77fe0156327f1741b7",
+      "name": "",
+      "typeLine": "Heavy Belt",
+      "identified": false,
+      "implicitMods": [
+        "+25 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 21,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "2e8ca3af5700f5b9fd47ee02b100e2df4f08c435e93ed918e158af6caa1b1694",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+15 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 2,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet7.png?scale=1&w=1&h=1&v=ecac1e6f4574572eeef0379d955811cd",
+      "league": "Standard",
+      "id": "d72665fd0fb6b5ea41740b63354d83292fdc2fcc30835b1bb0b4b8a229845fba",
+      "name": "",
+      "typeLine": "Onyx Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+15 to all Attributes"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 6,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt1.png?scale=1&w=2&h=1&v=a40ff49a65beb9e722af0f85159432f1",
+      "league": "Standard",
+      "id": "8dc7e31afc3134040ad7afd826e348cbf5f7b1820963ed8b4b434f7596f3adb1",
+      "name": "",
+      "typeLine": "Rustic Sash",
+      "identified": false,
+      "implicitMods": [
+        "12% increased Global Physical Damage"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 21,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "b13a0e547e1851313f76c70534f3e868645178712919ff37d92b8eb8534a3dcb",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "21% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 20,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmulet.png?scale=1&w=1&h=1&v=616cdaa894e5fcb0684cbeab3f90c4bc",
+      "league": "Standard",
+      "id": "f2efaa6da8fc493b151b494af0681cffb0a99ae5722ce38bf7f40df781300bd5",
+      "name": "",
+      "typeLine": "Agate Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+19 to Strength and Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 15,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "a733e02c805a500a568ad3e6a2b0e0b487400286d062d55c459ad0de0c13b7fe",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+19 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 18,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f5",
+      "league": "Standard",
+      "id": "0e683e3dbd167bf2343543efbb9632cd5c427d376df55bfdd41153e5edfe5a20",
+      "name": "",
+      "typeLine": "Heavy Belt",
+      "identified": false,
+      "implicitMods": [
+        "+32 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 9,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt3.png?scale=1&w=2&h=1&v=a559821037f54c94dae053b90bcea363",
+      "league": "Standard",
+      "id": "c7dc6a2552640ac34f7daf6282795396ae3a6662eed74c8be7298e000f27f727",
+      "name": "",
+      "typeLine": "Leather Belt",
+      "identified": false,
+      "implicitMods": [
+        "+27 to maximum Life"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 4,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand5.png?scale=1&w=1&h=3&v=1693f03dab28c272223acf156ce9107e",
+      "league": "Standard",
+      "id": "f47fb21fce631d6fdef15a287a7b3995dea3bbebc8d21e794c29c15b89315755",
+      "shaper": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 2,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Tornado Wand",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Wand",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "21-62",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "7.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Intelligence",
+          "values": [
+            [
+              "212",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "35% increased Spell Damage"
+      ],
+      "frameType": 2,
+      "category": {
+        "weapons": [
+          "wand"
+        ]
+      },
+      "x": 22,
+      "y": 0,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f5",
+      "league": "Standard",
+      "id": "086001ceacf13beac0bb33f67113832333eaa6e2050786bec40c7a107f60008b",
+      "name": "",
+      "typeLine": "Heavy Belt",
+      "identified": false,
+      "implicitMods": [
+        "+26 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 23,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6.png?scale=1&w=2&h=1&v=c6603b23e7ea1431c247869e74262a58",
+      "league": "Standard",
+      "id": "9502ec5276e0136cd307f3c24d4ee3f30493fc01736677c9417824fde07e1f88",
+      "name": "",
+      "typeLine": "Studded Belt",
+      "identified": false,
+      "implicitMods": [
+        "22% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 15,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2.png?scale=1&w=1&h=1&v=1bb23cebd36e20ede7c0e76575215b14",
+      "league": "Standard",
+      "id": "4dd1b2e9a6388f3c3f808c9ed2a64f20983c9d23ead2aa14bd77f994190cdbb8",
+      "name": "",
+      "typeLine": "Coral Amulet",
+      "identified": false,
+      "implicitMods": [
+        "2.8 Life Regenerated per second"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 10,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 77,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt9.png?scale=1&w=2&h=2&v=f16dbb804ba232a15e23b3539c67b774",
+      "league": "Standard",
+      "id": "f54d8c6a41996920401e453d44d89005264a9f5367a8bab8ae301ff47c8a5573",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Harlequin Mask",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "157",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "31",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 16,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6.png?scale=1&w=2&h=1&v=c6603b23e7ea1431c247869e74262a58",
+      "league": "Standard",
+      "id": "9545a08704592fde7dafbd51f88781be6902dd9dba44371cfef153d591b06d26",
+      "name": "",
+      "typeLine": "Studded Belt",
+      "identified": false,
+      "implicitMods": [
+        "24% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 6,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2.png?scale=1&w=1&h=1&v=1bb23cebd36e20ede7c0e76575215b14",
+      "league": "Standard",
+      "id": "8716c2b0bcc032fdaa2a993bff03043d61e3b2cd94020355bd33eed9d281f5ae",
+      "name": "",
+      "typeLine": "Coral Amulet",
+      "identified": false,
+      "implicitMods": [
+        "2.7 Life Regenerated per second"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 14,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "22168fdda5a24fe39d35c4697edb246fea9e9259b067927b82ff5f1999793e96",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+9 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 8,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt3.png?scale=1&w=2&h=1&v=a559821037f54c94dae053b90bcea363",
+      "league": "Standard",
+      "id": "abb7604bed8fec6cabb80ac40bd7ba5d5d7366d084475da6a5c744a1438c1b72",
+      "name": "",
+      "typeLine": "Leather Belt",
+      "identified": false,
+      "implicitMods": [
+        "+36 to maximum Life"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 22,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt3.png?scale=1&w=2&h=2&v=3ca9bf635d09f26ef27ad85b922fd5e8",
+      "league": "Standard",
+      "id": "422d369f3a1edbecb051cecc1d635b1efcfb68be3dec07ecaa7d26ae9b06f3f9",
+      "elder": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Crusader Boots",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "121",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "24",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "62",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "62",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 22,
+      "y": 3,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 62,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex7.png?scale=1&w=2&h=2&v=46850cbf68128793111cf393ddca4c3f",
+      "league": "Standard",
+      "id": "414d84e3d6498278954b0ae99dae590d406ed02215961cf245590e6be7c87331",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Lacquered Helmet",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "138",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "138",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "57",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "57",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 4,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 62,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt1.png?scale=1&w=2&h=1&v=a40ff49a65beb9e722af0f85159432f1",
+      "league": "Standard",
+      "id": "97d7e31d3b3f252eb8a00b907ce0fa6c9c4ac7c4cf5a772428c6c6a5cc651da3",
+      "name": "",
+      "typeLine": "Rustic Sash",
+      "identified": false,
+      "implicitMods": [
+        "17% increased Global Physical Damage"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 16,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f5",
+      "league": "Standard",
+      "id": "60feeade1e5cc4b8cf70ad87a863904fa5c5389d810de55b62f0333ad01d0ab5",
+      "name": "",
+      "typeLine": "Heavy Belt",
+      "identified": false,
+      "implicitMods": [
+        "+35 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 11,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmulet.png?scale=1&w=1&h=1&v=616cdaa894e5fcb0684cbeab3f90c4bc",
+      "league": "Standard",
+      "id": "0c9042e54b2487bbee6da05ab3fa73eb560f03fa17bee8ffe93568ebcfe7027b",
+      "name": "",
+      "typeLine": "Agate Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+22 to Strength and Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 8,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "751bd1afde272f1f654e3aca80dc47522cbfd5b0b4a6dadb9ec8c00a405c475a",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+12 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 1,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt1.png?scale=1&w=2&h=1&v=a40ff49a65beb9e722af0f85159432f1",
+      "league": "Standard",
+      "id": "85312dd2b911a14e1afa3347ea5d92ec3be3d6be577e70b4f557ab1a2bd52309",
+      "name": "",
+      "typeLine": "Rustic Sash",
+      "identified": false,
+      "implicitMods": [
+        "24% increased Global Physical Damage"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 7,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CitrineAmulet.png?scale=1&w=1&h=1&v=392b4ef08d8b72daaf1d0ec50d017398",
+      "league": "Standard",
+      "id": "db0987c77851730496890c1432b81ed4a72ba1987e0202be70b200b7e1e49ce4",
+      "name": "",
+      "typeLine": "Citrine Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+22 to Strength and Dexterity"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 17,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring3.png?scale=1&w=1&h=1&v=bc351f5121b5d5d052733fa5be0f79ca",
+      "league": "Standard",
+      "id": "f63727d2a5c17e8de2bd09db158f9b43b148c207fdd21d0605e98c01a8564240",
+      "name": "",
+      "typeLine": "Paua Ring",
+      "identified": false,
+      "implicitMods": [
+        "+24 to maximum Mana"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 4,
+      "y": 0,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "f02b62bb4b26d1e2c9fec530932aa780afcaba745346713264cdf0080ca40447",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "30% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 19,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2.png?scale=1&w=1&h=1&v=1bb23cebd36e20ede7c0e76575215b14",
+      "league": "Standard",
+      "id": "e6520b68f79ee7abcbdb30cb42a35b9f32417de02c484e86caeb1744cf77a147",
+      "name": "",
+      "typeLine": "Coral Amulet",
+      "identified": false,
+      "implicitMods": [
+        "3.4 Life Regenerated per second"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 7,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6.png?scale=1&w=2&h=1&v=c6603b23e7ea1431c247869e74262a58",
+      "league": "Standard",
+      "id": "fc4ed1b616756308f15f50d90d847a4eaa45b0e21cca719c3fa8e8698225b366",
+      "name": "",
+      "typeLine": "Studded Belt",
+      "identified": false,
+      "implicitMods": [
+        "23% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 19,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrDex2.png?scale=1&w=2&h=2&v=385517339bcc890605b26256f1265e88",
+      "league": "Standard",
+      "id": "4d33f037173a349bf2950cf8aacc09a64c0dfa454ce7666e08b8e72acec6bd91",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Hydrascale Gauntlets",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "106",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "106",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "gloves"
+        ]
+      },
+      "x": 10,
+      "y": 0,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt8.png?scale=1&w=2&h=2&v=ac2e8f600c1f786b95f0aaa816d0a1c5",
+      "league": "Standard",
+      "id": "c23d2862bdd50b90fd2bfbc33dd080e22fcd6716c4b68b3179a0cbbd1cf26b2d",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Necromancer Circlet",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "52",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Intelligence",
+          "values": [
+            [
+              "112",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "9e3adc9177cdbf52c90e364f685f5b17492c6e44959ce567090c6ef376ff0a49",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "25% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 23,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "cd14e043f59e23c29b7187338c39139f33761cc2ad05d5309fe94e27da9dc6ea",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "23% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 5,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "0ad67b4d812c756bfca95b5d24facac327151edf13dcda00720200ee8aaf1c7d",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+10 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 22,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 64,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "40ea82e833e3ce8bcae12f5790d9e24f0e01182a3b9269fac3cfb6a3eda1bfe1",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+9 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 17,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "c95a4607975b862cdc3bad3ee8f070945d30c61cb275e96d458bf3ddbc2abc65",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "30% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 18,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "afb38e94e8aa52f38c9deeffc87db9330d9f7bf8d83cc4b52899441331d03524",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "29% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 20,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "a2b8df889ab4d6c849891e128c3f67380d12853a8e2b1622916dda3aa8e7e65b",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "24% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 21,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt6.png?scale=1&w=2&h=2&v=c2c4daefcbef51dad8593cf61505a193",
+      "league": "Standard",
+      "id": "84ad644e09bf56f5d45ef6297d690ca05619a8586bb02be0a589666faf43a043",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Titanium Spirit Shield",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "25%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 15
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Intelligence",
+          "values": [
+            [
+              "159",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "shield"
+        ]
+      },
+      "x": 16,
+      "y": 0,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "639a1232ae2357e8689c2ea9d3242735be98771de3fe02f5981e288eb909e6b6",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "22% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 22,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "c3f8fba1ba5a95a4a182924132c666070c14405a6f30a242608254fc6e34a0b5",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "23% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 23,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "6b0e0defdbdeef0977623b3deef4dddf2ed17a01e140c04afd8895565d8c794e",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "22% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 22,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet3.png?scale=1&w=1&h=1&v=ab799e48c3d205973c8cd93ab478d20c",
+      "league": "Standard",
+      "id": "fcf34a774391546844ed97c55554b6acfdc8bcea56a8773a650e52e2bc561464",
+      "name": "",
+      "typeLine": "Amber Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+23 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 16,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "14aee40272f4e20771b75cb0f50301fdfc653769032add769b918e2b2bc3380b",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "20% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 20,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2.png?scale=1&w=1&h=1&v=1bb23cebd36e20ede7c0e76575215b14",
+      "league": "Standard",
+      "id": "493ab03a193947eb45bee0a8988f45e786fa4f640e6b4a86188a51b18f91e1c0",
+      "name": "",
+      "typeLine": "Coral Amulet",
+      "identified": false,
+      "implicitMods": [
+        "2.5 Life Regenerated per second"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 3,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "1b1bda897517e18e8ed8865e837f2fffdb5468d31a646dd23be40e841e6be848",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "27% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 21,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png?scale=1&w=1&h=1&v=c2401398cda6eebb43b7f7da63caa331",
+      "league": "Standard",
+      "id": "29ef2c371effd3e98d1505485676cdc09e426a03fc6e9ea4aa32fd63cdd3825c",
+      "name": "",
+      "typeLine": "Paua Amulet",
+      "identified": false,
+      "implicitMods": [
+        "25% increased Mana Regeneration Rate"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 19,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr5.png?scale=1&w=2&h=4&v=16846ef288c0e6061bc484f30f28456f",
+      "league": "Standard",
+      "id": "9c68be7505841fbc280c24b90560a4066f7703685325072fca158687d9ec729b",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Ezomyte Tower Shield",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Chance to Block",
+          "values": [
+            [
+              "24%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 15
+        },
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "522",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "159",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+39 to maximum Life"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "shield"
+        ]
+      },
+      "x": 16,
+      "y": 2,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 71,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f5",
+      "league": "Standard",
+      "id": "bf72b5069f9cd994937fe6bbb02d962d694773b32032f5b3bd7e60a442c02be7",
+      "name": "",
+      "typeLine": "Heavy Belt",
+      "identified": false,
+      "implicitMods": [
+        "+31 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 3,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet7.png?scale=1&w=1&h=1&v=ecac1e6f4574572eeef0379d955811cd",
+      "league": "Standard",
+      "id": "6addd852dbfe2c9d51d7b02da7c091c6eda689aee0659427df1e417f2e155119",
+      "name": "",
+      "typeLine": "Onyx Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+16 to all Attributes"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 2,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "4b09a110a86c3f91d1c464c079ba18b91f6d26f6e1e576d129317aaf91d21c62",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+17 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 17,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet3.png?scale=1&w=1&h=1&v=ab799e48c3d205973c8cd93ab478d20c",
+      "league": "Standard",
+      "id": "688b4aa072fc061b97299c3fa53781ab43355c814ee4c1f43c569b0222c514b5",
+      "name": "",
+      "typeLine": "Amber Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+26 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 13,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "374f12fdbdcecd48514497659e6955129f04cdf4ff522ed99f3f97456013ec81",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+12 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 11,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "b3afd8c1348b95125501eb15f790c44535f1010575f780cbd34361da49bacc5e",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "19% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 7,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "5a866443a665b9a9cf059fec07ce6636edee077e02c2176c6f530a5bf8797cfc",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "23% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 8,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "d9485f9e921c2f5f995fd787d014560b0aafbdfcdd723861fd2184446f831107",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "16% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 14,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6.png?scale=1&w=2&h=1&v=c6603b23e7ea1431c247869e74262a58",
+      "league": "Standard",
+      "id": "4d7a90e9fe6a21e4b55a31c81437cbc238dd447f52a299c34785de836b264289",
+      "name": "",
+      "typeLine": "Studded Belt",
+      "identified": false,
+      "implicitMods": [
+        "28% increased Stun Duration on Enemies"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 13,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt3.png?scale=1&w=2&h=1&v=a559821037f54c94dae053b90bcea363",
+      "league": "Standard",
+      "id": "2fa903c8f45f075ed9901e66b6566540370c95c79fb541e5b46b706e39ad625c",
+      "name": "",
+      "typeLine": "Leather Belt",
+      "identified": false,
+      "implicitMods": [
+        "+32 to maximum Life"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 12,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f5",
+      "league": "Standard",
+      "id": "8f559da71338e1067301eb973c2c000951cd40fba8debe5f34897dbb7c25e5b5",
+      "name": "",
+      "typeLine": "Heavy Belt",
+      "identified": false,
+      "implicitMods": [
+        "+29 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 15,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 84,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt2.png?scale=1&w=2&h=2&v=8301a0119606f022ec99a9723749003d",
+      "league": "Standard",
+      "id": "a9aa2623a4ab333f0c9b535345363720e48ce78dab16768c0ff89fa2a6ec4f7c",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Assassin's Mitts",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "104",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "45",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "gloves"
+        ]
+      },
+      "x": 10,
+      "y": 8,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet3.png?scale=1&w=1&h=1&v=ab799e48c3d205973c8cd93ab478d20c",
+      "league": "Standard",
+      "id": "a85f3c2366e409234945508bfd32596a6a370aa25b79f6839c766fdb97d7d43f",
+      "name": "",
+      "typeLine": "Amber Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+30 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 12,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 74,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "9e602ac15926987fc29540f431a0d78e632f37f9be9e7ce0eba57474bbb6db4c",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "16% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 20,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 84,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt8.png?scale=1&w=2&h=2&v=59807b6bf308473f389a97b37513c89e",
+      "league": "Standard",
+      "id": "55d654fa5ae00066f74e778f9f12374ae29c98f0bf4b2a5104f4f3cc1ba5f1f8",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Magistrate Crown",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "160",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "31",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 12,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmulet.png?scale=1&w=1&h=1&v=484a8eac4316c65308deea4efcfbb621",
+      "league": "Standard",
+      "id": "827cc6f6eb3529a0d128be2be87a9a560fa6f97957883407eb7f8be2ab67629c",
+      "name": "",
+      "typeLine": "Turquoise Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+18 to Dexterity and Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 11,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr4.png?scale=1&w=2&h=2&v=e26e440ce9b34d249004f0c063d3fe12",
+      "league": "Standard",
+      "id": "89565dda349f2dc3b86c43f3ed7f52e14a1e91a647e0acb43f0c8031b1daa888",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Goliath Greaves",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "177",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "95",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 12,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 86,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet3.png?scale=1&w=1&h=1&v=ab799e48c3d205973c8cd93ab478d20c",
+      "league": "Standard",
+      "id": "53fc191343c0b44806e447530d9e50a868b21fde170057f77d30a47c57c8e0b1",
+      "name": "",
+      "typeLine": "Amber Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+27 to Strength"
+      ],
+      "frameType": 1,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 15,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 86,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring3.png?scale=1&w=1&h=1&v=bc351f5121b5d5d052733fa5be0f79ca",
+      "league": "Standard",
+      "id": "5c371aea52ac535283262bddc5347216e952e2a03669af3bac8dd492fec323de",
+      "name": "",
+      "typeLine": "Paua Ring",
+      "identified": false,
+      "implicitMods": [
+        "+21 to maximum Mana"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 4,
+      "y": 3,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 76,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt2.png?scale=1&w=2&h=2&v=9a8ce1f6169c2ad274efc202693b7293",
+      "league": "Standard",
+      "id": "5f3981ba76801529c565eab36c83f9b29aa7de3f0fc6d1ad3b5c463f8cfe10c6",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Superior Legion Boots",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+5%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "109",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "21",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 12,
+      "y": 4,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr11.png?scale=1&w=2&h=2&v=342bd7655177cacda3928e191d7eb83c",
+      "league": "Standard",
+      "id": "bbc1319b69c6c27511421a70e145761552099673acb3ea0e2778f44c498268c3",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Eternal Burgonet",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "373",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "138",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 0,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 82,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex4.png?scale=1&w=2&h=2&v=daacc0418feaedbe51b9b47ef8caebab",
+      "league": "Standard",
+      "id": "00922c394497391c09387a8bf1f70f993b3ec7ef32cf7910af4ae3edb90a4686",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Slink Gloves",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "242",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dexterity",
+          "values": [
+            [
+              "95",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "gloves"
+        ]
+      },
+      "x": 10,
+      "y": 10,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 79,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex2C.png?scale=1&w=2&h=3&v=b03b38ea29d4757b2578adea2a86115d",
+      "league": "Standard",
+      "id": "9de85f6079fde494224b16f6d1dad2af86e49b5a6baf40c1c2bc2558baa168c2",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Assassin's Garb",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "737",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dexterity",
+          "values": [
+            [
+              "183",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "3% increased Movement Speed"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 15,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 82,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt4.png?scale=1&w=2&h=2&v=4808dffa0aa9745b57119af9319d0be3",
+      "league": "Standard",
+      "id": "662841b038d274123a689f87251daf20205607b970d5b7bfb86245aa734174c3",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Conjurer Boots",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "34",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Intelligence",
+          "values": [
+            [
+              "94",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 12,
+      "y": 10,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 82,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex1B.png?scale=1&w=2&h=3&v=6c54a5109d16d454488c1d342c00154e",
+      "league": "Standard",
+      "id": "0554718c9d6bf89c40775956131f8d255fe0e7d110a8cd0faa2b4c9b857e120f",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Sharkskin Tunic",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "559",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dexterity",
+          "values": [
+            [
+              "152",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 12,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 72,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet5.png?scale=1&w=1&h=1&v=574b38016f547495a51268177882d5cc",
+      "league": "Standard",
+      "id": "bb8fe561a492e58e17845dd1366cf29004d3ff51af969e062fe09cbabf87313c",
+      "name": "",
+      "typeLine": "Lapis Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+27 to Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 16,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword5.png?scale=1&w=2&h=4&v=e9dc53c8e2be807d36144042ef27f8ea",
+      "league": "Standard",
+      "id": "02d19fe6e535c64f7a097a119510269c4049b6b023f755d35a5deb43ae1053e9",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Vaal Greatsword",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Two Handed Sword",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "55-113",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "5.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "11",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "122",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "104",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "40% increased Global Accuracy Rating"
+      ],
+      "frameType": 2,
+      "category": {
+        "weapons": [
+          "twosword"
+        ]
+      },
+      "x": 14,
+      "y": 4,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 79,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr2B.png?scale=1&w=2&h=3&v=2f0e0b9bd3633f9501c66b41e85ea837",
+      "league": "Standard",
+      "id": "c8a708c46e400e5b202e1c63cdd4030348d0f1ecdf6d6e7d2f1752d6d8b08c98",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Superior Crusader Plate",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+7%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "643",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "160",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 18,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 79,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt3.png?scale=1&w=2&h=2&v=3ca9bf635d09f26ef27ad85b922fd5e8",
+      "league": "Standard",
+      "id": "09f484a6fe9e4186ae03a267d452c520f496ce1a288cad407cd291cc729641d2",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Soldier Boots",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "88",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "17",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "47",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "47",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 12,
+      "y": 14,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex2C.png?scale=1&w=2&h=3&v=b03b38ea29d4757b2578adea2a86115d",
+      "league": "Standard",
+      "id": "98077a7a79a0281c4349217b78f03aa5dc6c17fbb06bea6b635c139ced910441",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Assassin's Garb",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "737",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dexterity",
+          "values": [
+            [
+              "183",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "3% increased Movement Speed"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 79,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex7.png?scale=1&w=2&h=2&v=8d01ba9ab32a8d671bcc66c25c0e90ec",
+      "league": "Standard",
+      "id": "fb2a487d41fd341b388cf6417ea3740528884b33cd5db9297312ede4763a1f1f",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 2,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Ursine Pelt",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "276",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dexterity",
+          "values": [
+            [
+              "114",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 14,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt8.png?scale=1&w=2&h=2&v=59807b6bf308473f389a97b37513c89e",
+      "league": "Standard",
+      "id": "fd57bc5767f302e34b21425d79dfacbeddd5b9acbd2b13a2b4b3d975046fdedf",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Magistrate Crown",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "160",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "31",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "64",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "helmet"
+        ]
+      },
+      "x": 6,
+      "y": 10,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 79,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrInt3.png?scale=1&w=2&h=2&v=6121a1f24b6a6b016f4f62266feb4965",
+      "league": "Standard",
+      "id": "d1e69750037409abd7f55e78cabc5c6c37491089bf273efcbe7c797654469357",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Crusader Gloves",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "121",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "24",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Str",
+          "values": [
+            [
+              "51",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "51",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "gloves"
+        ]
+      },
+      "x": 10,
+      "y": 12,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "cc684677c19594fba82628b58c1d54e8552ffebcdfcfda095399b7f09830bb47",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+11 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 16,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt4C.png?scale=1&w=2&h=3&v=648a82d9c23d1c8e7546b8c3637bbb63",
+      "league": "Standard",
+      "id": "974fdbe06108c69d216325f97d152484f1297964223c4ae66c14866651e7a0a6",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Crypt Armour",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "308",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "60",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "82",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "82",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 3,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 62,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "ef725c0299071c20485f045bbdc16fa4c4ff3a0d0bf417c16b26d3405ed30c1f",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+19 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 14,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 79,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2.png?scale=1&w=1&h=1&v=1bb23cebd36e20ede7c0e76575215b14",
+      "league": "Standard",
+      "id": "ffd5f7431099d77294cb3325c8086d0323074671858177e865fa36dcb8e51c6d",
+      "name": "",
+      "typeLine": "Coral Amulet",
+      "identified": false,
+      "implicitMods": [
+        "2.3 Life Regenerated per second"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 4,
+      "y": 17,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "ilvl": 70,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger8.png?scale=1&w=1&h=3&v=38fabe95a1bb32ddc27d7279b7028677",
+      "league": "Standard",
+      "id": "2332ada4038514a215d6b895f67efe497efe268c2be0f80108ce393747372f46",
+      "shaper": true,
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Demon Dagger",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Dagger",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "24-97",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.50%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.20",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "8",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "76",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "149",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "40% increased Global Critical Strike Chance"
+      ],
+      "frameType": 2,
+      "category": {
+        "weapons": [
+          "dagger"
+        ]
+      },
+      "x": 23,
+      "y": 0,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 81,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr2B.png?scale=1&w=2&h=3&v=2f0e0b9bd3633f9501c66b41e85ea837",
+      "league": "Standard",
+      "id": "c3f10759f09ad1410cef41c1b3a3539cc337cf730ccc302e8858d3beae2f52af",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 1,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 2,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Crusader Plate",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "601",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "160",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 9,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 79,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr3.png?scale=1&w=2&h=2&v=8a687dd11fc5368392d6ba84321867ce",
+      "league": "Standard",
+      "id": "524bf7bb9af8805e5f20be8f01e9c4f8e53b3b7d3ec79381be85725368dcacc1",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "",
+      "typeLine": "Vaal Gauntlets",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Armour",
+          "values": [
+            [
+              "232",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 16
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Strength",
+          "values": [
+            [
+              "100",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "gloves"
+        ]
+      },
+      "x": 10,
+      "y": 6,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f5",
+      "league": "Standard",
+      "id": "2067082d04f25e8e278614fdb09d70fb8457384f8b5f835a537899e6e8dbd954",
+      "name": "",
+      "typeLine": "Heavy Belt",
+      "identified": false,
+      "implicitMods": [
+        "+30 to Strength"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 10,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 78,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt4C.png?scale=1&w=2&h=3&v=648a82d9c23d1c8e7546b8c3637bbb63",
+      "league": "Standard",
+      "id": "5cdc0188b5b70441f1db5ad2ab8dca7069f4f7fb3615560d65d4dbac58ef96c5",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 1,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Superior Carnal Armour",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+6%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "374",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "104",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "88",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "122",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+20 to maximum Mana"
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 21,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "ilvl": 79,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt2B.png?scale=1&w=2&h=3&v=4b5543d6b4ed658ed53ba55837ff752a",
+      "league": "Standard",
+      "id": "7388266812d520a13ab53891f6f3ffad282a7e34ead59db57dcc40a01f3f6c53",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Necromancer Silks",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "117",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Intelligence",
+          "values": [
+            [
+              "160",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "chest"
+        ]
+      },
+      "x": 8,
+      "y": 0,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 69,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmulet.png?scale=1&w=1&h=1&v=484a8eac4316c65308deea4efcfbb621",
+      "league": "Standard",
+      "id": "11e9e4c521bfe274e5f2da4bf42524903eb1ec32ae5a8ee996a603bfa0f26947",
+      "name": "",
+      "typeLine": "Turquoise Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+22 to Dexterity and Intelligence"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 4,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png?scale=1&w=2&h=1&v=da282d3a3d76fc0d14b882450c3ed2ae",
+      "league": "Standard",
+      "id": "af8c0363e88fec3577faf14011f106c988b1752ce868a847ba5c16983ae65fbb",
+      "name": "",
+      "typeLine": "Cloth Belt",
+      "identified": false,
+      "implicitMods": [
+        "20% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 0,
+      "y": 10,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring5.png?scale=1&w=1&h=1&v=d645f9adfc012c52674c94d16b4292b2",
+      "league": "Standard",
+      "id": "90e4c8739525e714ffe084ff38142930e9c2dbbd0d47cd44751f28afd065834c",
+      "name": "",
+      "typeLine": "Topaz Ring",
+      "identified": false,
+      "implicitMods": [
+        "+26% to Lightning Resistance"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 4,
+      "y": 2,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 73,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Empty-Socket.png?scale=1&w=1&h=1&v=3671f6d79d7190b43879b830e63fc078",
+      "league": "Standard",
+      "id": "2d910422e6615114ac3c11de0cafb78b9c7f7c435e5aeed44356e4b57f9b70c7",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "",
+      "typeLine": "Unset Ring",
+      "identified": false,
+      "implicitMods": [
+        "Has 1 Socket"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "ring"
+        ]
+      },
+      "x": 4,
+      "y": 1,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?scale=1&w=2&h=1&v=05d53adc2875453b6b6bb2652ee3d74d",
+      "league": "Standard",
+      "id": "340bc524ab2f8163edaad90595cd4e9c7d29c3c1c5f0f0479f12e1baa5339050",
+      "name": "",
+      "typeLine": "Chain Belt",
+      "identified": false,
+      "implicitMods": [
+        "+10 to maximum Energy Shield"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "belt"
+        ]
+      },
+      "x": 2,
+      "y": 12,
+      "inventoryId": "Stash2"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "ilvl": 79,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex4.png?scale=1&w=2&h=2&v=62a68c142ba5a605dcf6b6603bf0ab0c",
+      "league": "Standard",
+      "id": "d301b7ea519877b720a0d744ce2ef5a72a21d251160a9822ec2bbba377bfe92d",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 1,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "",
+      "typeLine": "Nubuck Boots",
+      "identified": false,
+      "properties": [
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "113",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Dexterity",
+          "values": [
+            [
+              "62",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "frameType": 2,
+      "category": {
+        "armour": [
+          "boots"
+        ]
+      },
+      "x": 12,
+      "y": 8,
+      "inventoryId": "Stash2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "ilvl": 75,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4.png?scale=1&w=1&h=1&v=cc3ec167ca9ea10dfa05b2d55b5dcf62",
+      "league": "Standard",
+      "id": "190e99676710a55ad72f885d7e3edb0157459afe97a1a7124d3a853d20f52038",
+      "name": "",
+      "typeLine": "Jade Amulet",
+      "identified": false,
+      "implicitMods": [
+        "+27 to Dexterity"
+      ],
+      "frameType": 2,
+      "category": {
+        "accessories": [
+          "amulet"
+        ]
+      },
+      "x": 5,
+      "y": 0,
+      "inventoryId": "Stash2"
+    }
+  ]
+}

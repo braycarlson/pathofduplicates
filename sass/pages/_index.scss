@@ -1,0 +1,101 @@
+/* Home */
+
+html {
+    scroll-behavior: smooth;
+}
+
+main {
+    min-height: 100%;
+    margin: 0 auto -75px;
+}
+
+section {
+    display: none;
+    width: 100%;
+    margin-top: 40px;
+    padding: 0 40px;
+}
+
+a {
+    &:link, &:active, &:hover, &:visited {
+      text-decoration: none;
+      border: none;
+    }
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: disc;
+
+    li {
+        list-style-position: inside;
+
+        &:nth-child(1) {
+            display: block;
+        }
+
+        &:not(:nth-child(1)) {
+            display: none;
+        }
+    }
+}
+
+#signin {
+    height: 40px;
+    width: 100%;
+    margin-bottom: 60px;
+    display: table;
+
+    #signin-message {
+        display: table-cell;
+        vertical-align: middle;
+        width: 100%;
+
+        p {
+            text-align: center;
+            margin: 0;
+        }
+    }
+}
+
+#loader {
+    display: none;
+    pointer-events: none;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+    margin: 40px auto;
+    border-radius: 50%;
+}
+
+#items > div {
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: $breakpoint-med) {
+    #signin {
+        #signin-message {
+            display: table-cell;
+            vertical-align: middle;
+            width: 100%;
+            padding: 0 10px;
+        }
+
+        #signin-button {
+            position: static;
+            padding: 0 10px;
+        }
+    }
+}
+
+@media screen and (max-width: $breakpoint-small) {
+    #signin {
+        #signin-message {
+            padding: 5px 10px;
+        }
+    }
+}

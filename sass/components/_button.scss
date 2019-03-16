@@ -1,0 +1,48 @@
+/* Buttons */
+
+button[type='submit'], 
+button[type='reset'],
+button[type='button'] {
+    border: none;
+}
+
+button[type='submit'], 
+button[type='reset'] {
+    float: left;
+    width: 49%;
+    padding: 4px 24px;
+    margin: 40px 0 12px 0;
+}
+
+button[type='reset'] {
+    float: right;
+}
+
+#signin {
+    #signin-button {
+        position: absolute;
+        top: 2px;
+        right: 10px;
+        padding: 0 20px;
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    button[type='button'] {
+        background: none;
+        cursor: pointer;
+        margin: 0;
+    }
+}
+
+/* Media Queries */
+
+@media screen and (max-width: $breakpoint-small) {
+    button[type='submit'], 
+    button[type='reset'] {
+        padding: 4px 24px;
+        margin: 30px 0 6px 0;
+    }
+}

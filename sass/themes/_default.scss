@@ -1,0 +1,289 @@
+/* Default Theme */
+
+/* Text Color */
+
+body {
+    background: $primary;
+    color: $text;
+}
+
+h1, 
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $heading;
+}
+
+h1 > a {
+    &:link, &:active, &:visited {
+        color: $heading;
+    }
+
+    &:hover {
+        color: darken($heading, 30%);
+    }
+}
+
+p,
+td {
+    color: $text;
+}
+
+th {
+    color: $heading;
+}
+
+a {
+    &:link {
+        color: $link;
+    }
+
+    &:active, &:hover, &:visited {
+        color: lighten($link, 5%);
+    }
+}
+
+ul {
+    li {
+        color: darken($text, 20%);
+
+        &.valid {
+            color: $valid !important;
+        }
+
+        &.invalid {
+            color: $invalid !important;
+        }
+    }
+}
+
+/* Form Color */
+
+#forms {
+    background: $secondary;
+}
+
+input[type="radio"] + label {
+    background: $primary;
+    color: $purple-accent;
+    border-bottom: 2px solid $border;
+}
+
+input[type="radio"]:hover + label {
+    color: lighten($purple-accent, 5%);
+}
+
+input[type="radio"]:checked + label {
+    color: $purple-accent;
+    background: $secondary;
+    border-top: 2px solid $border;
+    border-left: 2px solid $border;
+    border-right: 2px solid $border;
+    border-bottom: none;
+}
+
+input[type=text],
+input[type=number],
+select,
+textarea {
+    background: $secondary;
+    color: $text;
+    border: 1px solid lighten($input, 10%);
+    outline: 1px solid transparent;
+    box-shadow: none;
+
+    &:hover {
+        border: 1px solid lighten($input, 20%);
+        outline: 1px solid transparent;
+        box-shadow: none;
+    }
+
+    &:focus {
+        border: 1px solid lighten($input, 30%);
+        outline: 1px solid transparent;
+        box-shadow: none;
+    }
+
+    &:invalid {
+        box-shadow: none;
+    }
+
+    &:-moz-submit-invalid {
+        box-shadow: none;
+    }
+
+    &:-moz-ui-invalid {
+        box-shadow: none;
+    }
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+textarea:-webkit-autofill:active,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus,
+select:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0 20px $secondary inset !important;
+    -webkit-text-fill-color: $text !important;
+}
+
+option:not(:checked) {
+    color: $text;
+}
+
+input[type=text],
+input[type=number],
+select,
+textarea, {
+    &.valid {
+        border: 1px solid $valid !important;
+        outline: 1px solid transparent !important;
+    }
+
+    &.invalid {
+        border: 1px solid $invalid !important;
+        outline: 1px solid transparent !important;
+    }
+}
+
+::-webkit-input-placeholder {
+    color: $placeholder;
+    opacity: 0.5;
+}
+:-moz-placeholder {
+    color: $placeholder;
+    opacity: 0.5;
+}
+::-moz-placeholder {
+    color: $placeholder;
+    opacity: 0.5;
+}
+:-ms-input-placeholder {
+    color: $placeholder !important;
+    opacity: 0.5;
+}
+
+select {
+    background: url('../images/downarrow.png') 97% / 16px no-repeat $secondary;
+
+    &:invalid {
+        color: rgba($placeholder, 0.5);
+    }
+    
+    [disabled] {
+        color: rgba($placeholder, 0.5);
+    }
+
+    &:-moz-focusring {
+        color: transparent;
+        text-shadow: 0 0 0 $text;
+    }
+}
+
+/* Button Color */
+
+button[type="submit"], button[type="reset"], button[type="button"] {
+    color: $buttontext;
+}
+
+button[type="submit"] {
+    background-color: $submitbutton;
+
+    &:focus, &:hover {
+        background-color: darken($submitbutton, 5%);
+    }
+
+    &:active, &:visited {
+        background-color: $submitbutton;
+    }
+}
+
+button[type="reset"] {
+    background-color: $resetbutton;
+
+    &:focus, &:hover {
+        background-color: darken($resetbutton, 5%);
+    }
+
+    &:active, &:visited {
+        background-color: $resetbutton;
+    }
+}
+
+button[type="button"] {
+    &:focus, &:hover {
+        color: darken($buttontext, 30%);
+    }
+
+    &:active, &:visited {
+        color: darken($buttontext, 30%);
+    }  
+}
+
+/* Table Color */
+
+table {
+    border: 2px solid $table;
+}
+
+th {
+    background-color: $table;
+}
+
+tr:nth-child(even) {
+    background-color: $secondary;
+}
+
+/* Modals */
+
+#signin {
+    background: $secondary;
+}
+
+/* Loader */
+
+#loader {
+    border: 8px solid transparent;
+    border-color: $secondary;
+    border-top-color: $border;
+}
+
+/* Footer */
+
+footer {
+    background: $secondary;
+
+    p {
+        color: $placeholder;
+    }
+}
+
+/* Media Queries */
+
+@media screen and (max-width: $breakpoint-med) {
+    select {
+        background: url('../images/downarrow.png') 95% / 16px no-repeat $secondary;
+    }
+}
+
+@media screen and (max-width: $breakpoint-small) {
+    #signin {
+        #signin-button {
+            background: $submitbutton;
+        }
+    }
+}
+
+@media screen and (min-width:0\0) {
+    select {
+        background: none\9;
+    } 
+}
