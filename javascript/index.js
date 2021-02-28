@@ -163,7 +163,7 @@ function validateIndex() {
   }
 }
 
-/* A function to visually validate the index */
+/* A function to visually validate the league */
 
 function validateLeague() {
   var league = document.getElementById('league');
